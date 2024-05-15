@@ -235,7 +235,397 @@
                 "question": "Apa kewajiban suami istri menurut hukum?"
             }
         ]
-      }
+      },
+      {
+          "context": "Persiapan pernikahan melibatkan banyak hal, mulai dari menentukan tanggal dan tempat, hingga mempersiapkan undangan, gaun pengantin, dan dekorasi. Pasangan yang akan menikah sering kali dibantu oleh keluarga dan teman-teman untuk memastikan semua persiapan berjalan lancar. Selain itu, banyak pasangan juga memilih untuk menyewa jasa wedding organizer yang profesional untuk membantu mengelola semua detail acara. Penting bagi pasangan untuk membuat anggaran pernikahan yang realistis dan menentukan prioritas agar tidak melebihi budget yang telah ditentukan. Komunikasi yang baik antara pasangan juga sangat penting selama proses ini, untuk memastikan semua keputusan diambil bersama dan saling memahami harapan masing-masing.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 30,
+                  "text": "menentukan tanggal dan tempat"
+                }
+              ],
+              "id": "23",
+              "question": "Apa saja yang terlibat dalam persiapan pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 153,
+                  "text": "keluarga dan teman-teman"
+                }
+              ],
+              "id": "24",
+              "question": "Siapa yang sering kali membantu pasangan dalam persiapan pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 230,
+                  "text": "wedding organizer"
+                }
+              ],
+              "id": "25",
+              "question": "Apa yang sering disewa pasangan untuk membantu mengelola detail acara pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 343,
+                  "text": "anggaran pernikahan yang realistis"
+                }
+              ],
+              "id": "26",
+              "question": "Apa yang penting dibuat oleh pasangan untuk menghindari melebihi budget?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 489,
+                  "text": "Komunikasi yang baik"
+                }
+              ],
+              "id": "27",
+              "question": "Apa yang sangat penting selama proses persiapan pernikahan?"
+            }
+          ]
+        },
+        {
+          "context": "Upacara pernikahan tradisional di Indonesia memiliki banyak variasi yang mencerminkan keanekaragaman budaya di negara ini. Misalnya, dalam pernikahan adat Jawa, terdapat serangkaian ritual yang harus dilakukan, seperti siraman, midodareni, hingga panggih. Sementara itu, pernikahan adat Batak dikenal dengan prosesi yang melibatkan pemberian ulos kepada pasangan pengantin sebagai simbol restu dari keluarga. Di Bali, pernikahan adat biasanya dilakukan dengan upacara keagamaan di pura dan diiringi dengan tarian tradisional. Setiap upacara pernikahan adat ini memiliki makna dan filosofi tersendiri yang dipegang teguh oleh masyarakatnya.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 49,
+                  "text": "keanekaragaman budaya"
+                }
+              ],
+              "id": "28",
+              "question": "Apa yang mencerminkan upacara pernikahan tradisional di Indonesia?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 103,
+                  "text": "siraman, midodareni, hingga panggih"
+                }
+              ],
+              "id": "29",
+              "question": "Apa saja ritual yang harus dilakukan dalam pernikahan adat Jawa?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 225,
+                  "text": "pemberian ulos kepada pasangan pengantin"
+                }
+              ],
+              "id": "30",
+              "question": "Apa yang dilakukan dalam prosesi pernikahan adat Batak?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 318,
+                  "text": "upacara keagamaan di pura dan diiringi dengan tarian tradisional"
+                }
+              ],
+              "id": "31",
+              "question": "Bagaimana biasanya pernikahan adat dilakukan di Bali?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 404,
+                  "text": "makna dan filosofi tersendiri"
+                }
+              ],
+              "id": "32",
+              "question": "Apa yang dimiliki setiap upacara pernikahan adat di Indonesia?"
+            }
+          ]
+        },
+        {
+          "context": "Mengurus administrasi pernikahan adalah langkah penting yang harus dilakukan pasangan sebelum melangsungkan pernikahan. Di Indonesia, pasangan harus mengajukan permohonan pernikahan ke Kantor Urusan Agama (KUA) bagi yang beragama Islam, atau ke Kantor Catatan Sipil bagi yang beragama lain. Beberapa dokumen yang perlu disiapkan antara lain fotokopi KTP, kartu keluarga, akta kelahiran, dan surat keterangan belum menikah dari kelurahan. Setelah semua dokumen lengkap, pasangan akan mendapatkan surat rekomendasi untuk melangsungkan pernikahan. Proses administrasi ini penting untuk memastikan pernikahan diakui secara hukum dan sah di mata negara.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Mengurus administrasi pernikahan"
+                }
+              ],
+              "id": "33",
+              "question": "Apa langkah penting yang harus dilakukan pasangan sebelum melangsungkan pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 148,
+                  "text": "Kantor Urusan Agama (KUA)"
+                }
+              ],
+              "id": "34",
+              "question": "Ke mana pasangan beragama Islam harus mengajukan permohonan pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 188,
+                  "text": "Kantor Catatan Sipil"
+                }
+              ],
+              "id": "35",
+              "question": "Ke mana pasangan yang beragama lain harus mengajukan permohonan pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 277,
+                  "text": "fotokopi KTP, kartu keluarga, akta kelahiran, dan surat keterangan belum menikah dari kelurahan"
+                }
+              ],
+              "id": "36",
+              "question": "Sebutkan beberapa dokumen yang perlu disiapkan untuk administrasi pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 449,
+                  "text": "surat rekomendasi untuk melangsungkan pernikahan"
+                }
+              ],
+              "id": "37",
+              "question": "Apa yang akan didapatkan pasangan setelah semua dokumen administrasi lengkap?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 519,
+                  "text": "pernikahan diakui secara hukum dan sah di mata negara"
+                }
+              ],
+              "id": "38",
+              "question": "Mengapa proses administrasi pernikahan ini penting?"
+            }
+          ]
+        },
+        {
+          "context": "Resepsi pernikahan adalah momen di mana pasangan merayakan pernikahan mereka bersama keluarga dan teman-teman. Resepsi ini bisa diadakan di berbagai tempat, seperti gedung pertemuan, hotel, atau bahkan di rumah sendiri. Pasangan biasanya memilih tema atau konsep tertentu untuk resepsi mereka, seperti tema tradisional, modern, atau bahkan tema yang lebih unik dan personal. Makanan dan minuman adalah elemen penting dalam resepsi pernikahan, dan sering kali pasangan menyediakan hidangan khas yang mencerminkan budaya atau selera mereka. Selain itu, hiburan seperti musik, tari, atau pertunjukan khusus juga sering disiapkan untuk menghibur para tamu. Tujuan utama dari resepsi pernikahan adalah untuk berbagi kebahagiaan dan menciptakan kenangan indah bersama orang-orang terdekat.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Resepsi pernikahan"
+                }
+              ],
+              "id": "39",
+              "question": "Apa momen di mana pasangan merayakan pernikahan mereka bersama keluarga dan teman-teman?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 71,
+                  "text": "gedung pertemuan, hotel, atau bahkan di rumah sendiri"
+                }
+              ],
+              "id": "40",
+              "question": "Di mana saja resepsi pernikahan bisa diadakan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 176,
+                  "text": "tema atau konsep tertentu"
+                }
+              ],
+              "id": "41",
+              "question": "Apa yang biasanya dipilih pasangan untuk resepsi mereka?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 259,
+                  "text": "makanan dan minuman"
+                }
+              ],
+              "id": "42",
+              "question": "Apa elemen penting dalam resepsi pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 413,
+                  "text": "musik, tari, atau pertunjukan khusus"
+                }
+              ],
+              "id": "43",
+              "question": "Apa jenis hiburan yang sering disiapkan untuk menghibur para tamu dalam resepsi pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 532,
+                  "text": "berbagi kebahagiaan dan menciptakan kenangan indah"
+                }
+              ],
+              "id": "44",
+              "question": "Apa tujuan utama dari resepsi pernikahan?"
+            }
+          ]
+        },
+        {
+          "context": "Perjanjian pranikah adalah kesepakatan tertulis yang dibuat oleh pasangan sebelum menikah, yang mengatur hak dan kewajiban mereka selama pernikahan dan jika terjadi perceraian. Di Indonesia, perjanjian pranikah diatur oleh Undang-Undang Perkawinan dan harus didaftarkan di Kantor Catatan Sipil atau Kantor Urusan Agama. Perjanjian ini dapat mencakup berbagai hal, seperti pembagian harta, tanggung jawab keuangan, dan hak asuh anak. Tujuan utama dari perjanjian pranikah adalah untuk melindungi kepentingan masing-masing pihak dan menghindari perselisihan di masa depan. Meskipun sering dianggap tabu, perjanjian pranikah semakin populer di kalangan pasangan modern yang ingin memastikan kejelasan dan keamanan hukum dalam hubungan mereka.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Perjanjian pranikah"
+                }
+              ],
+              "id": "45",
+              "question": "Apa kesepakatan tertulis yang dibuat oleh pasangan sebelum menikah?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 120,
+                  "text": "Undang-Undang Perkawinan"
+                }
+              ],
+              "id": "46",
+              "question": "Apa yang mengatur perjanjian pranikah di Indonesia?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 174,
+                  "text": "Kantor Catatan Sipil atau Kantor Urusan Agama"
+                }
+              ],
+              "id": "47",
+              "question": "Di mana perjanjian pranikah harus didaftarkan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 236,
+                  "text": "pembagian harta, tanggung jawab keuangan, dan hak asuh anak"
+                }
+              ],
+              "id": "48",
+              "question": "Sebutkan beberapa hal yang dapat dicakup dalam perjanjian pranikah?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 347,
+                  "text": "melindungi kepentingan masing-masing pihak dan menghindari perselisihan di masa depan"
+                }
+              ],
+              "id": "49",
+              "question": "Apa tujuan utama dari perjanjian pranikah?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 486,
+                  "text": "tabu"
+                }
+              ],
+              "id": "50",
+              "question": "Bagaimana perjanjian pranikah sering dianggap?"
+            }
+          ]
+        },
+        {
+          "context": "Pentingnya komunikasi dalam pernikahan tidak bisa diabaikan. Komunikasi yang baik antara suami dan istri adalah kunci untuk menyelesaikan berbagai masalah dan menjaga keharmonisan dalam rumah tangga. Pasangan harus belajar untuk mendengarkan satu sama lain dengan empati dan berbicara dengan jujur serta terbuka. Selain itu, penting juga untuk menghargai perasaan dan pendapat pasangan tanpa menghakimi. Komunikasi yang efektif membantu pasangan untuk lebih memahami kebutuhan dan harapan masing-masing, serta membuat keputusan bersama yang lebih baik. Dengan berkomunikasi secara teratur dan terbuka, pasangan dapat menghindari kesalahpahaman dan konflik yang tidak perlu, serta membangun hubungan yang lebih kuat dan harmonis.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 9,
+                  "text": "komunikasi"
+                }
+              ],
+              "id": "51",
+              "question": "Apa yang tidak bisa diabaikan dalam pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 83,
+                  "text": "kunci untuk menyelesaikan berbagai masalah dan menjaga keharmonisan"
+                }
+              ],
+              "id": "52",
+              "question": "Mengapa komunikasi yang baik antara suami dan istri penting?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 148,
+                  "text": "mendengarkan satu sama lain dengan empati"
+                }
+              ],
+              "id": "53",
+              "question": "Apa yang harus dipelajari oleh pasangan dalam berkomunikasi?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 215,
+                  "text": "berbicara dengan jujur serta terbuka"
+                }
+              ],
+              "id": "54",
+              "question": "Bagaimana pasangan harus berbicara satu sama lain?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 301,
+                  "text": "menghargai perasaan dan pendapat pasangan tanpa menghakimi"
+                }
+              ],
+              "id": "55",
+              "question": "Apa yang penting dilakukan selain mendengarkan dan berbicara dalam komunikasi?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 376,
+                  "text": "lebih memahami kebutuhan dan harapan masing-masing"
+                }
+              ],
+              "id": "56",
+              "question": "Apa manfaat dari komunikasi yang efektif?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 504,
+                  "text": "kesalahpahaman dan konflik yang tidak perlu"
+                }
+              ],
+              "id": "57",
+              "question": "Apa yang bisa dihindari dengan berkomunikasi secara teratur dan terbuka?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 572,
+                  "text": "hubungan yang lebih kuat dan harmonis"
+                }
+              ],
+              "id": "58",
+              "question": "Apa yang bisa dibangun dengan komunikasi yang baik?"
+            }
+          ]
+        }
     ]
   }
 ]
