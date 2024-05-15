@@ -1,0 +1,242 @@
+{
+    "data": [
+      {
+        "paragraphs": [
+          {
+            "context": "Pernikahan adalah sebuah upacara sakral di mana dua orang saling berjanji untuk hidup bersama sebagai pasangan suami istri. Pernikahan dapat diselenggarakan dengan berbagai cara dan adat istiadat, tergantung pada budaya, agama, dan preferensi pribadi pasangan yang akan menikah. Di Indonesia, pernikahan sering kali mencakup prosesi adat yang unik seperti upacara akad nikah untuk pasangan Muslim atau pemberkatan pernikahan di gereja bagi pasangan Kristen. Selain itu, berbagai suku di Indonesia memiliki tradisi pernikahan masing-masing, seperti upacara adat Jawa, Batak, Bali, dan Minangkabau. Setelah upacara resmi, biasanya diadakan resepsi pernikahan di mana keluarga dan teman-teman diundang untuk merayakan bersama pasangan baru. Pernikahan bukan hanya sekedar penyatuan dua individu, tetapi juga dua keluarga besar, dan sering kali melibatkan berbagai persiapan serta biaya yang signifikan. Undangan pernikahan, dekorasi, pakaian pengantin, makanan, dan hiburan adalah beberapa elemen penting yang dipersiapkan dengan matang untuk memastikan acara berjalan lancar dan meninggalkan kesan mendalam bagi semua yang hadir.",
+            "qas": [
+              {
+                "answers": [
+                  {
+                    "answer_start": 35,
+                    "text": "upacara sakral"
+                  }
+                ],
+                "id": "1",
+                "question": "Apa itu pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 387,
+                    "text": "akad nikah"
+                  }
+                ],
+                "id": "2",
+                "question": "Apa nama upacara pernikahan untuk pasangan Muslim di Indonesia?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 428,
+                    "text": "gereja"
+                  }
+                ],
+                "id": "3",
+                "question": "Di mana pemberkatan pernikahan biasanya dilakukan untuk pasangan Kristen?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 540,
+                    "text": "resepsi pernikahan"
+                  }
+                ],
+                "id": "4",
+                "question": "Apa yang biasanya diadakan setelah upacara resmi pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 46,
+                    "text": "dua orang"
+                  }
+                ],
+                "id": "5",
+                "question": "Siapa yang saling berjanji dalam sebuah pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 587,
+                    "text": "dua keluarga besar"
+                  }
+                ],
+                "id": "6",
+                "question": "Selain penyatuan dua individu, apa lagi yang disatukan dalam pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 695,
+                    "text": "undangan pernikahan, dekorasi, pakaian pengantin, makanan, dan hiburan"
+                  }
+                ],
+                "id": "7",
+                "question": "Sebutkan beberapa elemen penting yang dipersiapkan dalam pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 263,
+                    "text": "Jawa, Batak, Bali, dan Minangkabau"
+                  }
+                ],
+                "id": "8",
+                "question": "Sebutkan beberapa suku di Indonesia yang memiliki tradisi pernikahan masing-masing?"
+              }
+            ]
+          },{
+            "context": "Hak dan kewajiban suami istri dalam sebuah pernikahan adalah fondasi penting untuk menjaga keharmonisan dan kestabilan rumah tangga. Salah satu hak suami adalah mendapatkan penghormatan dan dukungan dari istrinya, sementara kewajibannya adalah memberikan nafkah lahir dan batin kepada istri serta keluarga. Selain itu, suami juga memiliki kewajiban untuk melindungi dan memastikan keamanan keluarganya. Istri, di sisi lain, memiliki hak untuk mendapatkan perhatian, kasih sayang, dan perlindungan dari suaminya. Kewajiban istri termasuk mendukung suami dalam segala aspek kehidupan dan menjaga keharmonisan rumah tangga. Keduanya juga memiliki kewajiban bersama untuk mendidik anak-anak mereka dengan nilai-nilai yang baik dan membangun lingkungan keluarga yang sehat. Penting bagi suami istri untuk saling berkomunikasi dan bekerja sama dalam mengelola urusan rumah tangga serta mengatasi masalah yang mungkin timbul. Dengan memahami dan menjalankan hak dan kewajiban masing-masing, pasangan dapat menciptakan hubungan yang harmonis dan saling mendukung.",
+            "qas": [
+              {
+                "answers": [
+                  {
+                    "answer_start": 20,
+                    "text": "fondasi penting"
+                  }
+                ],
+                "id": "9",
+                "question": "Apa yang merupakan fondasi penting untuk menjaga keharmonisan rumah tangga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 94,
+                    "text": "mendapatkan penghormatan dan dukungan dari istrinya"
+                  }
+                ],
+                "id": "10",
+                "question": "Apa salah satu hak suami dalam pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 178,
+                    "text": "memberikan nafkah lahir dan batin kepada istri serta keluarga"
+                  }
+                ],
+                "id": "11",
+                "question": "Apa kewajiban suami dalam pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 456,
+                    "text": "mendapatkan perhatian, kasih sayang, dan perlindungan"
+                  }
+                ],
+                "id": "12",
+                "question": "Apa hak istri dalam pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 678,
+                    "text": "mendidik anak-anak mereka dengan nilai-nilai yang baik"
+                  }
+                ],
+                "id": "13",
+                "question": "Apa kewajiban bersama suami istri?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 313,
+                    "text": "melindungi dan memastikan keamanan keluarganya"
+                  }
+                ],
+                "id": "14",
+                "question": "Apa kewajiban suami selain memberikan nafkah?"
+              }
+            ]
+          },
+          {
+            "context": "Hak dan kewajiban suami istri diatur dalam berbagai agama dan budaya, termasuk dalam hukum negara. Dalam Islam, misalnya, suami memiliki hak untuk ditaati oleh istrinya selama tidak bertentangan dengan ajaran agama, sementara kewajibannya adalah memberi nafkah dan memperlakukan istri dengan baik. Istri memiliki hak untuk mendapatkan perlindungan dan kasih sayang dari suaminya, serta kewajiban untuk mengelola rumah tangga dan mendidik anak-anak. Di dalam hukum perdata Indonesia, suami istri memiliki hak yang sama dalam perkawinan dan tanggung jawab bersama terhadap keluarga. Hak-hak ini mencakup hak untuk hidup bersama, saling mencintai dan menghormati, serta bekerja sama dalam hal ekonomi dan pendidikan anak. Kewajiban suami istri menurut hukum termasuk setia dan saling membantu dalam segala aspek kehidupan rumah tangga. Memahami hak dan kewajiban ini sangat penting agar tidak terjadi ketimpangan dalam hubungan, dan keduanya dapat berkontribusi secara adil dan seimbang dalam keluarga.",
+            "qas": [
+              {
+                "answers": [
+                  {
+                    "answer_start": 50,
+                    "text": "agama dan budaya"
+                  }
+                ],
+                "id": "15",
+                "question": "Dalam konteks apa hak dan kewajiban suami istri diatur?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 89,
+                    "text": "hukum negara"
+                  }
+                ],
+                "id": "16",
+                "question": "Selain agama dan budaya, dalam konteks apa lagi hak dan kewajiban suami istri diatur?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 160,
+                    "text": "ditaati oleh istrinya selama tidak bertentangan dengan ajaran agama"
+                  }
+                ],
+                "id": "17",
+                "question": "Apa hak suami dalam Islam?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 239,
+                    "text": "memberi nafkah dan memperlakukan istri dengan baik"
+                  }
+                ],
+                "id": "18",
+                "question": "Apa kewajiban suami dalam Islam?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 434,
+                    "text": "mengelola rumah tangga dan mendidik anak-anak"
+                  }
+                ],
+                "id": "19",
+                "question": "Apa kewajiban istri dalam Islam?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 507,
+                    "text": "hukum perdata Indonesia"
+                  }
+                ],
+                "id": "20",
+                "question": "Dalam konteks hukum negara, sebutkan satu hukum yang mengatur hak dan kewajiban suami istri?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 584,
+                    "text": "hak untuk hidup bersama, saling mencintai dan menghormati"
+                  }
+                ],
+                "id": "21",
+                "question": "Sebutkan satu hak yang dimiliki suami istri menurut hukum perdata Indonesia?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 727,
+                    "text": "setia dan saling membantu dalam segala aspek kehidupan rumah tangga"
+                  }
+                ],
+                "id": "22",
+                "question": "Apa kewajiban suami istri menurut hukum?"
+            }
+        ]
+      }
+    ]
+  }
+]
+}
