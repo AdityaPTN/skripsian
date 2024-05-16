@@ -1,7 +1,5 @@
 {
     "data": [
-      {
-        "paragraphs": [
           {
             "context": "Pernikahan adalah sebuah upacara sakral di mana dua orang saling berjanji untuk hidup bersama sebagai pasangan suami istri. Pernikahan dapat diselenggarakan dengan berbagai cara dan adat istiadat, tergantung pada budaya, agama, dan preferensi pribadi pasangan yang akan menikah. Di Indonesia, pernikahan sering kali mencakup prosesi adat yang unik seperti upacara akad nikah untuk pasangan Muslim atau pemberkatan pernikahan di gereja bagi pasangan Kristen. Selain itu, berbagai suku di Indonesia memiliki tradisi pernikahan masing-masing, seperti upacara adat Jawa, Batak, Bali, dan Minangkabau. Setelah upacara resmi, biasanya diadakan resepsi pernikahan di mana keluarga dan teman-teman diundang untuk merayakan bersama pasangan baru. Pernikahan bukan hanya sekedar penyatuan dua individu, tetapi juga dua keluarga besar, dan sering kali melibatkan berbagai persiapan serta biaya yang signifikan. Undangan pernikahan, dekorasi, pakaian pengantin, makanan, dan hiburan adalah beberapa elemen penting yang dipersiapkan dengan matang untuk memastikan acara berjalan lancar dan meninggalkan kesan mendalam bagi semua yang hadir.",
             "qas": [
@@ -2370,5 +2368,3 @@
         }
     ]
   }
-]
-}
