@@ -1,0 +1,4218 @@
+{
+    "data": [
+      {
+        "paragraphs": [
+          {
+            "context": "Pernikahan adalah sebuah upacara sakral di mana dua orang saling berjanji untuk hidup bersama sebagai pasangan suami istri. Pernikahan dapat diselenggarakan dengan berbagai cara dan adat istiadat, tergantung pada budaya, agama, dan preferensi pribadi pasangan yang akan menikah. Di Indonesia, pernikahan sering kali mencakup prosesi adat yang unik seperti upacara akad nikah untuk pasangan Muslim atau pemberkatan pernikahan di gereja bagi pasangan Kristen. Selain itu, berbagai suku di Indonesia memiliki tradisi pernikahan masing-masing, seperti upacara adat Jawa, Batak, Bali, dan Minangkabau. Setelah upacara resmi, biasanya diadakan resepsi pernikahan di mana keluarga dan teman-teman diundang untuk merayakan bersama pasangan baru. Pernikahan bukan hanya sekedar penyatuan dua individu, tetapi juga dua keluarga besar, dan sering kali melibatkan berbagai persiapan serta biaya yang signifikan. Undangan pernikahan, dekorasi, pakaian pengantin, makanan, dan hiburan adalah beberapa elemen penting yang dipersiapkan dengan matang untuk memastikan acara berjalan lancar dan meninggalkan kesan mendalam bagi semua yang hadir.",
+            "qas": [
+              {
+                "answers": [
+                  {
+                    "answer_start": 35,
+                    "text": "upacara sakral"
+                  }
+                ],
+                "id": "1",
+                "question": "Apa itu pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 387,
+                    "text": "akad nikah"
+                  }
+                ],
+                "id": "2",
+                "question": "Apa nama upacara pernikahan untuk pasangan Muslim di Indonesia?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 428,
+                    "text": "gereja"
+                  }
+                ],
+                "id": "3",
+                "question": "Di mana pemberkatan pernikahan biasanya dilakukan untuk pasangan Kristen?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 540,
+                    "text": "resepsi pernikahan"
+                  }
+                ],
+                "id": "4",
+                "question": "Apa yang biasanya diadakan setelah upacara resmi pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 46,
+                    "text": "dua orang"
+                  }
+                ],
+                "id": "5",
+                "question": "Siapa yang saling berjanji dalam sebuah pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 587,
+                    "text": "dua keluarga besar"
+                  }
+                ],
+                "id": "6",
+                "question": "Selain penyatuan dua individu, apa lagi yang disatukan dalam pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 695,
+                    "text": "undangan pernikahan, dekorasi, pakaian pengantin, makanan, dan hiburan"
+                  }
+                ],
+                "id": "7",
+                "question": "Sebutkan beberapa elemen penting yang dipersiapkan dalam pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 263,
+                    "text": "Jawa, Batak, Bali, dan Minangkabau"
+                  }
+                ],
+                "id": "8",
+                "question": "Sebutkan beberapa suku di Indonesia yang memiliki tradisi pernikahan masing-masing?"
+              }
+            ]
+          },{
+            "context": "Hak dan kewajiban suami istri dalam sebuah pernikahan adalah fondasi penting untuk menjaga keharmonisan dan kestabilan rumah tangga. Salah satu hak suami adalah mendapatkan penghormatan dan dukungan dari istrinya, sementara kewajibannya adalah memberikan nafkah lahir dan batin kepada istri serta keluarga. Selain itu, suami juga memiliki kewajiban untuk melindungi dan memastikan keamanan keluarganya. Istri, di sisi lain, memiliki hak untuk mendapatkan perhatian, kasih sayang, dan perlindungan dari suaminya. Kewajiban istri termasuk mendukung suami dalam segala aspek kehidupan dan menjaga keharmonisan rumah tangga. Keduanya juga memiliki kewajiban bersama untuk mendidik anak-anak mereka dengan nilai-nilai yang baik dan membangun lingkungan keluarga yang sehat. Penting bagi suami istri untuk saling berkomunikasi dan bekerja sama dalam mengelola urusan rumah tangga serta mengatasi masalah yang mungkin timbul. Dengan memahami dan menjalankan hak dan kewajiban masing-masing, pasangan dapat menciptakan hubungan yang harmonis dan saling mendukung.",
+            "qas": [
+              {
+                "answers": [
+                  {
+                    "answer_start": 20,
+                    "text": "fondasi penting"
+                  }
+                ],
+                "id": "9",
+                "question": "Apa yang merupakan fondasi penting untuk menjaga keharmonisan rumah tangga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 94,
+                    "text": "mendapatkan penghormatan dan dukungan dari istrinya"
+                  }
+                ],
+                "id": "10",
+                "question": "Apa salah satu hak suami dalam pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 178,
+                    "text": "memberikan nafkah lahir dan batin kepada istri serta keluarga"
+                  }
+                ],
+                "id": "11",
+                "question": "Apa kewajiban suami dalam pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 456,
+                    "text": "mendapatkan perhatian, kasih sayang, dan perlindungan"
+                  }
+                ],
+                "id": "12",
+                "question": "Apa hak istri dalam pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 678,
+                    "text": "mendidik anak-anak mereka dengan nilai-nilai yang baik"
+                  }
+                ],
+                "id": "13",
+                "question": "Apa kewajiban bersama suami istri?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 313,
+                    "text": "melindungi dan memastikan keamanan keluarganya"
+                  }
+                ],
+                "id": "14",
+                "question": "Apa kewajiban suami selain memberikan nafkah?"
+              }
+            ]
+          },
+          {
+            "context": "Hak dan kewajiban suami istri diatur dalam berbagai agama dan budaya, termasuk dalam hukum negara. Dalam Islam, misalnya, suami memiliki hak untuk ditaati oleh istrinya selama tidak bertentangan dengan ajaran agama, sementara kewajibannya adalah memberi nafkah dan memperlakukan istri dengan baik. Istri memiliki hak untuk mendapatkan perlindungan dan kasih sayang dari suaminya, serta kewajiban untuk mengelola rumah tangga dan mendidik anak-anak. Di dalam hukum perdata Indonesia, suami istri memiliki hak yang sama dalam perkawinan dan tanggung jawab bersama terhadap keluarga. Hak-hak ini mencakup hak untuk hidup bersama, saling mencintai dan menghormati, serta bekerja sama dalam hal ekonomi dan pendidikan anak. Kewajiban suami istri menurut hukum termasuk setia dan saling membantu dalam segala aspek kehidupan rumah tangga. Memahami hak dan kewajiban ini sangat penting agar tidak terjadi ketimpangan dalam hubungan, dan keduanya dapat berkontribusi secara adil dan seimbang dalam keluarga.",
+            "qas": [
+              {
+                "answers": [
+                  {
+                    "answer_start": 50,
+                    "text": "agama dan budaya"
+                  }
+                ],
+                "id": "15",
+                "question": "Dalam konteks apa hak dan kewajiban suami istri diatur?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 89,
+                    "text": "hukum negara"
+                  }
+                ],
+                "id": "16",
+                "question": "Selain agama dan budaya, dalam konteks apa lagi hak dan kewajiban suami istri diatur?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 160,
+                    "text": "ditaati oleh istrinya selama tidak bertentangan dengan ajaran agama"
+                  }
+                ],
+                "id": "17",
+                "question": "Apa hak suami dalam Islam?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 239,
+                    "text": "memberi nafkah dan memperlakukan istri dengan baik"
+                  }
+                ],
+                "id": "18",
+                "question": "Apa kewajiban suami dalam Islam?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 434,
+                    "text": "mengelola rumah tangga dan mendidik anak-anak"
+                  }
+                ],
+                "id": "19",
+                "question": "Apa kewajiban istri dalam Islam?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 507,
+                    "text": "hukum perdata Indonesia"
+                  }
+                ],
+                "id": "20",
+                "question": "Dalam konteks hukum negara, sebutkan satu hukum yang mengatur hak dan kewajiban suami istri?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 584,
+                    "text": "hak untuk hidup bersama, saling mencintai dan menghormati"
+                  }
+                ],
+                "id": "21",
+                "question": "Sebutkan satu hak yang dimiliki suami istri menurut hukum perdata Indonesia?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 727,
+                    "text": "setia dan saling membantu dalam segala aspek kehidupan rumah tangga"
+                  }
+                ],
+                "id": "22",
+                "question": "Apa kewajiban suami istri menurut hukum?"
+            }
+        ]
+      },
+      {
+          "context": "Persiapan pernikahan melibatkan banyak hal, mulai dari menentukan tanggal dan tempat, hingga mempersiapkan undangan, gaun pengantin, dan dekorasi. Pasangan yang akan menikah sering kali dibantu oleh keluarga dan teman-teman untuk memastikan semua persiapan berjalan lancar. Selain itu, banyak pasangan juga memilih untuk menyewa jasa wedding organizer yang profesional untuk membantu mengelola semua detail acara. Penting bagi pasangan untuk membuat anggaran pernikahan yang realistis dan menentukan prioritas agar tidak melebihi budget yang telah ditentukan. Komunikasi yang baik antara pasangan juga sangat penting selama proses ini, untuk memastikan semua keputusan diambil bersama dan saling memahami harapan masing-masing.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 30,
+                  "text": "menentukan tanggal dan tempat"
+                }
+              ],
+              "id": "23",
+              "question": "Apa saja yang terlibat dalam persiapan pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 153,
+                  "text": "keluarga dan teman-teman"
+                }
+              ],
+              "id": "24",
+              "question": "Siapa yang sering kali membantu pasangan dalam persiapan pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 230,
+                  "text": "wedding organizer"
+                }
+              ],
+              "id": "25",
+              "question": "Apa yang sering disewa pasangan untuk membantu mengelola detail acara pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 343,
+                  "text": "anggaran pernikahan yang realistis"
+                }
+              ],
+              "id": "26",
+              "question": "Apa yang penting dibuat oleh pasangan untuk menghindari melebihi budget?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 489,
+                  "text": "Komunikasi yang baik"
+                }
+              ],
+              "id": "27",
+              "question": "Apa yang sangat penting selama proses persiapan pernikahan?"
+            }
+          ]
+        },
+        {
+          "context": "Upacara pernikahan tradisional di Indonesia memiliki banyak variasi yang mencerminkan keanekaragaman budaya di negara ini. Misalnya, dalam pernikahan adat Jawa, terdapat serangkaian ritual yang harus dilakukan, seperti siraman, midodareni, hingga panggih. Sementara itu, pernikahan adat Batak dikenal dengan prosesi yang melibatkan pemberian ulos kepada pasangan pengantin sebagai simbol restu dari keluarga. Di Bali, pernikahan adat biasanya dilakukan dengan upacara keagamaan di pura dan diiringi dengan tarian tradisional. Setiap upacara pernikahan adat ini memiliki makna dan filosofi tersendiri yang dipegang teguh oleh masyarakatnya.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 49,
+                  "text": "keanekaragaman budaya"
+                }
+              ],
+              "id": "28",
+              "question": "Apa yang mencerminkan upacara pernikahan tradisional di Indonesia?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 103,
+                  "text": "siraman, midodareni, hingga panggih"
+                }
+              ],
+              "id": "29",
+              "question": "Apa saja ritual yang harus dilakukan dalam pernikahan adat Jawa?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 225,
+                  "text": "pemberian ulos kepada pasangan pengantin"
+                }
+              ],
+              "id": "30",
+              "question": "Apa yang dilakukan dalam prosesi pernikahan adat Batak?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 318,
+                  "text": "upacara keagamaan di pura dan diiringi dengan tarian tradisional"
+                }
+              ],
+              "id": "31",
+              "question": "Bagaimana biasanya pernikahan adat dilakukan di Bali?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 404,
+                  "text": "makna dan filosofi tersendiri"
+                }
+              ],
+              "id": "32",
+              "question": "Apa yang dimiliki setiap upacara pernikahan adat di Indonesia?"
+            }
+          ]
+        },
+        {
+          "context": "Mengurus administrasi pernikahan adalah langkah penting yang harus dilakukan pasangan sebelum melangsungkan pernikahan. Di Indonesia, pasangan harus mengajukan permohonan pernikahan ke Kantor Urusan Agama (KUA) bagi yang beragama Islam, atau ke Kantor Catatan Sipil bagi yang beragama lain. Beberapa dokumen yang perlu disiapkan antara lain fotokopi KTP, kartu keluarga, akta kelahiran, dan surat keterangan belum menikah dari kelurahan. Setelah semua dokumen lengkap, pasangan akan mendapatkan surat rekomendasi untuk melangsungkan pernikahan. Proses administrasi ini penting untuk memastikan pernikahan diakui secara hukum dan sah di mata negara.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Mengurus administrasi pernikahan"
+                }
+              ],
+              "id": "33",
+              "question": "Apa langkah penting yang harus dilakukan pasangan sebelum melangsungkan pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 148,
+                  "text": "Kantor Urusan Agama (KUA)"
+                }
+              ],
+              "id": "34",
+              "question": "Ke mana pasangan beragama Islam harus mengajukan permohonan pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 188,
+                  "text": "Kantor Catatan Sipil"
+                }
+              ],
+              "id": "35",
+              "question": "Ke mana pasangan yang beragama lain harus mengajukan permohonan pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 277,
+                  "text": "fotokopi KTP, kartu keluarga, akta kelahiran, dan surat keterangan belum menikah dari kelurahan"
+                }
+              ],
+              "id": "36",
+              "question": "Sebutkan beberapa dokumen yang perlu disiapkan untuk administrasi pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 449,
+                  "text": "surat rekomendasi untuk melangsungkan pernikahan"
+                }
+              ],
+              "id": "37",
+              "question": "Apa yang akan didapatkan pasangan setelah semua dokumen administrasi lengkap?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 519,
+                  "text": "pernikahan diakui secara hukum dan sah di mata negara"
+                }
+              ],
+              "id": "38",
+              "question": "Mengapa proses administrasi pernikahan ini penting?"
+            }
+          ]
+        },
+        {
+          "context": "Resepsi pernikahan adalah momen di mana pasangan merayakan pernikahan mereka bersama keluarga dan teman-teman. Resepsi ini bisa diadakan di berbagai tempat, seperti gedung pertemuan, hotel, atau bahkan di rumah sendiri. Pasangan biasanya memilih tema atau konsep tertentu untuk resepsi mereka, seperti tema tradisional, modern, atau bahkan tema yang lebih unik dan personal. Makanan dan minuman adalah elemen penting dalam resepsi pernikahan, dan sering kali pasangan menyediakan hidangan khas yang mencerminkan budaya atau selera mereka. Selain itu, hiburan seperti musik, tari, atau pertunjukan khusus juga sering disiapkan untuk menghibur para tamu. Tujuan utama dari resepsi pernikahan adalah untuk berbagi kebahagiaan dan menciptakan kenangan indah bersama orang-orang terdekat.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Resepsi pernikahan"
+                }
+              ],
+              "id": "39",
+              "question": "Apa momen di mana pasangan merayakan pernikahan mereka bersama keluarga dan teman-teman?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 71,
+                  "text": "gedung pertemuan, hotel, atau bahkan di rumah sendiri"
+                }
+              ],
+              "id": "40",
+              "question": "Di mana saja resepsi pernikahan bisa diadakan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 176,
+                  "text": "tema atau konsep tertentu"
+                }
+              ],
+              "id": "41",
+              "question": "Apa yang biasanya dipilih pasangan untuk resepsi mereka?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 259,
+                  "text": "makanan dan minuman"
+                }
+              ],
+              "id": "42",
+              "question": "Apa elemen penting dalam resepsi pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 413,
+                  "text": "musik, tari, atau pertunjukan khusus"
+                }
+              ],
+              "id": "43",
+              "question": "Apa jenis hiburan yang sering disiapkan untuk menghibur para tamu dalam resepsi pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 532,
+                  "text": "berbagi kebahagiaan dan menciptakan kenangan indah"
+                }
+              ],
+              "id": "44",
+              "question": "Apa tujuan utama dari resepsi pernikahan?"
+            }
+          ]
+        },
+        {
+          "context": "Perjanjian pranikah adalah kesepakatan tertulis yang dibuat oleh pasangan sebelum menikah, yang mengatur hak dan kewajiban mereka selama pernikahan dan jika terjadi perceraian. Di Indonesia, perjanjian pranikah diatur oleh Undang-Undang Perkawinan dan harus didaftarkan di Kantor Catatan Sipil atau Kantor Urusan Agama. Perjanjian ini dapat mencakup berbagai hal, seperti pembagian harta, tanggung jawab keuangan, dan hak asuh anak. Tujuan utama dari perjanjian pranikah adalah untuk melindungi kepentingan masing-masing pihak dan menghindari perselisihan di masa depan. Meskipun sering dianggap tabu, perjanjian pranikah semakin populer di kalangan pasangan modern yang ingin memastikan kejelasan dan keamanan hukum dalam hubungan mereka.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Perjanjian pranikah"
+                }
+              ],
+              "id": "45",
+              "question": "Apa kesepakatan tertulis yang dibuat oleh pasangan sebelum menikah?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 120,
+                  "text": "Undang-Undang Perkawinan"
+                }
+              ],
+              "id": "46",
+              "question": "Apa yang mengatur perjanjian pranikah di Indonesia?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 174,
+                  "text": "Kantor Catatan Sipil atau Kantor Urusan Agama"
+                }
+              ],
+              "id": "47",
+              "question": "Di mana perjanjian pranikah harus didaftarkan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 236,
+                  "text": "pembagian harta, tanggung jawab keuangan, dan hak asuh anak"
+                }
+              ],
+              "id": "48",
+              "question": "Sebutkan beberapa hal yang dapat dicakup dalam perjanjian pranikah?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 347,
+                  "text": "melindungi kepentingan masing-masing pihak dan menghindari perselisihan di masa depan"
+                }
+              ],
+              "id": "49",
+              "question": "Apa tujuan utama dari perjanjian pranikah?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 486,
+                  "text": "tabu"
+                }
+              ],
+              "id": "50",
+              "question": "Bagaimana perjanjian pranikah sering dianggap?"
+            }
+          ]
+        },
+        {
+          "context": "Pentingnya komunikasi dalam pernikahan tidak bisa diabaikan. Komunikasi yang baik antara suami dan istri adalah kunci untuk menyelesaikan berbagai masalah dan menjaga keharmonisan dalam rumah tangga. Pasangan harus belajar untuk mendengarkan satu sama lain dengan empati dan berbicara dengan jujur serta terbuka. Selain itu, penting juga untuk menghargai perasaan dan pendapat pasangan tanpa menghakimi. Komunikasi yang efektif membantu pasangan untuk lebih memahami kebutuhan dan harapan masing-masing, serta membuat keputusan bersama yang lebih baik. Dengan berkomunikasi secara teratur dan terbuka, pasangan dapat menghindari kesalahpahaman dan konflik yang tidak perlu, serta membangun hubungan yang lebih kuat dan harmonis.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 9,
+                  "text": "komunikasi"
+                }
+              ],
+              "id": "51",
+              "question": "Apa yang tidak bisa diabaikan dalam pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 83,
+                  "text": "kunci untuk menyelesaikan berbagai masalah dan menjaga keharmonisan"
+                }
+              ],
+              "id": "52",
+              "question": "Mengapa komunikasi yang baik antara suami dan istri penting?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 148,
+                  "text": "mendengarkan satu sama lain dengan empati"
+                }
+              ],
+              "id": "53",
+              "question": "Apa yang harus dipelajari oleh pasangan dalam berkomunikasi?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 215,
+                  "text": "berbicara dengan jujur serta terbuka"
+                }
+              ],
+              "id": "54",
+              "question": "Bagaimana pasangan harus berbicara satu sama lain?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 301,
+                  "text": "menghargai perasaan dan pendapat pasangan tanpa menghakimi"
+                }
+              ],
+              "id": "55",
+              "question": "Apa yang penting dilakukan selain mendengarkan dan berbicara dalam komunikasi?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 376,
+                  "text": "lebih memahami kebutuhan dan harapan masing-masing"
+                }
+              ],
+              "id": "56",
+              "question": "Apa manfaat dari komunikasi yang efektif?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 504,
+                  "text": "kesalahpahaman dan konflik yang tidak perlu"
+                }
+              ],
+              "id": "57",
+              "question": "Apa yang bisa dihindari dengan berkomunikasi secara teratur dan terbuka?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 572,
+                  "text": "hubungan yang lebih kuat dan harmonis"
+                }
+              ],
+              "id": "58",
+              "question": "Apa yang bisa dibangun dengan komunikasi yang baik?"
+            }
+          ]
+        },{
+          "context": "Rukun pernikahan dalam Islam sangat penting untuk dipahami dan diikuti agar pernikahan dianggap sah menurut syariat. Rukun pertama adalah adanya calon mempelai pria dan wanita yang telah memenuhi syarat sah pernikahan, seperti baligh, berakal, dan tidak berada dalam ikatan pernikahan lain. Rukun kedua adalah adanya wali dari pihak mempelai wanita. Wali haruslah seorang laki-laki yang memenuhi syarat tertentu, seperti beragama Islam dan berakal. Rukun ketiga adalah adanya dua orang saksi laki-laki yang adil dan beragama Islam. Saksi-saksi ini berperan penting dalam mengesahkan pernikahan. Rukun keempat adalah ijab kabul, yaitu pernyataan akad nikah antara wali dan mempelai pria. Pernyataan ini harus jelas dan tegas. Dengan memahami dan memenuhi rukun-rukun ini, pernikahan akan dianggap sah dalam pandangan agama Islam.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 17,
+                  "text": "Islam"
+                }
+              ],
+              "id": "59",
+              "question": "Rukun pernikahan ini penting dalam agama apa?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 70,
+                  "text": "calon mempelai pria dan wanita"
+                }
+              ],
+              "id": "60",
+              "question": "Apa rukun pertama pernikahan dalam Islam?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 191,
+                  "text": "baligh, berakal, dan tidak berada dalam ikatan pernikahan lain"
+                }
+              ],
+              "id": "61",
+              "question": "Apa syarat sah pernikahan untuk mempelai pria dan wanita?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 270,
+                  "text": "wali"
+                }
+              ],
+              "id": "62",
+              "question": "Apa rukun kedua pernikahan dalam Islam?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 327,
+                  "text": "beragama Islam dan berakal"
+                }
+              ],
+              "id": "63",
+              "question": "Apa syarat yang harus dipenuhi oleh wali?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 395,
+                  "text": "dua orang saksi laki-laki yang adil dan beragama Islam"
+                }
+              ],
+              "id": "64",
+              "question": "Apa rukun ketiga pernikahan dalam Islam?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 498,
+                  "text": "ijab kabul"
+                }
+              ],
+              "id": "65",
+              "question": "Apa rukun keempat pernikahan dalam Islam?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 544,
+                  "text": "pernyataan akad nikah antara wali dan mempelai pria"
+                }
+              ],
+              "id": "66",
+              "question": "Apa yang dimaksud dengan ijab kabul?"
+            }
+          ]
+        },
+        {
+          "context": "Selain rukun-rukun yang harus dipenuhi, pernikahan dalam Islam juga memiliki syarat-syarat yang tidak boleh diabaikan. Salah satunya adalah mahar atau mas kawin yang diberikan oleh mempelai pria kepada mempelai wanita. Mahar ini bisa berupa uang, emas, atau benda berharga lainnya sesuai kesepakatan kedua belah pihak. Syarat lainnya adalah adanya kerelaan dan persetujuan dari kedua mempelai tanpa adanya paksaan. Pernikahan juga harus diumumkan secara terbuka kepada masyarakat sebagai tanda bahwa hubungan tersebut sah. Selain itu, waktu dan tempat pelaksanaan pernikahan harus disesuaikan dengan ketentuan yang berlaku, dan pelaksanaannya tidak boleh bertentangan dengan ajaran agama Islam.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 72,
+                  "text": "syarat-syarat"
+                }
+              ],
+              "id": "67",
+              "question": "Selain rukun-rukun, apa yang juga harus dipenuhi dalam pernikahan Islam?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 126,
+                  "text": "mahar atau mas kawin"
+                }
+              ],
+              "id": "68",
+              "question": "Apa yang harus diberikan oleh mempelai pria kepada mempelai wanita?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 218,
+                  "text": "uang, emas, atau benda berharga lainnya"
+                }
+              ],
+              "id": "69",
+              "question": "Apa saja bentuk mahar yang bisa diberikan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 301,
+                  "text": "kesepakatan kedua belah pihak"
+                }
+              ],
+              "id": "70",
+              "question": "Mahar diberikan sesuai dengan apa?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 358,
+                  "text": "kerelaan dan persetujuan dari kedua mempelai tanpa adanya paksaan"
+                }
+              ],
+              "id": "71",
+              "question": "Apa syarat lainnya dalam pernikahan Islam selain mahar?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 432,
+                  "text": "diumumkan secara terbuka kepada masyarakat"
+                }
+              ],
+              "id": "72",
+              "question": "Apa yang harus dilakukan sebagai tanda bahwa hubungan pernikahan sah?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 533,
+                  "text": "waktu dan tempat pelaksanaan pernikahan"
+                }
+              ],
+              "id": "73",
+              "question": "Apa yang harus disesuaikan dengan ketentuan yang berlaku dalam pernikahan Islam?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 610,
+                  "text": "tidak boleh bertentangan dengan ajaran agama Islam"
+                }
+              ],
+              "id": "74",
+              "question": "Pelaksanaan pernikahan tidak boleh bertentangan dengan apa?"
+            }
+          ]
+        },
+        {
+          "context": "Dalam pernikahan Kristen, terdapat beberapa rukun yang harus dipenuhi untuk mengesahkan pernikahan tersebut menurut ajaran agama. Rukun pertama adalah adanya calon mempelai pria dan wanita yang beriman kepada Yesus Kristus dan telah dibaptis. Rukun kedua adalah adanya janji pernikahan yang diucapkan oleh kedua mempelai di hadapan pendeta atau pejabat gereja yang berwenang. Rukun ketiga adalah pemberkatan pernikahan oleh pendeta, di mana ia berdoa untuk meminta berkat Tuhan atas pernikahan tersebut. Rukun keempat adalah saksi-saksi yang hadir untuk menyaksikan dan mengesahkan pernikahan. Rukun kelima adalah pencatatan pernikahan dalam buku gereja sebagai bukti sah pernikahan tersebut. Dengan memenuhi rukun-rukun ini, pernikahan dianggap sah menurut ajaran agama Kristen.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 20,
+                  "text": "Kristen"
+                }
+              ],
+              "id": "75",
+              "question": "Dalam agama apa rukun pernikahan ini harus dipenuhi?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 127,
+                  "text": "calon mempelai pria dan wanita yang beriman kepada Yesus Kristus dan telah dibaptis"
+                }
+              ],
+              "id": "76",
+              "question": "Apa rukun pertama dalam pernikahan Kristen?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 243,
+                  "text": "janji pernikahan"
+                }
+              ],
+              "id": "77",
+              "question": "Apa rukun kedua dalam pernikahan Kristen?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 303,
+                  "text": "di hadapan pendeta atau pejabat gereja yang berwenang"
+                }
+              ],
+              "id": "78",
+              "question": "Di hadapan siapa janji pernikahan harus diucapkan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 347,
+                  "text": "pemberkatan pernikahan oleh pendeta"
+                }
+              ],
+              "id": "79",
+              "question": "Apa rukun ketiga dalam pernikahan Kristen?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 404,
+                  "text": "berdoa untuk meminta berkat Tuhan atas pernikahan tersebut"
+                }
+              ],
+              "id": "80",
+              "question": "Apa yang dilakukan pendeta dalam pemberkatan pernikahan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 476,
+                  "text": "saksi-saksi"
+                }
+              ],
+              "id": "81",
+              "question": "Apa rukun keempat dalam pernikahan Kristen?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 569,
+                  "text": "pencatatan pernikahan dalam buku gereja"
+                }
+              ],
+              "id": "82",
+              "question": "Apa rukun kelima dalam pernikahan Kristen?"
+            }
+          ]
+        },
+        {
+          "context": "Rukun pernikahan dalam adat Jawa mengandung banyak makna filosofis dan spiritual. Rukun pertama adalah adanya calon mempelai pria dan wanita yang telah mendapatkan restu dari kedua orang tua. Rukun kedua adalah upacara siraman, di mana mempelai melakukan mandi bersama sebagai simbol pembersihan diri dari segala dosa dan keburukan. Rukun ketiga adalah upacara midodareni, di mana mempelai wanita diisolasi di rumahnya dan tidak boleh keluar sampai waktu akad nikah tiba. Rukun keempat adalah upacara akad nikah itu sendiri, yang dilakukan di hadapan penghulu atau tokoh adat setempat. Rukun kelima adalah upacara panggih, di mana kedua mempelai bertemu setelah akad nikah dan melakukan serangkaian ritual untuk menyatukan mereka sebagai suami istri. Rukun keenam adalah upacara resepsi, di mana pasangan mengadakan pesta untuk merayakan pernikahan mereka bersama keluarga dan teman-teman.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 30,
+                  "text": "adat Jawa"
+                }
+              ],
+              "id": "83",
+              "question": "Rukun pernikahan ini berasal dari adat mana?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 148,
+                  "text": "restu dari kedua orang tua"
+                }
+              ],
+              "id": "84",
+              "question": "Apa rukun pertama pernikahan dalam adat Jawa?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 203,
+                  "text": "upacara siraman"
+                }
+              ],
+              "id": "85",
+              "question": "Apa rukun kedua pernikahan dalam adat Jawa?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 226,
+                  "text": "mandi bersama sebagai simbol pembersihan diri dari segala dosa dan keburukan"
+                }
+              ],
+              "id": "86",
+              "question": "Apa yang dilakukan dalam upacara siraman?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 315,
+                  "text": "upacara midodareni"
+                }
+              ],
+              "id": "87",
+              "question": "Apa rukun ketiga pernikahan dalam adat Jawa?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 332,
+                  "text": "mempelai wanita diisolasi di rumahnya dan tidak boleh keluar sampai waktu akad nikah tiba"
+                }
+              ],
+              "id": "88",
+              "question": "Apa yang terjadi dalam upacara midodareni?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 427,
+                  "text": "upacara akad nikah"
+                }
+              ],
+              "id": "89",
+              "question": "Apa rukun keempat pernikahan dalam adat Jawa?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 481,
+                  "text": "penghulu atau tokoh adat setempat"
+                }
+              ],
+              "id": "90",
+              "question": "Di hadapan siapa upacara akad nikah dilakukan?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 522,
+                  "text": "upacara panggih"
+                }
+              ],
+              "id": "91",
+              "question": "Apa rukun kelima pernikahan dalam adat Jawa?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 569,
+                  "text": "menyatukan mereka sebagai suami istri"
+                }
+              ],
+              "id": "92",
+              "question": "Apa tujuan dari serangkaian ritual dalam upacara panggih?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 638,
+                  "text": "upacara resepsi"
+                }
+              ],
+              "id": "93",
+              "question": "Apa rukun keenam pernikahan dalam adat Jawa?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 691,
+                  "text": "pesta untuk merayakan pernikahan mereka bersama keluarga dan teman-teman"
+                }
+              ],
+              "id": "94",
+              "question": "Apa yang dilakukan dalam upacara resepsi?"
+            }
+          ]
+        },
+        {
+          "context": "Dalam pernikahan Hindu, terdapat lima rukun utama yang harus dipenuhi untuk mengesahkan pernikahan menurut ajaran agama. Rukun pertama adalah adanya calon mempelai pria dan wanita yang berasal dari kasta yang sama atau yang telah mendapatkan izin untuk menikah lintas kasta. Rukun kedua adalah adanya restu dari kedua orang tua mempelai. Rukun ketiga adalah upacara pernikahan yang dipimpin oleh seorang pendeta Hindu. Upacara ini melibatkan berbagai ritual, termasuk pemujaan kepada dewa-dewa dan pembacaan mantra-mantra suci. Rukun keempat adalah pemberian mahar oleh mempelai pria kepada mempelai wanita sebagai simbol tanggung jawab dan komitmen. Rukun kelima adalah resepsi pernikahan di mana pasangan merayakan pernikahan mereka dengan keluarga dan teman-teman. Dengan memenuhi rukun-rukun ini, pernikahan dianggap sah dan diberkati menurut ajaran agama Hindu.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 20,
+                  "text": "Hindu"
+                }
+              ],
+              "id": "95",
+              "question": "Dalam agama apa rukun pernikahan ini harus dipenuhi?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 117,
+                  "text": "calon mempelai pria dan wanita yang berasal dari kasta yang sama"
+                }
+              ],
+              "id": "96",
+              "question": "Apa rukun pertama dalam pernikahan Hindu?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 188,
+                  "text": "izin untuk menikah lintas kasta"
+                }
+              ],
+              "id": "97",
+              "question": "Apa yang harus didapatkan jika calon mempelai berasal dari kasta yang berbeda?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 225,
+                  "text": "restu dari kedua orang tua mempelai"
+                }
+              ],
+              "id": "98",
+              "question": "Apa rukun kedua dalam pernikahan Hindu?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 279,
+                  "text": "upacara pernikahan yang dipimpin oleh seorang pendeta Hindu"
+                }
+              ],
+              "id": "99",
+              "question": "Apa rukun ketiga dalam pernikahan Hindu?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 355,
+                  "text": "pemujaan kepada dewa-dewa dan pembacaan mantra-mantra suci"
+                }
+              ],
+              "id": "100",
+              "question": "Apa yang dilakukan dalam upacara pernikahan Hindu?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 428,
+                  "text": "pemberian mahar oleh mempelai pria kepada mempelai wanita"
+                }
+              ],
+              "id": "101",
+              "question": "Apa rukun keempat dalam pernikahan Hindu?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 479,
+                  "text": "simbol tanggung jawab dan komitmen"
+                }
+              ],
+              "id": "102",
+              "question": "Apa simbol dari pemberian mahar dalam pernikahan Hindu?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 534,
+                  "text": "resepsi pernikahan"
+                }
+              ],
+              "id": "103",
+              "question": "Apa rukun kelima dalam pernikahan Hindu?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 585,
+                  "text": "keluarga dan teman-teman"
+                }
+              ],
+              "id": "104",
+              "question": "Dengan siapa pasangan merayakan pernikahan dalam resepsi?"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 616,
+                  "text": "diberkati"
+                }
+              ],
+              "id": "105",
+              "question": "Apa status pernikahan setelah memenuhi rukun-rukun dalam pernikahan Hindu?"
+            }
+          ]
+        }
+    ]
+  },{
+    "paragraphs":[
+      
+      {
+        "context": "Perceraian dalam agama Islam diatur secara ketat dan harus memenuhi beberapa syarat agar sah. Pertama, talak harus diucapkan oleh suami dengan jelas dan tegas, dan tidak dalam keadaan marah atau terpaksa. Kedua, talak harus diucapkan di hadapan saksi-saksi yang adil. Ketiga, setelah talak diucapkan, suami harus memberikan nafkah kepada istri selama masa iddah, yaitu masa tunggu setelah perceraian yang biasanya berlangsung selama tiga bulan. Keempat, selama masa iddah, suami istri tidak boleh tinggal serumah atau berhubungan intim. Jika setelah masa iddah selesai suami ingin merujuk kembali, maka mereka harus menikah ulang dengan akad yang baru. Dengan memenuhi syarat-syarat ini, perceraian dianggap sah dalam pandangan agama Islam.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 19,
+                "text": "agama Islam"
+              }
+            ],
+            "id": "106",
+            "question": "Dalam agama apa perceraian ini diatur?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 70,
+                "text": "talak harus diucapkan oleh suami dengan jelas dan tegas"
+              }
+            ],
+            "id": "107",
+            "question": "Apa syarat pertama agar perceraian sah dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 161,
+                "text": "saksi-saksi yang adil"
+              }
+            ],
+            "id": "108",
+            "question": "Di hadapan siapa talak harus diucapkan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 206,
+                "text": "suami harus memberikan nafkah kepada istri selama masa iddah"
+              }
+            ],
+            "id": "109",
+            "question": "Apa yang harus dilakukan suami setelah talak diucapkan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 293,
+                "text": "tiga bulan"
+              }
+            ],
+            "id": "110",
+            "question": "Berapa lama masa iddah biasanya berlangsung?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 343,
+                "text": "suami istri tidak boleh tinggal serumah atau berhubungan intim"
+              }
+            ],
+            "id": "111",
+            "question": "Apa yang tidak boleh dilakukan suami istri selama masa iddah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 433,
+                "text": "menikah ulang dengan akad yang baru"
+              }
+            ],
+            "id": "112",
+            "question": "Apa yang harus dilakukan jika suami ingin merujuk kembali setelah masa iddah?"
+          }
+        ]
+      },
+      {
+        "context": "Perceraian dalam agama Kristen, terutama dalam denominasi Katolik, dianggap sebagai sesuatu yang sangat serius dan dihindari sebisa mungkin. Dalam Katolik, pernikahan dianggap sebagai sakramen yang tidak bisa dibatalkan oleh manusia. Oleh karena itu, perceraian tidak diakui, dan pasangan yang bercerai tidak diperbolehkan menikah lagi selama pasangannya masih hidup. Namun, ada pengecualian dalam kasus-kasus tertentu di mana pernikahan dapat dianulir atau dianggap tidak sah sejak awal, seperti dalam kasus penipuan, ketidakmampuan fisik untuk menjalankan pernikahan, atau kurangnya kesepakatan dari salah satu pihak pada saat menikah. Proses anuitas ini harus melalui pengadilan gereja dan memerlukan bukti yang kuat. Dengan demikian, perceraian dalam agama Katolik sangat dibatasi dan hanya dalam kasus-kasus tertentu bisa diterima.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 45,
+                "text": "Kristen"
+              }
+            ],
+            "id": "113",
+            "question": "Dalam agama apa perceraian dianggap sangat serius dan dihindari sebisa mungkin?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 70,
+                "text": "denominasi Katolik"
+              }
+            ],
+            "id": "114",
+            "question": "Dalam denominasi apa perceraian tidak diakui?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 123,
+                "text": "sakramen yang tidak bisa dibatalkan oleh manusia"
+              }
+            ],
+            "id": "115",
+            "question": "Apa yang dianggap sebagai sakramen yang tidak bisa dibatalkan oleh manusia dalam Katolik?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 191,
+                "text": "tidak diakui"
+              }
+            ],
+            "id": "116",
+            "question": "Bagaimana status perceraian dalam agama Katolik?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 238,
+                "text": "menikah lagi selama pasangannya masih hidup"
+              }
+            ],
+            "id": "117",
+            "question": "Apa yang tidak diperbolehkan bagi pasangan yang bercerai dalam Katolik?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 356,
+                "text": "pernikahan dapat dianulir atau dianggap tidak sah sejak awal"
+              }
+            ],
+            "id": "118",
+            "question": "Apa pengecualian dalam perceraian dalam Katolik?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 423,
+                "text": "penipuan, ketidakmampuan fisik untuk menjalankan pernikahan, atau kurangnya kesepakatan dari salah satu pihak pada saat menikah"
+              }
+            ],
+            "id": "119",
+            "question": "Apa contoh kasus di mana pernikahan dapat dianulir dalam Katolik?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 528,
+                "text": "pengadilan gereja"
+              }
+            ],
+            "id": "120",
+            "question": "Melalui apa proses anuitas harus dilakukan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 556,
+                "text": "bukti yang kuat"
+              }
+            ],
+            "id": "121",
+            "question": "Apa yang diperlukan dalam proses anuitas untuk membatalkan pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Perceraian dalam hukum adat Bali memiliki proses yang unik dan beragam, tergantung pada daerah dan sub-etnisnya. Umumnya, perceraian harus diawali dengan mediasi keluarga besar kedua belah pihak untuk mencoba menyelesaikan masalah dan mencegah perceraian. Jika mediasi gagal, pihak yang ingin bercerai harus mengajukan permohonan kepada pemuka adat setempat. Pemuka adat kemudian akan mengadakan sidang adat di mana kedua belah pihak dipanggil untuk memberikan keterangan. Sidang ini bertujuan untuk mencari penyelesaian yang adil dan sesuai dengan adat setempat. Jika perceraian tetap tidak bisa dihindari, pemuka adat akan memberikan izin perceraian dan membagi harta gono-gini serta hak asuh anak sesuai dengan hukum adat. Proses ini menunjukkan betapa pentingnya nilai-nilai kekeluargaan dan adat dalam kehidupan masyarakat Bali.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 28,
+                "text": "hukum adat Bali"
+              }
+            ],
+            "id": "122",
+            "question": "Dalam hukum adat mana perceraian ini memiliki proses unik dan beragam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 86,
+                "text": "mediasi keluarga besar kedua belah pihak"
+              }
+            ],
+            "id": "123",
+            "question": "Apa langkah pertama yang harus dilakukan dalam proses perceraian menurut hukum adat Bali?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 140,
+                "text": "mencegah perceraian"
+              }
+            ],
+            "id": "124",
+            "question": "Apa tujuan mediasi keluarga dalam proses perceraian menurut hukum adat Bali?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 198,
+                "text": "mengajukan permohonan kepada pemuka adat setempat"
+              }
+            ],
+            "id": "125",
+            "question": "Apa yang harus dilakukan jika mediasi keluarga gagal?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 242,
+                "text": "sidang adat"
+              }
+            ],
+            "id": "126",
+            "question": "Apa yang akan diadakan oleh pemuka adat setelah menerima permohonan perceraian?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 321,
+                "text": "mencari penyelesaian yang adil dan sesuai dengan adat setempat"
+              }
+            ],
+            "id": "127",
+            "question": "Apa tujuan dari sidang adat?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 405,
+                "text": "pemuka adat akan memberikan izin perceraian"
+              }
+            ],
+            "id": "128",
+            "question": "Apa yang akan dilakukan oleh pemuka adat jika perceraian tidak bisa dihindari?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 447,
+                "text": "membagi harta gono-gini serta hak asuh anak sesuai dengan hukum adat"
+              }
+            ],
+            "id": "129",
+            "question": "Apa yang akan dilakukan oleh pemuka adat terkait harta dan hak asuh anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 531,
+                "text": "nilai-nilai kekeluargaan dan adat"
+              }
+            ],
+            "id": "130",
+            "question": "Apa yang ditunjukkan oleh proses perceraian dalam hukum adat Bali?"
+          }
+        ]
+      },
+      {
+        "context": "Perceraian di Indonesia secara hukum diatur oleh Undang-Undang No. 1 Tahun 1974 tentang Perkawinan dan juga oleh Kompilasi Hukum Islam bagi mereka yang beragama Islam. Proses perceraian harus diawali dengan pengajuan gugatan cerai ke pengadilan agama bagi pasangan Muslim atau ke pengadilan negeri bagi pasangan non-Muslim. Setelah gugatan diajukan, pengadilan akan mengadakan sidang mediasi untuk mencoba mendamaikan kedua belah pihak. Jika mediasi gagal, pengadilan akan melanjutkan proses perceraian dengan memeriksa bukti-bukti dan mendengarkan keterangan saksi. Pengadilan kemudian akan memutuskan apakah perceraian dikabulkan atau tidak, serta menetapkan pembagian harta, hak asuh anak, dan kewajiban nafkah. Proses ini memastikan bahwa perceraian dilakukan secara adil dan sesuai dengan hukum yang berlaku di Indonesia.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 23,
+                "text": "Indonesia"
+              }
+            ],
+            "id": "131",
+            "question": "Di negara mana perceraian ini diatur?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 56,
+                "text": "Undang-Undang No. 1 Tahun 1974 tentang Perkawinan"
+              }
+            ],
+            "id": "132",
+            "question": "Apa nama undang-undang yang mengatur perceraian di Indonesia?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 117,
+                "text": "Kompilasi Hukum Islam"
+              }
+            ],
+            "id": "133",
+            "question": "Apa yang mengatur perceraian bagi mereka yang beragama Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 165,
+                "text": "pengajuan gugatan cerai ke pengadilan agama bagi pasangan Muslim atau ke pengadilan negeri bagi pasangan non-Muslim"
+              }
+            ],
+            "id": "134",
+            "question": "Apa langkah pertama dalam proses perceraian di Indonesia?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 242,
+                "text": "sidang mediasi"
+              }
+            ],
+            "id": "135",
+            "question": "Apa yang akan diadakan oleh pengadilan setelah gugatan diajukan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 292,
+                "text": "mendamaikan kedua belah pihak"
+              }
+            ],
+            "id": "136",
+            "question": "Apa tujuan dari sidang mediasi?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 318,
+                "text": "mediasi gagal"
+              }
+            ],
+            "id": "137",
+            "question": "Apa yang terjadi jika mediasi gagal?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 442,
+                "text": "apakah perceraian dikabulkan atau tidak"
+              }
+            ],
+            "id": "138",
+            "question": "Apa yang akan diputuskan oleh pengadilan dalam proses perceraian?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 483,
+                "text": "pembagian harta, hak asuh anak, dan kewajiban nafkah"
+              }
+            ],
+            "id": "139",
+            "question": "Apa saja yang akan ditetapkan oleh pengadilan dalam perceraian?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 527,
+                "text": "adil dan sesuai dengan hukum yang berlaku di Indonesia"
+              }
+            ],
+            "id": "140",
+            "question": "Bagaimana proses perceraian dilakukan di Indonesia?"
+          }
+        ]
+      },
+      {
+        "context": "Perceraian dalam masyarakat modern seringkali melibatkan berbagai faktor yang kompleks, termasuk aspek psikologis, sosial, dan ekonomi. Pertama, faktor psikologis seperti ketidakcocokan emosional, perselingkuhan, atau kekerasan dalam rumah tangga sering menjadi alasan utama perceraian. Kedua, faktor sosial seperti tekanan dari keluarga besar atau perbedaan nilai dan budaya antara pasangan juga dapat menyebabkan perceraian. Ketiga, faktor ekonomi seperti masalah keuangan, pengangguran, atau ketidakseimbangan penghasilan antara suami dan istri dapat memicu konflik yang berujung pada perceraian. Selain itu, perceraian juga memiliki dampak signifikan pada anak-anak, yang sering kali mengalami trauma psikologis dan kesulitan dalam beradaptasi dengan situasi keluarga yang baru. Oleh karena itu, penting untuk memahami dan menangani faktor-faktor ini dengan bijaksana untuk mengurangi dampak negatif dari perceraian.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 22,
+                "text": "masyarakat modern"
+              }
+            ],
+            "id": "141",
+            "question": "Dalam masyarakat apa perceraian seringkali melibatkan berbagai faktor kompleks?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 116,
+                "text": "ketidakcocokan emosional, perselingkuhan, atau kekerasan dalam rumah tangga"
+              }
+            ],
+            "id": "142",
+            "question": "Apa saja faktor psikologis yang sering menjadi alasan utama perceraian?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 198,
+                "text": "faktor sosial"
+              }
+            ],
+            "id": "143",
+            "question": "Apa yang dapat menyebabkan perceraian selain faktor psikologis?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 223,
+                "text": "tekanan dari keluarga besar atau perbedaan nilai dan budaya antara pasangan"
+              }
+            ],
+            "id": "144",
+            "question": "Apa contoh faktor sosial yang dapat menyebabkan perceraian?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 322,
+                "text": "faktor ekonomi"
+              }
+            ],
+            "id": "145",
+            "question": "Faktor apa yang dapat memicu konflik yang berujung pada perceraian?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 358,
+                "text": "masalah keuangan, pengangguran, atau ketidakseimbangan penghasilan antara suami dan istri"
+              }
+            ],
+            "id": "146",
+            "question": "Apa contoh faktor ekonomi yang dapat memicu perceraian?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 466,
+                "text": "trauma psikologis dan kesulitan dalam beradaptasi dengan situasi keluarga yang baru"
+              }
+            ],
+            "id": "147",
+            "question": "Apa dampak signifikan perceraian pada anak-anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 559,
+                "text": "memahami dan menangani faktor-faktor ini dengan bijaksana"
+              }
+            ],
+            "id": "148",
+            "question": "Apa yang penting untuk dilakukan untuk mengurangi dampak negatif dari perceraian?"
+          }
+        ]
+      },{
+        "context": "Dalam Islam, hukum menikah dibagi menjadi beberapa kategori, yang ditentukan berdasarkan kondisi individu dan niat mereka. Pertama, menikah dianggap wajib bagi mereka yang memiliki kemampuan fisik dan finansial, serta khawatir jatuh dalam dosa jika tidak menikah. Kedua, menikah dianjurkan (sunnah) bagi mereka yang mampu secara fisik dan finansial tetapi tidak khawatir akan jatuh dalam dosa jika tidak menikah. Ketiga, menikah mubah (diperbolehkan) bagi mereka yang tidak memiliki kebutuhan mendesak untuk menikah tetapi tidak ada halangan untuk melakukannya. Keempat, menikah makruh (tidak dianjurkan) bagi mereka yang tidak mampu memberikan nafkah kepada istri atau keluarga. Kelima, menikah haram bagi mereka yang menikah dengan niat buruk atau dalam kondisi yang dilarang oleh syariat, seperti menikahi mahram atau saat sedang ihram.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 18,
+                "text": "beberapa kategori"
+              }
+            ],
+            "id": "149",
+            "question": "Berapa kategori hukum menikah dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 86,
+                "text": "wajib"
+              }
+            ],
+            "id": "150",
+            "question": "Apa hukum menikah bagi mereka yang khawatir jatuh dalam dosa jika tidak menikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 201,
+                "text": "sunnah"
+              }
+            ],
+            "id": "151",
+            "question": "Apa hukum menikah bagi mereka yang mampu secara fisik dan finansial tetapi tidak khawatir jatuh dalam dosa?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 285,
+                "text": "mubah"
+              }
+            ],
+            "id": "152",
+            "question": "Apa hukum menikah bagi mereka yang tidak memiliki kebutuhan mendesak untuk menikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 369,
+                "text": "makruh"
+              }
+            ],
+            "id": "153",
+            "question": "Apa hukum menikah bagi mereka yang tidak mampu memberikan nafkah kepada istri atau keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 475,
+                "text": "haram"
+              }
+            ],
+            "id": "154",
+            "question": "Apa hukum menikah bagi mereka yang menikah dengan niat buruk atau dalam kondisi yang dilarang oleh syariat?"
+          }
+        ]
+      },
+      {
+        "context": "Menurut hukum Islam, menikah adalah salah satu sunnah Rasulullah SAW yang sangat dianjurkan. Rasulullah SAW bersabda, 'Menikah adalah sunnahku, dan barangsiapa yang membenci sunnahku, maka ia bukan dari golonganku.' Hadis ini menekankan pentingnya menikah sebagai bagian dari ibadah dan mengikuti jejak Rasulullah SAW. Menikah juga dianggap sebagai cara untuk menjaga kesucian dan kehormatan diri, serta melanjutkan keturunan dalam lingkungan yang sah dan terhormat. Selain itu, menikah juga memiliki manfaat sosial, seperti membangun keluarga yang harmonis dan memperkuat hubungan antar keluarga besar. Oleh karena itu, menikah dalam Islam bukan hanya soal hubungan antara suami dan istri, tetapi juga memiliki implikasi spiritual dan sosial yang luas.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 13,
+                "text": "hukum Islam"
+              }
+            ],
+            "id": "155",
+            "question": "Menurut hukum apa menikah adalah salah satu sunnah Rasulullah SAW yang sangat dianjurkan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 127,
+                "text": "Menikah adalah sunnahku, dan barangsiapa yang membenci sunnahku, maka ia bukan dari golonganku."
+              }
+            ],
+            "id": "156",
+            "question": "Apa sabda Rasulullah SAW mengenai menikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 232,
+                "text": "ibadah dan mengikuti jejak Rasulullah SAW"
+              }
+            ],
+            "id": "157",
+            "question": "Apa yang ditekankan oleh hadis mengenai menikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 318,
+                "text": "menjaga kesucian dan kehormatan diri, serta melanjutkan keturunan"
+              }
+            ],
+            "id": "158",
+            "question": "Apa yang dianggap sebagai cara untuk menjaga kesucian dan kehormatan diri dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 462,
+                "text": "membangun keluarga yang harmonis dan memperkuat hubungan antar keluarga besar"
+              }
+            ],
+            "id": "159",
+            "question": "Apa manfaat sosial dari menikah menurut hukum Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 553,
+                "text": "memiliki implikasi spiritual dan sosial yang luas"
+              }
+            ],
+            "id": "160",
+            "question": "Apa implikasi dari menikah dalam Islam selain hubungan antara suami dan istri?"
+          }
+        ]
+      },
+      {
+        "context": "Hukum menikah dalam Islam juga mencakup aturan-aturan yang harus dipenuhi untuk memastikan pernikahan sah dan sesuai syariat. Salah satu syarat utama adalah adanya ijab kabul, yaitu pernyataan persetujuan dari kedua belah pihak, yang biasanya dilakukan oleh wali pihak perempuan dan calon suami. Selain itu, diperlukan mahar atau mas kawin yang diberikan oleh suami kepada istri sebagai bentuk penghormatan dan tanggung jawab. Mahar ini bisa berupa uang, barang, atau jasa yang nilainya disepakati oleh kedua belah pihak. Syarat lainnya adalah adanya saksi yang adil dan beragama Islam untuk menyaksikan pernikahan tersebut. Terakhir, pasangan yang akan menikah harus memenuhi syarat-syarat tertentu seperti tidak memiliki hubungan mahram dan tidak sedang dalam masa iddah bagi perempuan yang bercerai atau ditinggal mati suami.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 77,
+                "text": "ijab kabul"
+              }
+            ],
+            "id": "161",
+            "question": "Apa syarat utama yang harus ada dalam pernikahan agar sah menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 115,
+                "text": "pernyataan persetujuan dari kedua belah pihak"
+              }
+            ],
+            "id": "162",
+            "question": "Apa yang dimaksud dengan ijab kabul?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 178,
+                "text": "wali pihak perempuan dan calon suami"
+              }
+            ],
+            "id": "163",
+            "question": "Siapa yang biasanya melakukan ijab kabul?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 219,
+                "text": "mahar atau mas kawin"
+              }
+            ],
+            "id": "164",
+            "question": "Apa yang harus diberikan oleh suami kepada istri sebagai bentuk penghormatan dan tanggung jawab?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 353,
+                "text": "uang, barang, atau jasa"
+              }
+            ],
+            "id": "165",
+            "question": "Mahar bisa berupa apa saja?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 456,
+                "text": "saksi yang adil dan beragama Islam"
+              }
+            ],
+            "id": "166",
+            "question": "Apa syarat lain selain ijab kabul dan mahar dalam pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 554,
+                "text": "tidak memiliki hubungan mahram dan tidak sedang dalam masa iddah"
+              }
+            ],
+            "id": "167",
+            "question": "Apa syarat yang harus dipenuhi oleh pasangan yang akan menikah?"
+          }
+        ]
+      },
+      {
+        "context": "Hukum menikah dalam Islam juga memperhatikan hak dan kewajiban yang harus dipenuhi oleh suami dan istri. Suami wajib memberikan nafkah kepada istri dan anak-anaknya, yang mencakup kebutuhan dasar seperti makanan, pakaian, dan tempat tinggal. Selain itu, suami juga diharapkan memberikan kasih sayang, perlindungan, dan pendidikan kepada keluarganya. Di sisi lain, istri wajib taat kepada suami dalam hal-hal yang tidak bertentangan dengan syariat, mengelola rumah tangga, dan mendidik anak-anak. Kedua belah pihak juga diwajibkan untuk saling menghormati, bekerja sama, dan menjaga keharmonisan keluarga. Hak dan kewajiban ini bertujuan untuk menciptakan kehidupan rumah tangga yang seimbang dan harmonis, serta mendekatkan diri kepada Allah SWT melalui pernikahan yang sakinah, mawaddah, dan rahmah.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 18,
+                "text": "hak dan kewajiban"
+              }
+            ],
+            "id": "168",
+            "question": "Apa yang harus dipenuhi oleh suami dan istri dalam hukum menikah Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 63,
+                "text": "nafkah kepada istri dan anak-anaknya"
+              }
+            ],
+            "id": "169",
+            "question": "Apa kewajiban suami dalam pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 106,
+                "text": "kebutuhan dasar seperti makanan, pakaian, dan tempat tinggal"
+              }
+            ],
+            "id": "170",
+            "question": "Apa saja yang termasuk dalam nafkah yang harus diberikan suami?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 208,
+                "text": "kasih sayang, perlindungan, dan pendidikan"
+              }
+            ],
+            "id": "171",
+            "question": "Apa yang diharapkan suami berikan selain nafkah materi?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 295,
+                "text": "taat kepada suami dalam hal-hal yang tidak bertentangan dengan syariat"
+              }
+            ],
+            "id": "172",
+            "question": "Apa kewajiban istri dalam pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 350,
+                "text": "mengelola rumah tangga, dan mendidik anak-anak"
+              }
+            ],
+            "id": "173",
+            "question": "Apa kewajiban lain istri selain taat kepada suami?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 440,
+                "text": "saling menghormati, bekerja sama, dan menjaga keharmonisan keluarga"
+              }
+            ],
+            "id": "174",
+            "question": "Apa yang diwajibkan kepada kedua belah pihak dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 594,
+                "text": "sakinah, mawaddah, dan rahmah"
+              }
+            ],
+            "id": "175",
+            "question": "Apa tujuan dari hak dan kewajiban dalam pernikahan menurut Islam?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam Islam, hukum menikah juga mengatur tentang larangan-larangan yang harus dihindari dalam pernikahan. Salah satu larangan utama adalah menikahi mahram, yaitu orang-orang yang memiliki hubungan darah dekat seperti ibu, saudara perempuan, atau anak perempuan. Selain itu, dilarang juga menikahi wanita yang sedang dalam masa iddah, yaitu masa tunggu setelah bercerai atau ditinggal mati suami. Larangan lain termasuk menikah dengan non-Muslim yang tidak termasuk ahli kitab (Yahudi atau Kristen) dan menikah tanpa adanya wali atau saksi yang sah. Pelanggaran terhadap larangan-larangan ini dapat menyebabkan pernikahan dianggap batal atau tidak sah menurut hukum Islam. Oleh karena itu, penting untuk memahami dan mematuhi aturan-aturan ini agar pernikahan tetap sesuai dengan syariat dan mendapatkan berkah dari Allah SWT.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 49,
+                "text": "larangan-larangan"
+              }
+            ],
+            "id": "176",
+            "question": "Apa yang harus dihindari dalam pernikahan menurut hukum Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 86,
+                "text": "menikahi mahram"
+              }
+            ],
+            "id": "177",
+            "question": "Apa larangan utama dalam pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 122,
+                "text": "orang-orang yang memiliki hubungan darah dekat seperti ibu, saudara perempuan, atau anak perempuan"
+              }
+            ],
+            "id": "178",
+            "question": "Siapa yang termasuk mahram dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 249,
+                "text": "wanita yang sedang dalam masa iddah"
+              }
+            ],
+            "id": "179",
+            "question": "Siapa yang dilarang untuk dinikahi selain mahram?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 329,
+                "text": "non-Muslim yang tidak termasuk ahli kitab"
+              }
+            ],
+            "id": "180",
+            "question": "Siapa yang dilarang untuk dinikahi menurut Islam selain wanita yang dalam masa iddah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 407,
+                "text": "tanpa adanya wali atau saksi yang sah"
+              }
+            ],
+            "id": "181",
+            "question": "Apa yang membuat pernikahan dianggap tidak sah dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 491,
+                "text": "batal atau tidak sah"
+              }
+            ],
+            "id": "182",
+            "question": "Apa yang terjadi jika larangan dalam pernikahan dilanggar menurut hukum Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 578,
+                "text": "memahami dan mematuhi aturan-aturan"
+              }
+            ],
+            "id": "183",
+            "question": "Apa yang penting untuk dilakukan agar pernikahan sesuai dengan syariat dan mendapatkan berkah?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam kehidupan pernikahan Islam, salah satu aspek penting adalah komunikasi yang baik antara suami dan istri. Al-Quran dan hadis Rasulullah SAW menekankan pentingnya musyawarah dan diskusi dalam keluarga untuk mencapai kesepakatan dan kebahagiaan bersama. Suami dan istri dianjurkan untuk saling mendengarkan, menghormati pendapat satu sama lain, dan mencari solusi terbaik untuk setiap masalah yang dihadapi. Dengan komunikasi yang baik, konflik dapat diminimalisir dan hubungan antara suami dan istri menjadi lebih harmonis dan kuat.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 74,
+                "text": "komunikasi yang baik antara suami dan istri"
+              }
+            ],
+            "id": "184",
+            "question": "Apa salah satu aspek penting dalam kehidupan pernikahan Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 122,
+                "text": "Al-Quran dan hadis Rasulullah SAW"
+              }
+            ],
+            "id": "185",
+            "question": "Apa yang menekankan pentingnya musyawarah dan diskusi dalam keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 250,
+                "text": "saling mendengarkan, menghormati pendapat satu sama lain, dan mencari solusi terbaik"
+              }
+            ],
+            "id": "186",
+            "question": "Apa yang dianjurkan untuk dilakukan oleh suami dan istri dalam komunikasi?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 357,
+                "text": "diminimalisir dan hubungan antara suami dan istri menjadi lebih harmonis dan kuat"
+              }
+            ],
+            "id": "187",
+            "question": "Apa manfaat dari komunikasi yang baik dalam pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Kehidupan pernikahan dalam Islam juga menekankan pentingnya cinta dan kasih sayang. Rasulullah SAW bersabda, 'Orang yang paling baik di antara kalian adalah yang paling baik terhadap istrinya.' Hadis ini menunjukkan bahwa suami harus memperlakukan istri dengan penuh kasih sayang, kelembutan, dan perhatian. Demikian pula, istri harus menunjukkan rasa hormat dan cinta kepada suaminya. Dengan adanya cinta dan kasih sayang yang tulus, kehidupan rumah tangga akan menjadi lebih bahagia dan damai.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 40,
+                "text": "cinta dan kasih sayang"
+              }
+            ],
+            "id": "188",
+            "question": "Apa yang ditekankan dalam kehidupan pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 87,
+                "text": "Orang yang paling baik di antara kalian adalah yang paling baik terhadap istrinya."
+              }
+            ],
+            "id": "189",
+            "question": "Apa sabda Rasulullah SAW mengenai perlakuan suami terhadap istri?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 189,
+                "text": "dengan penuh kasih sayang, kelembutan, dan perhatian"
+              }
+            ],
+            "id": "190",
+            "question": "Bagaimana suami harus memperlakukan istri menurut hadis Rasulullah SAW?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 270,
+                "text": "menunjukkan rasa hormat dan cinta kepada suaminya"
+              }
+            ],
+            "id": "191",
+            "question": "Bagaimana istri harus memperlakukan suami menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 340,
+                "text": "lebih bahagia dan damai"
+              }
+            ],
+            "id": "192",
+            "question": "Apa hasil dari adanya cinta dan kasih sayang yang tulus dalam rumah tangga?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam Islam, kehidupan pernikahan juga melibatkan pembagian tugas dan tanggung jawab yang adil antara suami dan istri. Suami bertanggung jawab untuk mencari nafkah dan memenuhi kebutuhan finansial keluarga, sedangkan istri bertanggung jawab untuk mengurus rumah tangga dan mendidik anak-anak. Meskipun demikian, suami dan istri dapat saling membantu dalam tugas masing-masing untuk mencapai keseimbangan dan harmoni dalam keluarga. Pembagian tugas yang adil ini bertujuan untuk menciptakan kehidupan rumah tangga yang harmonis dan sejahtera.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 67,
+                "text": "pembagian tugas dan tanggung jawab yang adil"
+              }
+            ],
+            "id": "193",
+            "question": "Apa yang melibatkan kehidupan pernikahan dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 123,
+                "text": "mencari nafkah dan memenuhi kebutuhan finansial keluarga"
+              }
+            ],
+            "id": "194",
+            "question": "Apa tanggung jawab suami dalam pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 186,
+                "text": "mengurus rumah tangga dan mendidik anak-anak"
+              }
+            ],
+            "id": "195",
+            "question": "Apa tanggung jawab istri dalam pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 244,
+                "text": "dapat saling membantu dalam tugas masing-masing"
+              }
+            ],
+            "id": "196",
+            "question": "Apa yang bisa dilakukan suami dan istri untuk mencapai keseimbangan dalam keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 337,
+                "text": "hidup rumah tangga yang harmonis dan sejahtera"
+              }
+            ],
+            "id": "197",
+            "question": "Apa tujuan dari pembagian tugas yang adil dalam pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Pendidikan anak merupakan salah satu aspek penting dalam kehidupan pernikahan Islam. Orang tua bertanggung jawab untuk memberikan pendidikan agama dan moral kepada anak-anak mereka. Rasulullah SAW bersabda, 'Setiap kalian adalah pemimpin dan setiap pemimpin akan dimintai pertanggungjawaban atas yang dipimpinnya.' Orang tua harus menjadi teladan yang baik dan mengajarkan nilai-nilai Islam sejak dini. Dengan demikian, anak-anak dapat tumbuh menjadi individu yang beriman, berakhlak mulia, dan bermanfaat bagi masyarakat.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 19,
+                "text": "pendidikan anak"
+              }
+            ],
+            "id": "198",
+            "question": "Apa salah satu aspek penting dalam kehidupan pernikahan Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 82,
+                "text": "memberikan pendidikan agama dan moral"
+              }
+            ],
+            "id": "199",
+            "question": "Apa tanggung jawab orang tua terhadap anak-anak mereka dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 164,
+                "text": "Setiap kalian adalah pemimpin dan setiap pemimpin akan dimintai pertanggungjawaban atas yang dipimpinnya."
+              }
+            ],
+            "id": "200",
+            "question": "Apa sabda Rasulullah SAW tentang tanggung jawab pemimpin?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 276,
+                "text": "menjadi teladan yang baik dan mengajarkan nilai-nilai Islam sejak dini"
+              }
+            ],
+            "id": "201",
+            "question": "Apa yang harus dilakukan orang tua dalam mendidik anak menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 343,
+                "text": "tumbuh menjadi individu yang beriman, berakhlak mulia, dan bermanfaat bagi masyarakat"
+              }
+            ],
+            "id": "202",
+            "question": "Apa tujuan dari pendidikan anak dalam Islam?"
+          }
+        ]
+      }
+    ]
+  },{
+    "paragraphs":[
+      {
+        "context": "Dalam kehidupan pernikahan Islam, penting untuk menjaga hubungan yang baik dengan keluarga besar. Islam mengajarkan pentingnya silaturahmi dan menjaga hubungan kekeluargaan. Suami dan istri harus berusaha untuk membangun hubungan yang harmonis dengan keluarga masing-masing, termasuk orang tua, saudara, dan kerabat. Menjaga hubungan baik dengan keluarga besar dapat memberikan dukungan emosional dan sosial, serta memperkuat ikatan keluarga. Selain itu, dengan menjaga silaturahmi, pasangan suami istri dapat menjalani kehidupan pernikahan yang lebih seimbang dan mendapatkan keberkahan dari Allah SWT.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 62,
+                "text": "menjaga hubungan yang baik dengan keluarga besar"
+              }
+            ],
+            "id": "203",
+            "question": "Apa yang penting dalam kehidupan pernikahan Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 88,
+                "text": "silaturahmi dan menjaga hubungan kekeluargaan"
+              }
+            ],
+            "id": "204",
+            "question": "Apa yang diajarkan Islam mengenai hubungan kekeluargaan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 139,
+                "text": "membangun hubungan yang harmonis dengan keluarga masing-masing"
+              }
+            ],
+            "id": "205",
+            "question": "Apa yang harus dilakukan suami dan istri dengan keluarga masing-masing?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 259,
+                "text": "dukungan emosional dan sosial"
+              }
+            ],
+            "id": "206",
+            "question": "Apa yang dapat diberikan dengan menjaga hubungan baik dengan keluarga besar?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 376,
+                "text": "lebih seimbang dan mendapatkan keberkahan dari Allah SWT"
+              }
+            ],
+            "id": "207",
+            "question": "Apa manfaat dari menjaga silaturahmi dalam kehidupan pernikahan?"
+          }
+        ]
+      },{
+        "context": "Sakinah, mawaddah, dan rahmah adalah konsep penting dalam pernikahan dalam Islam. Sakinah merujuk pada kedamaian dan ketenangan dalam hubungan suami istri. Mawaddah mengacu pada kasih sayang dan cinta di antara pasangan. Sedangkan rahmah berarti belas kasihan dan sikap saling mengasihi dalam rumah tangga. Konsep ini menegaskan bahwa pernikahan bukan hanya tentang hubungan fisik, tetapi juga tentang ikatan emosional, spiritual, dan sosial yang kuat antara suami dan istri.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 0,
+                "text": "Sakinah, mawaddah, dan rahmah"
+              }
+            ],
+            "id": "208",
+            "question": "Apa konsep penting dalam pernikahan dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 60,
+                "text": "kedamaian dan ketenangan"
+              }
+            ],
+            "id": "209",
+            "question": "Apa yang dimaksud dengan sakinah dalam pernikahan Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 105,
+                "text": "kasih sayang dan cinta"
+              }
+            ],
+            "id": "210",
+            "question": "Apa yang diartikan oleh mawaddah dalam konteks pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 157,
+                "text": "belas kasihan dan sikap saling mengasihi"
+              }
+            ],
+            "id": "211",
+            "question": "Apa yang dimaksud dengan rahmah dalam hubungan suami istri?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 217,
+                "text": "hubungan fisik, emosional, spiritual, dan sosial"
+              }
+            ],
+            "id": "212",
+            "question": "Pernikahan dalam Islam melibatkan aspek apa saja?"
+          }
+        ]
+      },
+      {
+        "context": "Sakinah, mawaddah, dan rahmah juga merupakan tujuan dari pernikahan dalam Islam. Tujuan utama dari pernikahan adalah menciptakan kehidupan rumah tangga yang bahagia, penuh kasih sayang, dan penuh berkah. Sakinah membawa kedamaian dan ketenangan dalam rumah tangga, mawaddah membawa kasih sayang dan cinta yang mendalam, dan rahmah membawa belas kasihan dan pengertian di antara suami istri. Dengan mencapai tujuan ini, pasangan suami istri dapat menjalani kehidupan yang bermakna dan memperoleh kebahagiaan di dunia dan akhirat.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 0,
+                "text": "Sakinah, mawaddah, dan rahmah"
+              }
+            ],
+            "id": "213",
+            "question": "Apa yang juga merupakan tujuan dari pernikahan dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 147,
+                "text": "menciptakan kehidupan rumah tangga yang bahagia, penuh kasih sayang, dan penuh berkah"
+              }
+            ],
+            "id": "214",
+            "question": "Apa tujuan utama dari pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 0,
+                "text": "Sakinah, mawaddah, dan rahmah"
+              }
+            ],
+            "id": "215",
+            "question": "Apa yang membawa kedamaian dan ketenangan dalam rumah tangga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 48,
+                "text": "penuh kasih sayang dan cinta yang mendalam"
+              }
+            ],
+            "id": "216",
+            "question": "Apa yang dibawa oleh mawaddah dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 98,
+                "text": "belas kasihan dan pengertian di antara suami istri"
+              }
+            ],
+            "id": "217",
+            "question": "Apa yang dibawa oleh rahmah dalam hubungan suami istri?"
+          }
+        ]
+      },
+      {
+        "context": "Sakinah, mawaddah, dan rahmah merupakan janji dan amanah yang harus dijaga oleh suami dan istri dalam pernikahan. Suami bertanggung jawab untuk memberikan kedamaian, kasih sayang, dan belas kasihan kepada istri, sementara istri juga memiliki tanggung jawab yang sama terhadap suami. Dengan menjaga janji ini, pasangan suami istri dapat membangun hubungan yang kuat, penuh kasih, dan harmonis dalam pernikahan mereka.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 0,
+                "text": "Sakinah, mawaddah, dan rahmah"
+              }
+            ],
+            "id": "218",
+            "question": "Apa yang harus dijaga oleh suami dan istri dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 48,
+                "text": "memberikan kedamaian, kasih sayang, dan belas kasihan"
+              }
+            ],
+            "id": "219",
+            "question": "Apa tanggung jawab suami terhadap istri dalam menjaga sakinah, mawaddah, dan rahmah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 102,
+                "text": "tanggung jawab yang sama"
+              }
+            ],
+            "id": "220",
+            "question": "Apa yang harus dilakukan istri terhadap suami dalam menjaga sakinah, mawaddah, dan rahmah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 129,
+                "text": "pasangan suami istri dapat membangun hubungan yang kuat, penuh kasih, dan harmonis"
+              }
+            ],
+            "id": "221",
+            "question": "Apa hasil dari menjaga janji sakinah, mawaddah, dan rahmah dalam pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam Islam, menyelesaikan konflik dalam pernikahan dianjurkan untuk dilakukan dengan musyawarah dan komunikasi yang baik. Suami dan istri harus duduk bersama dan mendiskusikan masalah yang ada dengan kepala dingin dan hati yang terbuka. Kedua belah pihak harus berusaha untuk mendengarkan satu sama lain dan mencari solusi terbaik yang dapat diterima oleh keduanya. Dalam Al-Quran, Allah SWT berfirman bahwa musyawarah adalah cara yang baik untuk mencapai kesepakatan dan menghindari perselisihan.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 42,
+                "text": "musyawarah dan komunikasi yang baik"
+              }
+            ],
+            "id": "222",
+            "question": "Apa yang dianjurkan dalam Islam untuk menyelesaikan konflik dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 89,
+                "text": "suami dan istri harus duduk bersama dan mendiskusikan masalah yang ada"
+              }
+            ],
+            "id": "223",
+            "question": "Apa yang harus dilakukan suami dan istri saat terjadi konflik?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 175,
+                "text": "mendengarkan satu sama lain dan mencari solusi terbaik"
+              }
+            ],
+            "id": "224",
+            "question": "Apa yang harus diusahakan oleh kedua belah pihak dalam menyelesaikan konflik?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 292,
+                "text": "musyawarah adalah cara yang baik untuk mencapai kesepakatan dan menghindari perselisihan"
+              }
+            ],
+            "id": "225",
+            "question": "Apa yang dikatakan Allah SWT dalam Al-Quran tentang musyawarah?"
+          }
+        ]
+      },
+      {
+        "context": "Meminta nasihat dari pihak ketiga yang bijaksana juga merupakan cara untuk menyelesaikan konflik dalam pernikahan menurut ajaran Islam. Ketika suami dan istri tidak dapat menemukan solusi sendiri, mereka bisa mencari bantuan dari pihak ketiga yang dipercaya, seperti ulama, konselor pernikahan, atau anggota keluarga yang bijaksana. Pihak ketiga ini bisa memberikan pandangan yang objektif dan membantu menemukan solusi yang adil dan baik untuk kedua belah pihak.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 0,
+                "text": "Meminta nasihat dari pihak ketiga yang bijaksana"
+              }
+            ],
+            "id": "226",
+            "question": "Apa cara lain untuk menyelesaikan konflik dalam pernikahan menurut ajaran Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 129,
+                "text": "tidak dapat menemukan solusi sendiri"
+              }
+            ],
+            "id": "227",
+            "question": "Kapan suami dan istri harus mencari bantuan pihak ketiga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 187,
+                "text": "ulama, konselor pernikahan, atau anggota keluarga yang bijaksana"
+              }
+            ],
+            "id": "228",
+            "question": "Siapa saja yang bisa menjadi pihak ketiga yang bijaksana dalam menyelesaikan konflik?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 287,
+                "text": "pandangan yang objektif dan membantu menemukan solusi yang adil dan baik"
+              }
+            ],
+            "id": "229",
+            "question": "Apa yang bisa diberikan oleh pihak ketiga dalam menyelesaikan konflik pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam Islam, penting untuk memiliki kesabaran dan sikap saling memaafkan dalam menyelesaikan konflik pernikahan. Suami dan istri dianjurkan untuk mengendalikan emosi dan tidak terbawa amarah saat menghadapi masalah. Mereka harus saling mengingatkan bahwa setiap manusia tidak luput dari kesalahan, dan memaafkan satu sama lain adalah tindakan yang mulia. Dengan adanya sikap sabar dan saling memaafkan, konflik dapat diselesaikan dengan lebih mudah dan hubungan dapat kembali harmonis.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 35,
+                "text": "kesabaran dan sikap saling memaafkan"
+              }
+            ],
+            "id": "230",
+            "question": "Apa yang penting dalam menyelesaikan konflik pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 79,
+                "text": "mengendalikan emosi dan tidak terbawa amarah"
+              }
+            ],
+            "id": "231",
+            "question": "Apa yang dianjurkan untuk dilakukan suami dan istri saat menghadapi masalah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 160,
+                "text": "setiap manusia tidak luput dari kesalahan, dan memaafkan satu sama lain adalah tindakan yang mulia"
+              }
+            ],
+            "id": "232",
+            "question": "Apa yang harus diingat oleh suami dan istri saat menghadapi konflik?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 259,
+                "text": "sikap sabar dan saling memaafkan"
+              }
+            ],
+            "id": "233",
+            "question": "Apa yang dapat membantu menyelesaikan konflik dengan lebih mudah dalam pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Menghindari prasangka buruk dan selalu berpikir positif tentang pasangan adalah salah satu cara untuk menyelesaikan konflik dalam pernikahan. Suami dan istri harus berusaha untuk memahami alasan di balik tindakan pasangan mereka dan tidak langsung menuduh atau mencurigai. Dalam Islam, prasangka buruk sangat dilarang karena dapat merusak hubungan. Dengan berpikir positif dan memberikan kepercayaan kepada pasangan, konflik dapat diminimalisir dan hubungan menjadi lebih kuat.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 8,
+                "text": "prasangka buruk dan selalu berpikir positif tentang pasangan"
+              }
+            ],
+            "id": "234",
+            "question": "Apa yang harus dihindari untuk menyelesaikan konflik dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 112,
+                "text": "memahami alasan di balik tindakan pasangan mereka"
+              }
+            ],
+            "id": "235",
+            "question": "Apa yang harus diusahakan oleh suami dan istri dalam menghadapi konflik?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 180,
+                "text": "prasangka buruk sangat dilarang karena dapat merusak hubungan"
+              }
+            ],
+            "id": "236",
+            "question": "Mengapa prasangka buruk dilarang dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 264,
+                "text": "berpikir positif dan memberikan kepercayaan kepada pasangan"
+              }
+            ],
+            "id": "237",
+            "question": "Apa yang dapat membantu meminimalisir konflik dalam pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Mengikuti ajaran agama dan berdoa kepada Allah SWT adalah cara penting untuk menyelesaikan konflik dalam pernikahan. Suami dan istri dianjurkan untuk memperkuat hubungan mereka dengan Allah dan memohon petunjuk serta bantuan-Nya dalam menghadapi masalah. Berdoa bersama dapat mendekatkan pasangan dan memperkuat ikatan spiritual mereka. Dengan mendekatkan diri kepada Allah, suami dan istri akan lebih mudah menemukan jalan keluar dari konflik dan mendapatkan ketenangan serta berkah dalam rumah tangga.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 0,
+                "text": "Mengikuti ajaran agama dan berdoa kepada Allah SWT"
+              }
+            ],
+            "id": "238",
+            "question": "Apa cara penting untuk menyelesaikan konflik dalam pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 57,
+                "text": "memperkuat hubungan mereka dengan Allah dan memohon petunjuk serta bantuan-Nya"
+              }
+            ],
+            "id": "239",
+            "question": "Apa yang dianjurkan untuk dilakukan oleh suami dan istri saat menghadapi masalah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 121,
+                "text": "Berdoa bersama dapat mendekatkan pasangan dan memperkuat ikatan spiritual mereka"
+              }
+            ],
+            "id": "240",
+            "question": "Apa manfaat dari berdoa bersama dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 226,
+                "text": "lebih mudah menemukan jalan keluar dari konflik dan mendapatkan ketenangan serta berkah"
+              }
+            ],
+            "id": "241",
+            "question": "Apa yang akan didapatkan suami dan istri dengan mendekatkan diri kepada Allah?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam Islam, mengatur keuangan dalam pernikahan dianjurkan untuk dilakukan dengan cara yang adil dan transparan. Suami dan istri harus bekerja sama dalam membuat anggaran keluarga, memastikan bahwa semua kebutuhan dasar terpenuhi dan ada alokasi untuk tabungan serta investasi. Keduanya harus terbuka mengenai pendapatan dan pengeluaran, serta menghindari pemborosan. Islam mengajarkan pentingnya menjaga keseimbangan antara memenuhi kebutuhan duniawi dan mempersiapkan bekal untuk akhirat.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 22,
+                "text": "adil dan transparan"
+              }
+            ],
+            "id": "242",
+            "question": "Bagaimana cara mengatur keuangan dalam pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 82,
+                "text": "membuat anggaran keluarga"
+              }
+            ],
+            "id": "243",
+            "question": "Apa yang harus dilakukan suami dan istri dalam mengatur keuangan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 149,
+                "text": "terbuka mengenai pendapatan dan pengeluaran"
+              }
+            ],
+            "id": "244",
+            "question": "Apa yang harus dilakukan suami dan istri mengenai pendapatan dan pengeluaran?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 219,
+                "text": "menghindari pemborosan"
+              }
+            ],
+            "id": "245",
+            "question": "Apa yang harus dihindari dalam mengatur keuangan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 246,
+                "text": "menjaga keseimbangan antara memenuhi kebutuhan duniawi dan mempersiapkan bekal untuk akhirat"
+              }
+            ],
+            "id": "246",
+            "question": "Apa yang diajarkan Islam mengenai keseimbangan keuangan?"
+          }
+        ]
+      },
+      {
+        "context": "Islam menekankan pentingnya mengatur keuangan dengan prinsip kehati-hatian dan tidak boros. Suami dan istri harus merencanakan pengeluaran mereka dengan bijaksana dan memastikan bahwa mereka tidak terjebak dalam utang yang tidak perlu. Membuat catatan keuangan secara rutin dapat membantu memantau aliran uang dan memastikan bahwa semua kebutuhan keluarga terpenuhi tanpa mengorbankan tujuan jangka panjang. Dengan perencanaan yang baik, keluarga dapat hidup dalam kecukupan dan keberkahan.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 48,
+                "text": "prinsip kehati-hatian dan tidak boros"
+              }
+            ],
+            "id": "247",
+            "question": "Apa yang ditekankan Islam dalam mengatur keuangan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 82,
+                "text": "merencanakan pengeluaran mereka dengan bijaksana"
+              }
+            ],
+            "id": "248",
+            "question": "Apa yang harus dilakukan suami dan istri dalam mengatur pengeluaran?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 153,
+                "text": "tidak terjebak dalam utang yang tidak perlu"
+              }
+            ],
+            "id": "249",
+            "question": "Apa yang harus dihindari dalam pengelolaan keuangan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 185,
+                "text": "Membuat catatan keuangan secara rutin"
+              }
+            ],
+            "id": "250",
+            "question": "Apa yang dapat membantu memantau aliran uang dalam keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 314,
+                "text": "hidup dalam kecukupan dan keberkahan"
+              }
+            ],
+            "id": "251",
+            "question": "Apa hasil dari perencanaan keuangan yang baik menurut Islam?"
+          }
+        ]
+      },
+      {
+        "context": "Islam juga mengajarkan pentingnya bersedekah sebagai bagian dari mengatur keuangan dalam pernikahan. Suami dan istri dianjurkan untuk menyisihkan sebagian dari pendapatan mereka untuk disedekahkan kepada yang membutuhkan. Selain membantu orang lain, bersedekah juga dapat membawa berkah dan kelapangan rezeki bagi keluarga. Rasulullah SAW bersabda bahwa harta tidak akan berkurang dengan bersedekah, dan ini menjadi motivasi bagi umat Islam untuk tetap berbagi meski dalam keadaan terbatas.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 45,
+                "text": "bersedekah"
+              }
+            ],
+            "id": "252",
+            "question": "Apa yang diajarkan Islam sebagai bagian dari mengatur keuangan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 82,
+                "text": "menyisihkan sebagian dari pendapatan mereka"
+              }
+            ],
+            "id": "253",
+            "question": "Apa yang dianjurkan untuk dilakukan suami dan istri dengan pendapatan mereka?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 169,
+                "text": "membawa berkah dan kelapangan rezeki"
+              }
+            ],
+            "id": "254",
+            "question": "Apa manfaat bersedekah bagi keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 215,
+                "text": "harta tidak akan berkurang dengan bersedekah"
+              }
+            ],
+            "id": "255",
+            "question": "Apa yang disabdakan oleh Rasulullah SAW tentang harta dan bersedekah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 282,
+                "text": "berbagi meski dalam keadaan terbatas"
+              }
+            ],
+            "id": "256",
+            "question": "Apa yang menjadi motivasi bagi umat Islam untuk bersedekah?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam mengatur keuangan pernikahan, suami dan istri juga dianjurkan untuk bekerja sama dalam mencari nafkah. Islam tidak membebankan seluruh tanggung jawab finansial pada salah satu pihak saja. Jika memungkinkan, istri dapat bekerja dan membantu suami dalam memenuhi kebutuhan keluarga. Hal ini dapat meringankan beban suami dan meningkatkan kesejahteraan keluarga. Namun, kerja istri di luar rumah harus tetap sejalan dengan prinsip-prinsip Islam dan tidak mengabaikan tanggung jawab utama sebagai istri dan ibu.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 79,
+                "text": "bekerja sama dalam mencari nafkah"
+              }
+            ],
+            "id": "257",
+            "question": "Apa yang dianjurkan bagi suami dan istri dalam mengatur keuangan pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 124,
+                "text": "tidak membebankan seluruh tanggung jawab finansial pada salah satu pihak saja"
+              }
+            ],
+            "id": "258",
+            "question": "Apa yang tidak dilakukan Islam dalam hal tanggung jawab finansial?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 175,
+                "text": "istri dapat bekerja dan membantu suami"
+              }
+            ],
+            "id": "259",
+            "question": "Apa yang dapat dilakukan istri untuk membantu memenuhi kebutuhan keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 212,
+                "text": "meringankan beban suami dan meningkatkan kesejahteraan keluarga"
+              }
+            ],
+            "id": "260",
+            "question": "Apa manfaat kerja istri dalam membantu suami?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 276,
+                "text": "tidak mengabaikan tanggung jawab utama sebagai istri dan ibu"
+              }
+            ],
+            "id": "261",
+            "question": "Apa yang harus diperhatikan istri jika bekerja di luar rumah?"
+          }
+        ]
+      },
+      {
+        "context": "Islam mengajarkan pentingnya menabung dan berinvestasi sebagai bagian dari pengelolaan keuangan keluarga. Suami dan istri dianjurkan untuk menyisihkan sebagian pendapatan mereka untuk ditabung atau diinvestasikan demi masa depan keluarga. Menabung dapat memberikan rasa aman dan persiapan untuk kebutuhan mendesak, sementara investasi dapat membantu mengembangkan kekayaan keluarga. Islam juga mengajarkan untuk berinvestasi dalam hal-hal yang halal dan menghindari riba, agar berkah dan ridha Allah SWT selalu menyertai.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 37,
+                "text": "menabung dan berinvestasi"
+              }
+            ],
+            "id": "262",
+            "question": "Apa yang diajarkan Islam sebagai bagian dari pengelolaan keuangan keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 107,
+                "text": "menyisihkan sebagian pendapatan mereka untuk ditabung atau diinvestasikan"
+              }
+            ],
+            "id": "263",
+            "question": "Apa yang dianjurkan suami dan istri untuk masa depan keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 178,
+                "text": "memberikan rasa aman dan persiapan untuk kebutuhan mendesak"
+              }
+            ],
+            "id": "264",
+            "question": "Apa manfaat menabung bagi keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 221,
+                "text": "mengembangkan kekayaan keluarga"
+              }
+            ],
+            "id": "265",
+            "question": "Apa manfaat investasi bagi keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 286,
+                "text": "berinvestasi dalam hal-hal yang halal dan menghindari riba"
+              }
+            ],
+            "id": "266",
+            "question": "Apa yang diajarkan Islam dalam berinvestasi?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam Islam, pranikah adalah masa yang penting untuk mempersiapkan diri secara fisik, mental, dan spiritual sebelum memasuki pernikahan. Kedua calon mempelai dianjurkan untuk memperdalam ilmu agama agar memahami hak dan kewajiban masing-masing dalam pernikahan. Mempersiapkan diri dengan ilmu yang cukup akan membantu mereka menjalani kehidupan rumah tangga yang harmonis dan penuh berkah.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 34,
+                "text": "mempersiapkan diri secara fisik, mental, dan spiritual"
+              }
+            ],
+            "id": "267",
+            "question": "Apa yang harus dipersiapkan dalam masa pranikah menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 155,
+                "text": "memperdalam ilmu agama"
+              }
+            ],
+            "id": "268",
+            "question": "Apa yang dianjurkan kepada kedua calon mempelai dalam masa pranikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 200,
+                "text": "memahami hak dan kewajiban masing-masing"
+              }
+            ],
+            "id": "269",
+            "question": "Apa tujuan memperdalam ilmu agama dalam masa pranikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 250,
+                "text": "membantu mereka menjalani kehidupan rumah tangga yang harmonis dan penuh berkah"
+              }
+            ],
+            "id": "270",
+            "question": "Apa manfaat dari mempersiapkan diri dengan ilmu yang cukup sebelum pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Islam menganjurkan adanya taaruf, atau proses saling mengenal antara calon mempelai, sebagai bagian dari persiapan pranikah. Taaruf dilakukan dengan tujuan untuk mengetahui kesesuaian karakter, visi, dan misi kehidupan antara calon suami dan istri. Proses ini harus dilakukan dengan cara yang halal dan melibatkan wali atau pihak ketiga yang terpercaya agar tidak melanggar syariat Islam.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 36,
+                "text": "taaruf, atau proses saling mengenal"
+              }
+            ],
+            "id": "271",
+            "question": "Apa yang dianjurkan dalam Islam sebagai bagian dari persiapan pranikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 92,
+                "text": "mengetahui kesesuaian karakter, visi, dan misi kehidupan"
+              }
+            ],
+            "id": "272",
+            "question": "Apa tujuan dari taaruf dalam proses pranikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 170,
+                "text": "dilakukan dengan cara yang halal dan melibatkan wali atau pihak ketiga yang terpercaya"
+              }
+            ],
+            "id": "273",
+            "question": "Bagaimana taaruf seharusnya dilakukan agar tidak melanggar syariat Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 214,
+                "text": "tidak melanggar syariat Islam"
+              }
+            ],
+            "id": "274",
+            "question": "Mengapa perlu melibatkan wali atau pihak ketiga dalam proses taaruf?"
+          }
+        ]
+      },
+      {
+        "context": "Konseling pranikah juga dianjurkan dalam Islam sebagai bagian dari persiapan sebelum menikah. Konseling ini bertujuan untuk membekali calon pengantin dengan pengetahuan tentang kehidupan pernikahan, komunikasi yang efektif, pengelolaan konflik, dan pengelolaan keuangan. Dengan konseling, pasangan diharapkan lebih siap menghadapi berbagai tantangan dalam kehidupan rumah tangga dan dapat membangun hubungan yang harmonis.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 0,
+                "text": "Konseling pranikah"
+              }
+            ],
+            "id": "275",
+            "question": "Apa yang dianjurkan dalam Islam sebagai persiapan sebelum menikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 64,
+                "text": "membekali calon pengantin dengan pengetahuan tentang kehidupan pernikahan, komunikasi yang efektif, pengelolaan konflik, dan pengelolaan keuangan"
+              }
+            ],
+            "id": "276",
+            "question": "Apa tujuan dari konseling pranikah dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 207,
+                "text": "lebih siap menghadapi berbagai tantangan dalam kehidupan rumah tangga"
+              }
+            ],
+            "id": "277",
+            "question": "Apa harapan dari pasangan yang mengikuti konseling pranikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 270,
+                "text": "membangun hubungan yang harmonis"
+              }
+            ],
+            "id": "278",
+            "question": "Apa yang diharapkan dari konseling pranikah dalam hal hubungan pasangan?"
+          }
+        ]
+      },
+      {
+        "context": "Persiapan pranikah dalam Islam juga mencakup kesiapan finansial. Calon suami diharapkan sudah memiliki penghasilan yang cukup untuk menghidupi keluarga. Kesiapan finansial ini bukan hanya tentang kemampuan memenuhi kebutuhan dasar, tetapi juga mencakup kemampuan mengelola keuangan dengan baik. Kedua calon mempelai harus memahami pentingnya pengelolaan keuangan yang bijaksana untuk mencapai kesejahteraan keluarga.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 38,
+                "text": "kesiapan finansial"
+              }
+            ],
+            "id": "279",
+            "question": "Apa yang termasuk dalam persiapan pranikah dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 73,
+                "text": "memiliki penghasilan yang cukup untuk menghidupi keluarga"
+              }
+            ],
+            "id": "280",
+            "question": "Apa yang diharapkan dari calon suami dalam hal finansial sebelum menikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 172,
+                "text": "kemampuan mengelola keuangan dengan baik"
+              }
+            ],
+            "id": "281",
+            "question": "Apa yang dimaksud dengan kesiapan finansial selain kemampuan memenuhi kebutuhan dasar?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 233,
+                "text": "pengelolaan keuangan yang bijaksana"
+              }
+            ],
+            "id": "282",
+            "question": "Apa yang harus dipahami oleh kedua calon mempelai dalam hal keuangan?"
+          }
+        ]
+      },
+      {
+        "context": "Persiapan mental dan emosional adalah aspek penting dalam pranikah menurut Islam. Calon suami dan istri harus memiliki kematangan emosional untuk menghadapi berbagai dinamika dalam pernikahan. Mereka harus belajar mengendalikan emosi, bersikap sabar, dan memiliki kemampuan komunikasi yang baik. Kematangan emosional ini akan membantu mereka menghadapi konflik dengan bijaksana dan menjaga keharmonisan dalam rumah tangga.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 28,
+                "text": "persiapan mental dan emosional"
+              }
+            ],
+            "id": "283",
+            "question": "Apa aspek penting dalam pranikah menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 78,
+                "text": "kematangan emosional untuk menghadapi berbagai dinamika dalam pernikahan"
+              }
+            ],
+            "id": "284",
+            "question": "Apa yang harus dimiliki oleh calon suami dan istri dalam hal emosional?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 152,
+                "text": "mengendalikan emosi, bersikap sabar, dan memiliki kemampuan komunikasi yang baik"
+              }
+            ],
+            "id": "285",
+            "question": "Apa yang harus dipelajari oleh calon suami dan istri dalam hal emosional?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 221,
+                "text": "menghadapi konflik dengan bijaksana dan menjaga keharmonisan dalam rumah tangga"
+              }
+            ],
+            "id": "286",
+            "question": "Apa manfaat kematangan emosional dalam pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam Islam, proses mencari jodoh dilakukan dengan mempertimbangkan beberapa kriteria penting, salah satunya adalah kesamaan agama. Memilih pasangan yang seiman adalah sangat dianjurkan karena agama menjadi landasan utama dalam menjalani kehidupan rumah tangga. Pasangan yang memiliki keyakinan yang sama akan lebih mudah untuk saling memahami, bekerja sama, dan menjalankan ajaran agama dalam kehidupan sehari-hari.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 67,
+                "text": "kesamaan agama"
+              }
+            ],
+            "id": "287",
+            "question": "Apa kriteria penting dalam mencari jodoh menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 91,
+                "text": "memilih pasangan yang seiman"
+              }
+            ],
+            "id": "288",
+            "question": "Apa yang dianjurkan dalam memilih pasangan dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 223,
+                "text": "saling memahami, bekerja sama, dan menjalankan ajaran agama dalam kehidupan sehari-hari"
+              }
+            ],
+            "id": "289",
+            "question": "Apa manfaat memilih pasangan yang seiman?"
+          }
+        ]
+      },
+      {
+        "context": "Islam mengajarkan bahwa dalam mencari jodoh, hendaknya kita tidak hanya melihat dari segi fisik saja, tetapi juga dari segi akhlak dan ketakwaan. Pasangan yang baik secara akhlak akan menciptakan kehidupan rumah tangga yang harmonis dan penuh berkah. Akhlak yang baik mencakup sifat sabar, jujur, dan bertanggung jawab, yang merupakan pondasi penting dalam membangun keluarga yang kokoh.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 71,
+                "text": "tidak hanya melihat dari segi fisik saja, tetapi juga dari segi akhlak dan ketakwaan"
+              }
+            ],
+            "id": "290",
+            "question": "Apa yang diajarkan Islam dalam mencari jodoh selain melihat dari segi fisik?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 121,
+                "text": "akhlak dan ketakwaan"
+              }
+            ],
+            "id": "291",
+            "question": "Apa yang sebaiknya dipertimbangkan dalam memilih pasangan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 186,
+                "text": "kehidupan rumah tangga yang harmonis dan penuh berkah"
+              }
+            ],
+            "id": "292",
+            "question": "Apa manfaat memiliki pasangan yang baik secara akhlak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 221,
+                "text": "sifat sabar, jujur, dan bertanggung jawab"
+              }
+            ],
+            "id": "293",
+            "question": "Apa saja akhlak yang baik menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 285,
+                "text": "pondasi penting dalam membangun keluarga yang kokoh"
+              }
+            ],
+            "id": "294",
+            "question": "Mengapa akhlak yang baik penting dalam pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam mencari jodoh, Islam juga menganjurkan untuk memperhatikan nasihat dan restu dari orang tua. Orang tua memiliki pengalaman dan kebijaksanaan yang bisa menjadi panduan dalam memilih pasangan yang tepat. Restu dari orang tua juga dianggap penting karena dapat membawa berkah dan ridha dalam pernikahan. Oleh karena itu, sebaiknya calon pasangan dikenalkan kepada orang tua untuk mendapatkan restu dan nasihat mereka.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 45,
+                "text": "memperhatikan nasihat dan restu dari orang tua"
+              }
+            ],
+            "id": "295",
+            "question": "Apa yang dianjurkan Islam dalam mencari jodoh selain akhlak dan ketakwaan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 73,
+                "text": "pengalaman dan kebijaksanaan"
+              }
+            ],
+            "id": "296",
+            "question": "Apa yang dimiliki orang tua yang bisa membantu dalam memilih pasangan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 178,
+                "text": "membawa berkah dan ridha dalam pernikahan"
+              }
+            ],
+            "id": "297",
+            "question": "Mengapa restu dari orang tua dianggap penting dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 233,
+                "text": "calon pasangan dikenalkan kepada orang tua"
+              }
+            ],
+            "id": "298",
+            "question": "Apa yang sebaiknya dilakukan untuk mendapatkan restu dan nasihat dari orang tua?"
+          }
+        ]
+      },
+      {
+        "context": "Taaruf adalah proses yang dianjurkan dalam Islam untuk saling mengenal sebelum menikah. Dalam taaruf, kedua calon mempelai saling berkenalan dengan tujuan untuk mengetahui karakter, visi, dan misi hidup masing-masing. Proses ini dilakukan dengan cara yang halal, di bawah pengawasan wali atau pihak ketiga yang dipercaya, untuk memastikan bahwa segala sesuatunya sesuai dengan syariat Islam.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 11,
+                "text": "taaruf"
+              }
+            ],
+            "id": "299",
+            "question": "Apa proses yang dianjurkan dalam Islam untuk saling mengenal sebelum menikah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 93,
+                "text": "mengenal dengan tujuan untuk mengetahui karakter, visi, dan misi hidup masing-masing"
+              }
+            ],
+            "id": "300",
+            "question": "Apa tujuan dari proses taaruf?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 174,
+                "text": "dilakukan dengan cara yang halal, di bawah pengawasan wali atau pihak ketiga yang dipercaya"
+              }
+            ],
+            "id": "301",
+            "question": "Bagaimana proses taaruf dilakukan agar sesuai dengan syariat Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 223,
+                "text": "memastikan bahwa segala sesuatunya sesuai dengan syariat Islam"
+              }
+            ],
+            "id": "302",
+            "question": "Apa tujuan dari pengawasan wali atau pihak ketiga dalam proses taaruf?"
+          }
+        ]
+      },
+      {
+        "context": "Doa dan tawakal adalah bagian penting dalam proses mencari jodoh dalam Islam. Seorang muslim dianjurkan untuk selalu berdoa kepada Allah agar diberikan jodoh yang terbaik menurut-Nya. Tawakal, atau berserah diri kepada Allah, juga penting untuk menerima apapun hasil dari usaha yang telah dilakukan. Dengan berdoa dan bertawakal, seorang muslim menunjukkan keimanan dan keyakinannya bahwa Allah yang Maha Mengetahui dan Maha Pengatur segalanya.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 4,
+                "text": "doa dan tawakal"
+              }
+            ],
+            "id": "303",
+            "question": "Apa yang penting dalam proses mencari jodoh dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 87,
+                "text": "berdoa kepada Allah agar diberikan jodoh yang terbaik menurut-Nya"
+              }
+            ],
+            "id": "304",
+            "question": "Apa yang dianjurkan untuk dilakukan seorang muslim dalam mencari jodoh?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 133,
+                "text": "tawakal, atau berserah diri kepada Allah"
+              }
+            ],
+            "id": "305",
+            "question": "Apa yang penting selain berdoa dalam mencari jodoh menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 253,
+                "text": "menunjukkan keimanan dan keyakinannya bahwa Allah yang Maha Mengetahui dan Maha Pengatur segalanya"
+              }
+            ],
+            "id": "306",
+            "question": "Apa yang ditunjukkan dengan berdoa dan bertawakal dalam proses mencari jodoh?"
+          }
+        ]
+      }
+    ]
+  },{
+    "paragraphs":[
+      {
+        "context": "Pernikahan dalam Islam adalah ibadah yang sangat dianjurkan. Pernikahan bukan hanya sebagai sarana untuk memenuhi kebutuhan biologis, tetapi juga sebagai cara untuk melindungi dan menjaga kehormatan diri. Dalam sebuah hadits, Rasulullah SAW bersabda, 'Nikah adalah sunnahku, barangsiapa yang membenci sunnahku, maka dia bukan dari golonganku.' Pernikahan juga menjadi sarana untuk meraih ketenangan, kasih sayang, dan rahmat dari Allah SWT.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 26,
+                "text": "ibadah yang sangat dianjurkan"
+              }
+            ],
+            "id": "307",
+            "question": "Apa status pernikahan dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 116,
+                "text": "melindungi dan menjaga kehormatan diri"
+              }
+            ],
+            "id": "308",
+            "question": "Apa tujuan lain dari pernikahan selain memenuhi kebutuhan biologis?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 163,
+                "text": "Nikah adalah sunnahku, barangsiapa yang membenci sunnahku, maka dia bukan dari golonganku."
+              }
+            ],
+            "id": "309",
+            "question": "Apa sabda Rasulullah SAW tentang pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 238,
+                "text": "meraih ketenangan, kasih sayang, dan rahmat dari Allah SWT"
+              }
+            ],
+            "id": "310",
+            "question": "Apa manfaat pernikahan dalam Islam?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam Islam, pernikahan memiliki rukun-rukun yang harus dipenuhi agar sah. Rukun-rukun pernikahan tersebut antara lain: adanya calon suami dan calon istri, wali dari pihak perempuan, dua orang saksi yang adil, ijab (penyerahan) dari wali dan qabul (penerimaan) dari mempelai pria. Tanpa memenuhi rukun-rukun ini, pernikahan dianggap tidak sah menurut syariat Islam.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 43,
+                "text": "rukun-rukun yang harus dipenuhi agar sah"
+              }
+            ],
+            "id": "311",
+            "question": "Apa yang harus dipenuhi dalam pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 73,
+                "text": "adanya calon suami dan calon istri, wali dari pihak perempuan, dua orang saksi yang adil, ijab dan qabul"
+              }
+            ],
+            "id": "312",
+            "question": "Apa saja rukun-rukun pernikahan dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 74,
+                "text": "calon suami dan calon istri"
+              }
+            ],
+            "id": "313",
+            "question": "Apa syarat pertama dari rukun pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 117,
+                "text": "wali dari pihak perempuan"
+              }
+            ],
+            "id": "314",
+            "question": "Siapa yang berperan penting dari pihak perempuan dalam rukun pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 164,
+                "text": "dua orang saksi yang adil"
+              }
+            ],
+            "id": "315",
+            "question": "Berapa jumlah saksi yang diperlukan dalam rukun pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Pernikahan dalam Islam juga harus dilandasi dengan niat yang ikhlas karena Allah SWT. Niat yang baik akan membawa berkah dalam pernikahan dan menjadi ibadah yang bernilai di sisi Allah. Rasulullah SAW bersabda, 'Sesungguhnya segala amal perbuatan tergantung pada niatnya.' Oleh karena itu, penting bagi calon suami dan istri untuk meniatkan pernikahan mereka sebagai ibadah dan ketaatan kepada Allah.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 46,
+                "text": "niat yang ikhlas karena Allah SWT"
+              }
+            ],
+            "id": "316",
+            "question": "Apa yang harus dilandasi dalam pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 95,
+                "text": "berkah dalam pernikahan dan menjadi ibadah yang bernilai di sisi Allah"
+              }
+            ],
+            "id": "317",
+            "question": "Apa manfaat dari niat yang baik dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 163,
+                "text": "Sesungguhnya segala amal perbuatan tergantung pada niatnya."
+              }
+            ],
+            "id": "318",
+            "question": "Apa sabda Rasulullah SAW mengenai niat?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 230,
+                "text": "ibadah dan ketaatan kepada Allah"
+              }
+            ],
+            "id": "319",
+            "question": "Apa yang harus diniatkan oleh calon suami dan istri dalam pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Islam mengajarkan bahwa pernikahan adalah ikatan suci yang harus dijaga dengan baik. Suami dan istri memiliki hak dan kewajiban yang harus dipenuhi untuk menciptakan kehidupan rumah tangga yang harmonis. Suami wajib memberi nafkah lahir dan batin kepada istri, sementara istri wajib taat dan menjaga kehormatan suami. Kedua belah pihak harus saling menghormati, mencintai, dan bekerja sama dalam menjalani kehidupan.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 37,
+                "text": "ikatan suci yang harus dijaga dengan baik"
+              }
+            ],
+            "id": "320",
+            "question": "Bagaimana Islam memandang pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 95,
+                "text": "hak dan kewajiban yang harus dipenuhi"
+              }
+            ],
+            "id": "321",
+            "question": "Apa yang dimiliki oleh suami dan istri dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 144,
+                "text": "memberi nafkah lahir dan batin kepada istri"
+              }
+            ],
+            "id": "322",
+            "question": "Apa kewajiban suami dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 199,
+                "text": "taat dan menjaga kehormatan suami"
+              }
+            ],
+            "id": "323",
+            "question": "Apa kewajiban istri dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 249,
+                "text": "saling menghormati, mencintai, dan bekerja sama"
+              }
+            ],
+            "id": "324",
+            "question": "Apa yang harus dilakukan kedua belah pihak dalam menjalani kehidupan pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Pendidikan anak dalam Islam juga merupakan salah satu tujuan pernikahan. Suami dan istri bertanggung jawab untuk mendidik anak-anak mereka dengan nilai-nilai Islami. Ini termasuk mengajarkan akhlak yang baik, tata cara ibadah, dan ilmu agama. Rasulullah SAW bersabda, 'Setiap kalian adalah pemimpin, dan setiap pemimpin akan dimintai pertanggungjawaban atas yang dipimpinnya.' Oleh karena itu, penting bagi orang tua untuk memberikan contoh yang baik dan membimbing anak-anak mereka dalam agama.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 20,
+                "text": "pendidikan anak dalam Islam"
+              }
+            ],
+            "id": "325",
+            "question": "Apa salah satu tujuan pernikahan dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 64,
+                "text": "mendidik anak-anak mereka dengan nilai-nilai Islami"
+              }
+            ],
+            "id": "326",
+            "question": "Apa tanggung jawab suami dan istri terhadap anak-anak mereka?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 110,
+                "text": "mengajarkan akhlak yang baik, tata cara ibadah, dan ilmu agama"
+              }
+            ],
+            "id": "327",
+            "question": "Apa yang termasuk dalam pendidikan anak menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 192,
+                "text": "Setiap kalian adalah pemimpin, dan setiap pemimpin akan dimintai pertanggungjawaban atas yang dipimpinnya."
+              }
+            ],
+            "id": "328",
+            "question": "Apa sabda Rasulullah SAW tentang tanggung jawab pemimpin?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 288,
+                "text": "memberikan contoh yang baik dan membimbing anak-anak mereka dalam agama"
+              }
+            ],
+            "id": "329",
+            "question": "Apa yang harus dilakukan orang tua dalam mendidik anak menurut Islam?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam Islam, menjaga pernikahan agar tetap harmonis adalah tanggung jawab kedua belah pihak. Salah satu cara untuk menjaga pernikahan adalah dengan selalu berkomunikasi secara terbuka dan jujur. Komunikasi yang baik akan membantu suami dan istri untuk saling memahami perasaan dan kebutuhan masing-masing, serta menyelesaikan masalah dengan cara yang bijaksana dan penuh kasih sayang.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 83,
+                "text": "berkomunikasi secara terbuka dan jujur"
+              }
+            ],
+            "id": "330",
+            "question": "Apa salah satu cara untuk menjaga pernikahan menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 131,
+                "text": "membantu suami dan istri untuk saling memahami perasaan dan kebutuhan masing-masing"
+              }
+            ],
+            "id": "331",
+            "question": "Apa manfaat dari komunikasi yang baik dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 209,
+                "text": "menyelesaikan masalah dengan cara yang bijaksana dan penuh kasih sayang"
+              }
+            ],
+            "id": "332",
+            "question": "Bagaimana komunikasi yang baik membantu dalam menyelesaikan masalah dalam pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Saling menghargai dan menghormati adalah prinsip dasar dalam menjaga pernikahan menurut ajaran Islam. Suami dan istri harus saling menghormati peran dan tanggung jawab masing-masing. Dengan saling menghargai, pasangan akan merasa dihargai dan dicintai, yang dapat memperkuat ikatan pernikahan dan menciptakan lingkungan keluarga yang harmonis.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 0,
+                "text": "saling menghargai dan menghormati"
+              }
+            ],
+            "id": "333",
+            "question": "Apa prinsip dasar dalam menjaga pernikahan menurut ajaran Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 77,
+                "text": "saling menghormati peran dan tanggung jawab masing-masing"
+              }
+            ],
+            "id": "334",
+            "question": "Apa yang harus dilakukan suami dan istri untuk menjaga pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 129,
+                "text": "merasakan dihargai dan dicintai"
+              }
+            ],
+            "id": "335",
+            "question": "Apa manfaat dari saling menghargai dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 175,
+                "text": "memperkuat ikatan pernikahan dan menciptakan lingkungan keluarga yang harmonis"
+              }
+            ],
+            "id": "336",
+            "question": "Bagaimana saling menghargai dapat mempengaruhi ikatan pernikahan?"
+          }
+        ]
+      },
+      {
+        "context": "Memberikan perhatian dan kasih sayang merupakan kunci untuk menjaga keharmonisan dalam pernikahan. Islam mengajarkan bahwa suami dan istri harus saling memberikan perhatian yang tulus dan menunjukkan kasih sayang dalam setiap tindakan. Rasulullah SAW bersabda, 'Yang terbaik di antara kalian adalah yang terbaik terhadap keluarganya.' Oleh karena itu, penting untuk selalu memperlakukan pasangan dengan baik dan penuh kasih sayang.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 20,
+                "text": "perhatian dan kasih sayang"
+              }
+            ],
+            "id": "337",
+            "question": "Apa yang merupakan kunci untuk menjaga keharmonisan dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 104,
+                "text": "memberikan perhatian yang tulus dan menunjukkan kasih sayang dalam setiap tindakan"
+              }
+            ],
+            "id": "338",
+            "question": "Apa yang diajarkan Islam mengenai perhatian dan kasih sayang dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 198,
+                "text": "Yang terbaik di antara kalian adalah yang terbaik terhadap keluarganya."
+              }
+            ],
+            "id": "339",
+            "question": "Apa sabda Rasulullah SAW mengenai perlakuan terhadap keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 270,
+                "text": "memperlakukan pasangan dengan baik dan penuh kasih sayang"
+              }
+            ],
+            "id": "340",
+            "question": "Apa yang penting dilakukan terhadap pasangan menurut ajaran Islam?"
+          }
+        ]
+      },
+      {
+        "context": "Salah satu cara untuk menjaga pernikahan dalam Islam adalah dengan saling mendukung dalam ibadah dan kegiatan keagamaan. Suami dan istri sebaiknya saling mengajak untuk shalat berjamaah, membaca Al-Qur'an, dan mengikuti majlis ilmu. Dengan saling mendukung dalam kebaikan, pasangan akan semakin dekat dengan Allah SWT dan meningkatkan keharmonisan rumah tangga.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 38,
+                "text": "saling mendukung dalam ibadah dan kegiatan keagamaan"
+              }
+            ],
+            "id": "341",
+            "question": "Apa salah satu cara untuk menjaga pernikahan dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 100,
+                "text": "shalat berjamaah, membaca Al-Qur'an, dan mengikuti majlis ilmu"
+              }
+            ],
+            "id": "342",
+            "question": "Apa saja kegiatan yang sebaiknya dilakukan bersama suami dan istri?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 172,
+                "text": "semakin dekat dengan Allah SWT dan meningkatkan keharmonisan rumah tangga"
+              }
+            ],
+            "id": "343",
+            "question": "Apa manfaat dari saling mendukung dalam ibadah bagi pasangan suami istri?"
+          }
+        ]
+      },
+      {
+        "context": "Mengatasi masalah dengan bijaksana adalah cara penting untuk menjaga pernikahan dalam Islam. Setiap pasangan pasti akan menghadapi konflik, namun penting untuk menyelesaikannya dengan cara yang baik. Islam mengajarkan untuk mengutamakan musyawarah dalam menyelesaikan masalah. Dengan berdiskusi secara terbuka dan mencari solusi bersama, konflik dapat diselesaikan tanpa menyisakan dendam atau sakit hati.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 28,
+                "text": "mengatasi masalah dengan bijaksana"
+              }
+            ],
+            "id": "344",
+            "question": "Apa cara penting untuk menjaga pernikahan dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 108,
+                "text": "menyelesaikannya dengan cara yang baik"
+              }
+            ],
+            "id": "345",
+            "question": "Bagaimana seharusnya menyelesaikan konflik dalam pernikahan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 154,
+                "text": "mengutamakan musyawarah dalam menyelesaikan masalah"
+              }
+            ],
+            "id": "346",
+            "question": "Apa yang diajarkan Islam dalam menyelesaikan masalah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 200,
+                "text": "berdiskusi secara terbuka dan mencari solusi bersama"
+              }
+            ],
+            "id": "347",
+            "question": "Apa yang harus dilakukan pasangan untuk menyelesaikan konflik menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 252,
+                "text": "diselesaikan tanpa menyisakan dendam atau sakit hati"
+              }
+            ],
+            "id": "348",
+            "question": "Apa tujuan dari menyelesaikan konflik dengan cara yang baik?"
+          }
+        ]
+      },
+      {
+        "context": "Dalam Islam, mendidik anak adalah tanggung jawab utama orang tua. Rasulullah SAW bersabda, 'Setiap anak lahir dalam keadaan fitrah, orang tuanyalah yang menjadikannya Yahudi, Nasrani, atau Majusi.' Oleh karena itu, penting bagi orang tua untuk memberikan pendidikan agama yang baik kepada anak-anak mereka sejak usia dini. Pendidikan agama akan membentuk karakter dan moral yang kuat, sehingga anak-anak dapat tumbuh menjadi individu yang taat kepada Allah SWT dan berakhlak mulia.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 29,
+                "text": "tanggung jawab utama orang tua"
+              }
+            ],
+            "id": "349",
+            "question": "Apa tanggung jawab utama orang tua dalam Islam terkait anak-anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 70,
+                "text": "Setiap anak lahir dalam keadaan fitrah, orang tuanyalah yang menjadikannya Yahudi, Nasrani, atau Majusi."
+              }
+            ],
+            "id": "350",
+            "question": "Apa sabda Rasulullah SAW tentang keadaan anak saat lahir?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 154,
+                "text": "memberikan pendidikan agama yang baik kepada anak-anak mereka"
+              }
+            ],
+            "id": "351",
+            "question": "Apa yang penting dilakukan orang tua sejak usia dini terhadap anak-anak mereka?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 236,
+                "text": "membentuk karakter dan moral yang kuat"
+              }
+            ],
+            "id": "352",
+            "question": "Apa manfaat dari pendidikan agama yang baik dalam pembentukan anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 294,
+                "text": "tumbuh menjadi individu yang taat kepada Allah SWT dan berakhlak mulia"
+              }
+            ],
+            "id": "353",
+            "question": "Apa tujuan akhir dari pendidikan agama dalam Islam untuk anak-anak?"
+          }
+        ]
+      },
+      {
+        "context": "Islam mengajarkan pentingnya menanamkan nilai-nilai kejujuran dan keadilan dalam diri anak. Orang tua harus menjadi teladan yang baik dalam hal ini. Rasulullah SAW bersabda, 'Tiadalah seorang anak kecuali dilahirkan dalam keadaan fitrah. Maka kedua orang tuanyalah yang menjadikannya Yahudi, atau Nasrani, atau Majusi.' Orang tua yang jujur dan adil akan memberikan contoh nyata bagi anak-anak mereka, sehingga mereka pun akan tumbuh dengan nilai-nilai tersebut.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 43,
+                "text": "menanamkan nilai-nilai kejujuran dan keadilan dalam diri anak"
+              }
+            ],
+            "id": "354",
+            "question": "Apa yang diajarkan Islam mengenai nilai-nilai dalam diri anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 112,
+                "text": "menjadi teladan yang baik"
+              }
+            ],
+            "id": "355",
+            "question": "Apa yang harus dilakukan orang tua terkait kejujuran dan keadilan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 154,
+                "text": "Tiadalah seorang anak kecuali dilahirkan dalam keadaan fitrah. Maka kedua orang tuanyalah yang menjadikannya Yahudi, atau Nasrani, atau Majusi."
+              }
+            ],
+            "id": "356",
+            "question": "Apa sabda Rasulullah SAW mengenai keadaan fitrah anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 238,
+                "text": "Orang tua yang jujur dan adil"
+              }
+            ],
+            "id": "357",
+            "question": "Siapa yang harus menjadi teladan dalam hal kejujuran dan keadilan bagi anak-anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 298,
+                "text": "mereka pun akan tumbuh dengan nilai-nilai tersebut"
+              }
+            ],
+            "id": "358",
+            "question": "Apa hasil dari orang tua yang jujur dan adil bagi anak-anak mereka?"
+          }
+        ]
+      },
+      {
+        "context": "Mendidik anak dalam Islam juga berarti memberikan mereka kesempatan untuk belajar dan berkembang. Orang tua seharusnya tidak hanya fokus pada pendidikan agama, tetapi juga pada pendidikan umum yang bermanfaat. Rasulullah SAW bersabda, 'Menuntut ilmu itu wajib bagi setiap Muslim.' Dengan memberikan akses kepada pendidikan yang baik, orang tua membantu anak-anak mereka untuk mengembangkan potensi mereka secara maksimal dan mempersiapkan mereka untuk masa depan yang lebih baik.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 40,
+                "text": "memberikan mereka kesempatan untuk belajar dan berkembang"
+              }
+            ],
+            "id": "359",
+            "question": "Apa arti mendidik anak dalam Islam selain pendidikan agama?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 142,
+                "text": "pendidikan umum yang bermanfaat"
+              }
+            ],
+            "id": "360",
+            "question": "Apa yang seharusnya tidak hanya difokuskan oleh orang tua dalam mendidik anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 184,
+                "text": "Menuntut ilmu itu wajib bagi setiap Muslim."
+              }
+            ],
+            "id": "361",
+            "question": "Apa sabda Rasulullah SAW mengenai menuntut ilmu?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 226,
+                "text": "memberikan akses kepada pendidikan yang baik"
+              }
+            ],
+            "id": "362",
+            "question": "Apa yang harus diberikan orang tua kepada anak-anak terkait pendidikan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 299,
+                "text": "mengembangkan potensi mereka secara maksimal dan mempersiapkan mereka untuk masa depan yang lebih baik"
+              }
+            ],
+            "id": "363",
+            "question": "Apa manfaat dari memberikan pendidikan yang baik kepada anak-anak?"
+          }
+        ]
+      },
+      {
+        "context": "Islam juga mengajarkan pentingnya menanamkan rasa cinta dan kasih sayang dalam keluarga. Orang tua harus menciptakan lingkungan yang penuh kasih, dimana anak-anak merasa aman dan dicintai. Rasulullah SAW bersabda, 'Bukanlah termasuk golongan kami orang yang tidak menyayangi anak-anaknya.' Dengan menciptakan lingkungan yang penuh cinta, anak-anak akan tumbuh dengan kepercayaan diri yang kuat dan mampu menunjukkan kasih sayang kepada orang lain.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 37,
+                "text": "menanamkan rasa cinta dan kasih sayang dalam keluarga"
+              }
+            ],
+            "id": "364",
+            "question": "Apa yang diajarkan Islam mengenai lingkungan keluarga?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 82,
+                "text": "menciptakan lingkungan yang penuh kasih"
+              }
+            ],
+            "id": "365",
+            "question": "Apa yang harus dilakukan orang tua untuk anak-anak mereka terkait kasih sayang?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 134,
+                "text": "Bukanlah termasuk golongan kami orang yang tidak menyayangi anak-anaknya."
+              }
+            ],
+            "id": "366",
+            "question": "Apa sabda Rasulullah SAW tentang kasih sayang kepada anak-anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 176,
+                "text": "anak-anak akan tumbuh dengan kepercayaan diri yang kuat dan mampu menunjukkan kasih sayang kepada orang lain"
+              }
+            ],
+            "id": "367",
+            "question": "Apa manfaat dari menciptakan lingkungan yang penuh cinta bagi anak-anak?"
+          }
+        ]
+      },
+      {
+        "context": "Islam juga menekankan pentingnya disiplin dalam mendidik anak. Disiplin yang dimaksud bukanlah dengan kekerasan, tetapi dengan memberikan aturan dan batasan yang jelas. Orang tua harus konsisten dalam menerapkan disiplin agar anak-anak memahami konsekuensi dari setiap tindakan mereka. Rasulullah SAW bersabda, 'Ajarkanlah anak-anakmu shalat ketika mereka berusia tujuh tahun, dan pukullah mereka jika tidak shalat ketika berusia sepuluh tahun.' Hadits ini menunjukkan pentingnya disiplin dalam mendidik anak, terutama dalam hal ibadah.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 47,
+                "text": "disiplin dalam mendidik anak"
+              }
+            ],
+            "id": "368",
+            "question": "Apa yang ditekankan dalam mendidik anak menurut Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 69,
+                "text": "bukanlah dengan kekerasan, tetapi dengan memberikan aturan dan batasan yang jelas"
+              }
+            ],
+            "id": "369",
+            "question": "Bagaimana cara memberikan disiplin yang dimaksud dalam Islam?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 113,
+                "text": "konsisten dalam menerapkan disiplin"
+              }
+            ],
+            "id": "370",
+            "question": "Apa yang harus dilakukan orang tua terkait disiplin anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 155,
+                "text": "memahami konsekuensi dari setiap tindakan mereka"
+              }
+            ],
+            "id": "371",
+            "question": "Apa tujuan dari konsistensi dalam disiplin bagi anak-anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 225,
+                "text": "Ajarkanlah anak-anakmu shalat ketika mereka berusia tujuh tahun, dan pukullah mereka jika tidak shalat ketika berusia sepuluh tahun."
+              }
+            ],
+            "id": "372",
+            "question": "Apa sabda Rasulullah SAW mengenai disiplin dalam hal ibadah?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 321,
+                "text": "pentingnya disiplin dalam mendidik anak, terutama dalam hal ibadah"
+              }
+            ],
+            "id": "373",
+            "question": "Apa yang ditunjukkan hadits tersebut mengenai disiplin?"
+          }
+        ]
+      },{
+        "context": "Parenting merupakan proses mendidik dan membimbing anak-anak dalam berbagai aspek kehidupan untuk membentuk kepribadian, keterampilan, dan nilai-nilai yang positif. Ini melibatkan interaksi antara orang tua dan anak dalam pembentukan perilaku, penanaman nilai-nilai, serta pemenuhan kebutuhan fisik, emosional, dan sosial anak.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 0,
+                "text": "Parenting merupakan proses mendidik dan membimbing anak-anak"
+              }
+            ],
+            "id": "374",
+            "question": "Apa yang dimaksud dengan parenting?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 118,
+                "text": "membentuk kepribadian, keterampilan, dan nilai-nilai yang positif"
+              }
+            ],
+            "id": "375",
+            "question": "Apa tujuan dari parenting?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 197,
+                "text": "interaksi antara orang tua dan anak dalam pembentukan perilaku"
+              }
+            ],
+            "id": "376",
+            "question": "Apa yang melibatkan parenting?"
+          }
+        ]
+      },
+      {
+        "context": "Parenting melibatkan berbagai strategi dan pendekatan dalam menghadapi berbagai situasi yang muncul dalam kehidupan sehari-hari. Ini termasuk memberikan perhatian yang tepat, memberikan batasan yang jelas, memberikan pujian dan dorongan, serta memberikan disiplin yang konsisten. Selain itu, komunikasi yang terbuka dan empati terhadap anak juga merupakan bagian penting dari parenting yang efektif.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 0,
+                "text": "Parenting melibatkan berbagai strategi dan pendekatan"
+              }
+            ],
+            "id": "377",
+            "question": "Apa yang terlibat dalam parenting?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 121,
+                "text": "memberikan perhatian yang tepat, memberikan batasan yang jelas, memberikan pujian dan dorongan, serta memberikan disiplin yang konsisten"
+              }
+            ],
+            "id": "378",
+            "question": "Apa saja strategi yang termasuk dalam parenting?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 224,
+                "text": "komunikasi yang terbuka dan empati terhadap anak"
+              }
+            ],
+            "id": "379",
+            "question": "Apa yang penting dalam komunikasi dalam parenting?"
+          }
+        ]
+      },
+      {
+        "context": "Seorang yang baik dalam parenting tidak hanya memenuhi kebutuhan fisik anak, tetapi juga memperhatikan perkembangan emosional dan sosial mereka. Ini termasuk memberikan dukungan emosional, memfasilitasi interaksi sosial yang sehat, serta membantu anak-anak mengelola emosi mereka dengan baik. Orang tua yang baik juga memberikan contoh yang baik dalam perilaku dan sikap, sehingga anak-anak dapat belajar dari mereka.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 27,
+                "text": "memperhatikan perkembangan emosional dan sosial mereka"
+              }
+            ],
+            "id": "380",
+            "question": "Apa yang dilakukan oleh seseorang yang baik dalam parenting?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 142,
+                "text": "memberikan dukungan emosional, memfasilitasi interaksi sosial yang sehat, serta membantu anak-anak mengelola emosi mereka dengan baik"
+              }
+            ],
+            "id": "381",
+            "question": "Apa yang termasuk dalam memperhatikan perkembangan emosional dan sosial anak?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 254,
+                "text": "memberikan contoh yang baik dalam perilaku dan sikap"
+              }
+            ],
+            "id": "382",
+            "question": "Apa yang harus dilakukan orang tua dalam memberikan contoh yang baik?"
+          }
+        ]
+      },
+      {
+        "context": "Parenting juga melibatkan pengambilan keputusan yang bijaksana terkait pendidikan, kesehatan, dan kebutuhan lainnya dari anak-anak. Orang tua harus mempertimbangkan kepentingan terbaik anak dalam setiap keputusan yang mereka buat, serta bekerja sama dengan anak untuk membantu mereka mencapai potensi terbaik mereka.",
+        "qas": [
+          {
+            "answers": [
+              {
+                "answer_start": 0,
+                "text": "Parenting juga melibatkan pengambilan keputusan yang bijaksana"
+              }
+            ],
+            "id": "383",
+            "question": "Apa yang termasuk dalam pengambilan keputusan dalam parenting?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 116,
+                "text": "memperhitungkan kepentingan terbaik anak dalam setiap keputusan yang mereka buat"
+              }
+            ],
+            "id": "384",
+            "question": "Apa yang harus dipertimbangkan oleh orang tua dalam mengambil keputusan?"
+          },
+          {
+            "answers": [
+              {
+                "answer_start": 164,
+                "text": "bekerja sama dengan anak untuk membantu mereka mencapai potensi terbaik mereka"
+              }
+            ],
+            "id": "385",
+            "question": "Apa yang harus dilakukan orang tua setelah mengambil keputusan?"
+          }
+        ]
+      }
+    ]
+  }
+]
+}
