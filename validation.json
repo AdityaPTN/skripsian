@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "title": "Proklamasi Kemerdekaan Indonesia",
+      "paragraphs": [
+        {
+          "context": "Teks proklamasi kemerdekaan Indonesia dibacakan oleh Soekarno pada tanggal 17 Agustus 1945 di Jakarta.",
+          "qas": [
+            {
+              "question": "Siapa yang membacakan teks proklamasi kemerdekaan Indonesia?",
+              "id": "1",
+              "answers": [
+                {
+                  "text": "Soekarno",
+                  "answer_start": 44
+                }
+              ]
+            },
+            {
+              "question": "Di mana teks proklamasi kemerdekaan dibacakan?",
+              "id": "2",
+              "answers": [
+                {
+                  "text": "di Jakarta",
+                  "answer_start": 77
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gunung Bromo",
+      "paragraphs": [
+        {
+          "context": "Gunung Bromo adalah salah satu gunung berapi yang masih aktif di Indonesia dan terkenal sebagai objek wisata.",
+          "qas": [
+            {
+              "question": "Apa yang terkenal dari Gunung Bromo?",
+              "id": "3",
+              "answers": [
+                {
+                  "text": "sebagai objek wisata",
+                  "answer_start": 91
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
