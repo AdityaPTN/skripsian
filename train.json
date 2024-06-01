@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "title": "Sejarah Indonesia",
+      "paragraphs": [
+        {
+          "context": "Indonesia merdeka pada tanggal 17 Agustus 1945 setelah dijajah oleh Belanda selama lebih dari 300 tahun.",
+          "qas": [
+            {
+              "question": "Kapan Indonesia merdeka?",
+              "id": "1",
+              "answers": [
+                {
+                  "text": "17 Agustus 1945",
+                  "answer_start": 25
+                }
+              ]
+            },
+            {
+              "question": "Berapa lama Indonesia dijajah oleh Belanda?",
+              "id": "2",
+              "answers": [
+                {
+                  "text": "lebih dari 300 tahun",
+                  "answer_start": 56
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bali",
+      "paragraphs": [
+        {
+          "context": "Bali adalah salah satu provinsi di Indonesia yang terkenal dengan pariwisatanya.",
+          "qas": [
+            {
+              "question": "Apa yang terkenal dari Bali?",
+              "id": "3",
+              "answers": [
+                {
+                  "text": "pariwisatanya",
+                  "answer_start": 60
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
