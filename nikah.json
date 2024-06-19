@@ -1,847 +1,847 @@
 {
-  "intents": [
-    {
-      "tag": "salam",
-      "patterns": [
-        "Halo",
-        "Apa kabar?",
-        "Ada orang?",
-        "Selamat siang",
-        "Bagaimana kabarmu",
-        "Halo apa kabar",
-        "Hi",
-        "Apa yang sedang terjadi",
-        "Assalamualaikum",
-        "Hai"
-      ],
-      "responses": [
-        "salam!",
-        "Senang bertemu denganmu lagi!",
-        "salam, bagaimana saya bisa membantu?"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "perpisahan",
-      "patterns": [
-        "sampai jumpa",
-        "selamat tinggal",
-        "dadah",
-        "Sampai nanti",
-        "Selamat tinggal",
-        "Saya pergi",
-        "Sampai ketemu",
-        "Semoga harimu menyenangkan",
-        "bicara nanti",
-        "ttyl",
-        "Saya harus pergi",
-        "gtg",
-        "bye",
-        "dah"
-      ],
-      "responses": [
-        "Sedih melihatmu pergi :(",
-        "Sampai jumpa nanti",
-        "Selamat tinggal!",
-        "Kembali lagi ya"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "definisi_pernikahan",
-      "patterns": [
-        "Apa itu pernikahan",
-        "Definisi pernikahan",
-        "Pengertian pernikahan",
-        "Apa arti pernikahan",
-        "Pernikahan adalah",
-        "Apa yang dimaksud pernikahan atau perkawinan"
-      ],
-      "responses": [
-        "Pernikahan atau perkawinan adalah ikatan lahir batin seorang pria dan seorang wanita sebagai suami istri."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "tujuan_pernikahan",
-      "patterns": [
-        "Apa tujuan pernikahan",
-        "Apa tujuan perkawinan",
-        "Kenapa harus menikah",
-        "Mengapa orang menikah",
-        "Tujuan dari menikah"
-      ],
-      "responses": [
-        "Tujuan dari menikah adalah untuk membentuk keluarga yang bahagia dan kekal berdasarkan Ketuhanan Yang Maha Esa."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "akibat_tidak_memahami_pernikahan",
-      "patterns": [
-        "Apa akibat tidak memahami tujuan pernikahan",
-        "Dampak tidak memahami pernikahan",
-        "Ketidakharmonisan pasangan suami istri",
-        "Penyebab perceraian"
-      ],
-      "responses": [
-        "Akibat dari tidak memahami tujuan perkawinan akan menyebabkan ketidakharmonisan pasangan suami istri dan perceraian."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "hukum_pernikahan",
-      "patterns": [
-        "Hukum pernikahan di Indonesia",
-        "Pasal tentang pernikahan",
-        "Peraturan pernikahan di Indonesia",
-        "Undang-undang pernikahan",
-        "Di mana hukum perkawinan di Indonesia diatur?"
-      ],
-      "responses": [
-        "Hukum perkawinan/pernikahan di Indonesia ada pada pasal 2 ayat 1 dan pasal 2 ayat 2. Pasal 2 ayat 1 tentang perkawinan sah apabila dilakukan menurut hukum masing-masing agamanya dan kepercayaannya. Pasal 2 ayat 2 berisi tiap-tiap perkawinan dicatat menurut peraturan perundangan yang berlaku dan dicatat di KUA."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "hak_kewajiban_suami_istri",
-      "patterns": [
-        "Hak dan kewajiban suami istri",
-        "Kewajiban suami istri",
-        "Hak suami istri",
-        "Tanggung jawab suami istri"
-      ],
-      "responses": [
-        "Hak dan kewajiban suami istri terdapat pada UU No 1 tahun 1974. Kewajiban suami istri adalah saling cinta mencintai, hormat menghormati, setia, saling membantu lahir batin."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "kdrt",
-      "patterns": [
-        "Apa itu KDRT",
-        "Pengertian KDRT",
-        "Definisi KDRT",
-      ],
-      "responses": [
-        "KDRT adalah kekerasan yang menyebabkan penderitaan fisik atau seksual."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "hukum_kdrt",
-      "patterns": [
-        "Pasal tentang KDRT",
-        "Undang-undang KDRT",
-        "Peraturan tentang KDRT",
-        "Hukum KDRT"
-      ],
-      "responses": [
-        "Hukum KDRT terdapat pada UU RI No 23 Tahun 2004. UU RI No 23 berisi tentang Penghapusan Kekerasan Dalam Rumah Tangga. Hukum KDRT lainnya terdapat pada Pasal 5 UU No.23 Tahun 2004. Pasal 5 UU No.23 Tahun 2004 melarang kekerasan fisik dalam rumah tangga."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "perlindungan_anak",
-      "patterns": [
-        "Perlindungan anak",
-        "Undang-undang perlindungan anak",
-        "Hukum tentang perlindungan anak",
-        "Pasal perlindungan anak"
-      ],
-      "responses": [
-        "Batasan usia anak di Indonesia adalah 18 tahun dan dalam perlindungan anak. Undang – Undang Perlindungan Anak ada pada UU RI No 23 tahun 2002."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "kewajiban_orangtua",
-      "patterns": [
-        "Kewajiban orangtua terhadap anak",
-        "Hak dan kewajiban orangtua",
-        "Tanggung jawab orangtua",
-        "Kewajiban orangtua"
-      ],
-      "responses": [
-        "Kewajiban orangtua adalah mengasuh, memelihara, mendidik, melindungi anak, sesuai bakat dan minatnya, serta mencegah perkawinan usia dini. Pasal tentang kewajiban orangtua terhadap anak terdapat pada Pasal 26 UUPA."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "hak_anak",
-      "patterns": [
-        "Hak anak",
-        "Empat pilar hak anak",
-        "Hak dasar anak",
-        "Apa saja hak anak"
-      ],
-      "responses": [
-        "Hak anak ada empat pilar. Hak anak yaitu hak keberlangsungan hidup, hak perlindungan, hak tumbuh kembang dan hak partisipasi."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "definisi_keluarga",
-      "patterns": [
-        "Apa itu keluarga",
-        "Definisi keluarga",
-        "Pengertian keluarga",
-        "Apa arti keluarga",
-        "Keluarga adalah"
-      ],
-      "responses": [
-        "Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri dan anak."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "hukum_kependudukan",
-      "patterns": [
-        "Hukum tentang kependudukan",
-        "Undang-Undang kependudukan",
-        "Peraturan tentang kependudukan",
-        "UU tentang kependudukan"
-      ],
-      "responses": [
-        "Undang-Undang tentang Perkembangan Kependudukan dan Pembangunan terdapat pada UU No. 52 Tahun 2009."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "tugas_keluarga",
-      "patterns": [
-        "Apa tugas utama keluarga",
-        "Tugas keluarga",
-        "Tugas utama keluarga",
-        "Kewajiban keluarga"
-      ],
-      "responses": [
-        "Tugas utama keluarga adalah memenuhi kebutuhan fisik, rohani, perkembangan, dan emosional anggota keluarganya."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "pembangunan_keluarga",
-      "patterns": [
-        "Apa itu pembangunan keluarga",
-        "Definisi pembangunan keluarga",
-        "Pengertian pembangunan keluarga",
-        "Tujuan pembangunan keluarga",
-        "Kenapa pembangunan keluarga penting"
-      ],
-      "responses": [
-        "Pembangunan keluarga adalah upaya mewujudkan keluarga berkualitas yang hidup dalam lingkungan yang sehat, bahagia, dan sejahtera. Tujuan pembangunan keluarga untuk meningkatkan kualitas keluarga. Pembangunan keluarga dilakukan agar dapat timbul rasa aman, tenteram, dan harapan masa depan yang lebih baik."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "cara_pembangunan_keluarga",
-      "patterns": [
-        "Bagaimana cara pembangunan keluarga",
-        "Cara pembangunan keluarga",
-        "Langkah-langkah pembangunan keluarga",
-        "Cara membangun keluarga berkualitas"
-      ],
-      "responses": [
-        "Pembangunan keluarga dapat dilakukan dengan membangun keharmonisan pasangan, mendukung perkembangan anak, mempersiapkan remaja, dan memberdayakan lansia."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "persiapan_remaja",
-      "patterns": [
-        "Bagaimana mempersiapkan remaja",
-        "Persiapan remaja dalam keluarga",
-        "Pembangunan keluarga untuk remaja",
-        "Ketahanan keluarga remaja"
-      ],
-      "responses": [
-        "Mempersiapkan remaja dalam pembangunan keluarga adalah membangun ketahanan keluarga remaja dan kualitas remaja."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "pemberdayaan_lansia",
-      "patterns": [
-        "Bagaimana pemberdayaan lansia",
-        "Pemberdayaan lansia dalam keluarga",
-        "Pembangunan keluarga untuk lansia",
-        "Memberdayakan lansia"
-      ],
-      "responses": [
-        "Pembangunan keluarga berfungsi untuk memberdayakan lansia melalui kegiatan pemberdayaan ekonomi keluarga. Tujuan memberdayakan lansia adalah untuk mewujudkan kesejahteraan keluarga."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "kualitas_lansia",
-      "patterns": [
-        "Bagaimana meningkatkan kualitas lansia",
-        "Meningkatkan kualitas lansia",
-        "Kualitas lansia dalam keluarga",
-        "Peran lansia dalam keluarga"
-      ],
-      "responses": [
-        "Meningkatnya kualitas lansia dan pemberdayaan keluarga rentan sehingga mampu berperan dalam kehidupan keluarga."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "definisi_fungsi_keluarga",
-      "patterns": [
-        "Apa itu 8 fungsi keluarga",
-        "Definisi 8 fungsi keluarga",
-        "Pengertian 8 fungsi keluarga",
-        "Apa saja fungsi keluarga",
-        "Apa saja nilai-nilai fungsi keluarga"
-      ],
-      "responses": [
-        "Penanaman nilai-nilai 8 fungsi keluarga mencakup agama, sosial-budaya, kasih sayang, perlindungan, reproduksi, sosial-pendidikan, ekonomi, dan lingkungan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "fungsi_agama",
-      "patterns": [
-        "Apa itu fungsi agama",
-        "Definisi fungsi agama",
-        "Pengertian fungsi agama",
-        "Fungsi agama dalam keluarga",
-        "Nilai-nilai fungsi agama"
-      ],
-      "responses": [
-        "Fungsi Agama adalah tempat pertama anak mengenal agama. Pasangan suami istri harus mengamalkan nilai-nilai agama seperti iman, jujur, kesalehan, dan kasih sayang."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_iman",
-      "patterns": [
-        "Apa itu iman",
-        "Definisi iman",
-        "Pengertian iman",
-        "Nilai iman dalam keluarga"
-      ],
-      "responses": [
-        "Iman yang dimaksud yaitu mengimani enam Rukun Iman."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_jujur",
-      "patterns": [
-        "Apa itu jujur",
-        "Definisi jujur",
-        "Pengertian jujur",
-        "Nilai jujur dalam keluarga"
-      ],
-      "responses": [
-        "Jujur, yaitu menyampaikan apa adanya."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_kesalehan",
-      "patterns": [
-        "Apa itu kesalehan",
-        "Definisi kesalehan",
-        "Pengertian kesalehan",
-        "Nilai kesalehan dalam keluarga"
-      ],
-      "responses": [
-        "Kesalehan adalah memiliki nilai moral yang tinggi dengan melakukan sesuatu yang benar secara konsisten."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_kasih_sayang",
-      "patterns": [
-        "Apa itu kasih sayang",
-        "Definisi kasih sayang",
-        "Pengertian kasih sayang",
-        "Nilai kasih sayang dalam keluarga"
-      ],
-      "responses": [
-        "Kasih sayang, merupakan ungkapan perasaan dengan penuh perhatian, kesadaran dan kecintaan terhadap seseorang."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "fungsi_sosial_budaya",
-      "patterns": [
-        "Apa itu fungsi sosial budaya",
-        "Definisi fungsi sosial budaya",
-        "Pengertian fungsi sosial budaya",
-        "Fungsi sosial budaya dalam keluarga",
-        "Nilai-nilai fungsi sosial budaya"
-      ],
-      "responses": [
-        "Fungsi Sosial Budaya mencakup nilai gotong royong, sopan santun, kerukunan, peduli, kebersamaan, toleransi, dan kesadaran kebangsaan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_gotong_royong",
-      "patterns": [
-        "Apa itu gotong royong",
-        "Definisi gotong royong",
-        "Pengertian gotong royong",
-        "Nilai gotong royong dalam keluarga"
-      ],
-      "responses": [
-        "Gotong royong adalah melakukan pekerjaan secara bersama-sama yang dilandasi oleh sukarela dan kekeluargaan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_sopan_santun",
-      "patterns": [
-        "Apa itu sopan santun",
-        "Definisi sopan santun",
-        "Pengertian sopan santun",
-        "Nilai sopan santun dalam keluarga"
-      ],
-      "responses": [
-        "Sopan santun adalah perilaku seseorang yang sesuai dengan norma-norma sosial budaya setempat."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_kerukunan",
-      "patterns": [
-        "Apa itu kerukunan",
-        "Definisi kerukunan",
-        "Pengertian kerukunan",
-        "Nilai kerukunan dalam keluarga"
-      ],
-      "responses": [
-        "Kerukunan adalah hidup berdampingan dalam keberagaman secara damai dan harmonis."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_peduli",
-      "patterns": [
-        "Apa itu peduli",
-        "Definisi peduli",
-        "Pengertian peduli",
-        "Nilai peduli dalam keluarga"
-      ],
-      "responses": [
-        "Peduli adalah mendalami perasaan dan pengalaman orang lain."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_kebersamaan",
-      "patterns": [
-        "Apa itu kebersamaan",
-        "Definisi kebersamaan",
-        "Pengertian kebersamaan",
-        "Nilai kebersamaan dalam keluarga"
-      ],
-      "responses": [
-        "Kebersamaan adalah adanya perasaan bersatu, sependapat, dan sekepentingan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_toleransi",
-      "patterns": [
-        "Apa itu toleransi",
-        "Definisi toleransi",
-        "Pengertian toleransi",
-        "Nilai toleransi dalam keluarga"
-      ],
-      "responses": [
-        "Toleransi adalah bersikap menghargai pendirian yang berbeda atau bertentangan dengan pendirian sendiri."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_kebangsaan",
-      "patterns": [
-        "Apa itu kebangsaan",
-        "Definisi kebangsaan",
-        "Pengertian kebangsaan",
-        "Nilai kebangsaan dalam keluarga"
-      ],
-      "responses": [
-        "Kebangsaan adalah kesadaran diri sebagai warga negara Indonesia yang harus menjunjung tinggi harkat dan martabat bangsa."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "fungsi_kasih_sayang",
-      "patterns": [
-        "Apa itu fungsi kasih sayang",
-        "Definisi fungsi kasih sayang",
-        "Pengertian fungsi kasih sayang",
-        "Fungsi kasih sayang dalam keluarga",
-        "Nilai-nilai fungsi kasih sayang"
-      ],
-      "responses": [
-        "Fungsi Cinta dan Kasih Sayang mencakup cinta dan kasih sayang, empati, keakraban, keadilan, pemaaf, kesetiaan, suka menolong, dan pengorbanan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_empati",
-      "patterns": [
-        "Apa itu empati",
-        "Definisi empati",
-        "Pengertian empati",
-        "Nilai empati dalam keluarga"
-      ],
-      "responses": [
-        "Empati adalah memahami dan mengerti akan perasaan orang lain."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_keakraban",
-      "patterns": [
-        "Apa itu keakraban",
-        "Definisi keakraban",
-        "Pengertian keakraban",
-        "Nilai keakraban dalam keluarga"
-      ],
-      "responses": [
-        "Akrab adalah hubungan yang dilandasi oleh rasa kebersamaan dan kedekatan perasaan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_keadilan",
-      "patterns": [
-        "Apa itu keadilan",
-        "Definisi keadilan",
-        "Pengertian keadilan",
-        "Nilai keadilan dalam keluarga"
-      ],
-      "responses": [
-        "Adil adalah memperlakukan orang lain dengan sikap tidak memihak."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_pemaaf",
-      "patterns": [
-        "Apa itu pemaaf",
-        "Definisi pemaaf",
-        "Pengertian pemaaf",
-        "Nilai pemaaf dalam keluarga"
-      ],
-      "responses": [
-        "Pemaaf adalah dapat menerima kesalahan orang lain tanpa perasaan dendam."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_kesetiaan",
-      "patterns": [
-        "Apa itu kesetiaan",
-        "Definisi kesetiaan",
-        "Pengertian kesetiaan",
-        "Nilai kesetiaan dalam keluarga"
-      ],
-      "responses": [
-        "Setia maksudnya adalah setia terhadap kesepakatan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_suka_menolong",
-      "patterns": [
-        "Apa itu suka menolong",
-        "Definisi suka menolong",
-        "Pengertian suka menolong",
-        "Nilai suka menolong dalam keluarga"
-      ],
-      "responses": [
-        "Suka menolong adalah tindakan suka membantu orang lain."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "nilai_pengorbanan",
-      "patterns": [
-        "Apa itu pengorbanan",
-        "Definisi pengorbanan",
-        "Pengertian pengorbanan",
-        "Nilai pengorbanan dalam keluarga"
-      ],
-      "responses": [
-        "Pengorbanan adalah kerelaan memberikan sebagian haknya untuk membantu orang lain."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "fungsi_perlindungan",
-      "patterns": [
-        "Apa itu fungsi perlindungan",
-        "Definisi fungsi perlindungan",
-        "Pengertian fungsi perlindungan",
-        "Fungsi perlindungan dalam keluarga",
-        "Nilai-nilai fungsi perlindungan"
-      ],
-      "responses": [
-        "Fungsi Perlindungan Keluarga memberikan rasa aman dan tenang, tanggap terhadap situasi berbahaya, bertanggung jawab, siaga, dan menghindari kekerasan dalam rumah tangga."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "fungsi_reproduksi",
-      "patterns": [
-        "Apa itu fungsi reproduksi",
-        "Definisi fungsi reproduksi",
-        "Pengertian fungsi reproduksi",
-        "Fungsi reproduksi dalam keluarga",
-        "Nilai-nilai fungsi reproduksi"
-      ],
-      "responses": [
-        "Fungsi Reproduksi adalah tujuan untuk memperoleh keturunan berkualitas. Nilai-nilai fungsi reproduksi meliputi tanggung jawab, kesehatan, dan keteguhan dalam menjaga kesucian dan kesetiaan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "fungsi_sosialisasi_pendidikan",
-      "patterns": [
-        "Apa itu fungsi sosialisasi dan pendidikan",
-        "Definisi fungsi sosialisasi dan pendidikan",
-        "Pengertian fungsi sosialisasi dan pendidikan",
-        "Fungsi sosialisasi dan pendidikan dalam keluarga",
-        "Nilai-nilai fungsi sosialisasi dan pendidikan"
-      ],
-      "responses": [
-        "Fungsi Sosialisasi dan Pendidikan menjadikan orangtua sebagai pendidik utama. Nilai yang ditanamkan dalam fungsi sosialisasi dan pendidikan adalah percaya diri, self-esteem, adaptif, rajin, kreatif, tanggung jawab, kerjasama, dan pembelajaran sepanjang hayat."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "fungsi_ekonomi",
-      "patterns": [
-        "Apa itu fungsi ekonomi",
-        "Definisi fungsi ekonomi",
-        "Pengertian fungsi ekonomi",
-        "Fungsi ekonomi dalam keluarga",
-        "Nilai-nilai fungsi ekonomi"
-      ],
-      "responses": [
-        "Fungsi Ekonomi yaitu keluarga haruslah memenuhi kebutuhan materiil dengan nilai-nilai hemat, teliti, disiplin, ulet, dan menabung."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "fungsi_lingkungan",
-      "patterns": [
-        "Apa itu fungsi lingkungan",
-        "Definisi fungsi lingkungan",
-        "Pengertian fungsi lingkungan",
-        "Fungsi lingkungan dalam keluarga",
-        "Nilai-nilai fungsi lingkungan"
-      ],
-      "responses": [
-        "Fungsi Lingkungan yaitu keluarga harus menjaga kebersihan dan kesehatan lingkungan. Nilai-nilai fungsi lingkungan meliputi bersih, disiplin, peduli, dan menghindari penggunaan berlebihan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "persiapan_perkawinan",
-      "patterns": [
-        "Apa saja persiapan perkawinan?",
-        "Persiapan sebelum menikah",
-        "Bagaimana cara mempersiapkan perkawinan?",
-        "Apa itu persiapan perkawinan?",
-        "Persiapan untuk menikah"
-      ],
-      "responses": [
-        "Perencanaan persiapan perkawinan meliputi persiapan kesehatan, persiapan psikologi, persiapan keuangan, dan persiapan pemahaman hukum."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "persiapan_kesehatan",
-      "patterns": [
-        "Apa saja persiapan kesehatan sebelum menikah?",
-        "Bagaimana persiapan kesehatan untuk menikah?",
-        "Persiapan kesehatan perkawinan",
-        "Usia ideal menikah",
-        "Pentingnya usia ideal menikah"
-      ],
-      "responses": [
-        "Persiapan kesehatan dari segi usia ideal perkawinan yaitu 21 tahun untuk wanita dan 25 tahun untuk pria. Tujuan usia ideal menikah 21 untuk wanita dan 25 untuk pria adalah untuk kesiapan emosional dan kesehatan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "akibat_pernikahan_dini",
-      "patterns": [
-        "Apa akibat pernikahan dini?",
-        "Dampak pernikahan dini",
-        "Mengapa pernikahan dini berbahaya?",
-        "Risiko menikah muda"
-      ],
-      "responses": [
-        "Akibat pernikahan dini adalah gangguan kesehatan mental, risiko penyakit seksual, komplikasi kehamilan, risiko psikologis, ekonomi, pendidikan, dan hukum."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "pemeriksaan_kesehatan",
-      "patterns": [
-        "Apa saja pemeriksaan kesehatan sebelum menikah?",
-        "Pemeriksaan kesehatan sebelum menikah",
-        "Tes kesehatan untuk menikah",
-        "Apa saja yang harus diperiksa sebelum menikah?"
-      ],
-      "responses": [
-        "Pemeriksaan kesehatan meliputi pemeriksaan umum, fisik, darah, penyakit turunan, dan penyakit menular. Imunisasinya meliputi TT, Hepatitis B, MMR, varisela, dan HPV."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "persiapan_psikologi",
-      "patterns": [
-        "Apa saja persiapan psikologi sebelum menikah?",
-        "Persiapan psikologi untuk menikah",
-        "Bagaimana mempersiapkan psikologi untuk menikah?",
-        "Pentingnya persiapan psikologi sebelum menikah"
-      ],
-      "responses": [
-        "Persiapan psikologi adalah pengetahuan peran sebagai suami/istri, kemampuan komunikasi, negosiasi, dan manajemen konflik."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "persiapan_hukum",
-      "patterns": [
-        "Apa saja persiapan hukum sebelum menikah?",
-        "Persiapan hukum untuk menikah",
-        "Bagaimana mempersiapkan hukum untuk menikah?",
-        "Pentingnya persiapan hukum sebelum menikah"
-      ],
-      "responses": [
-        "Persiapan pemahaman hukum dalam pernikahan mencakup syarat sah perkawinan, pelaporan minimal 10 hari sebelum tanggal pernikahan, dan memastikan tidak ada halangan hukum seperti hubungan terlarang."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "syarat_sah_perkawinan",
-      "patterns": [
-        "Apa saja syarat sah perkawinan?",
-        "Syarat sah menikah",
-        "Bagaimana syarat sah perkawinan?",
-        "Syarat menikah menurut hukum"
-      ],
-      "responses": [
-        "Syarat sah perkawinan yaitu persetujuan kedua mempelai, hukum agama, usia cukup. Usia cukup menikah yaitu 18 tahun bagi wanita menurut UU Perlindungan Anak."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "hal_yang_diperhatikan_sebelum_menikah",
-      "patterns": [
-        "Apa yang harus diperhatikan sebelum menikah?",
-        "Hal penting sebelum menikah",
-        "Persiapan penting sebelum menikah",
-        "Yang harus diperhatikan calon pengantin"
-      ],
-      "responses": [
-        "Hal yang harus diperhatikan calon pengantin adalah usia pernikahan, membangun hubungan sosial yang baik, merencanakan kelahiran anak, berhenti melahirkan di usia 35 tahun, dan merawat anak balita dengan baik."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "keluarga_berkualitas",
-      "patterns": [
-        "Apa itu keluarga berkualitas?",
-        "Definisi keluarga berkualitas",
-        "Keluarga berkualitas itu apa?",
-        "Ciri-ciri keluarga berkualitas"
-      ],
-      "responses": [
-        "Keluarga berkualitas adalah keluarga yang menanamkan harapan, memberikan teladan, nasihat, lingkungan aman, kebaikan, pujian, dan hukuman mendidik."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "usia_cukup_menikah",
-      "patterns": [
-        "Usia cukup menikah",
-        "Usia ideal menikah menurut UU Perlindungan Anak",
-        "Berapa usia cukup untuk menikah?",
-        "Panduan usia menikah"
-      ],
-      "responses": [
-        "Panduan usia yang cukup menikah menurut UU Perlindungan Anak adalah 18 tahun bagi wanita."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "kesiapan_emosional_dan_kesehatan",
-      "patterns": [
-        "Pentingnya kesiapan emosional untuk menikah",
-        "Kesiapan emosional menikah",
-        "Usia ideal pernikahan terkait kesiapan emosional",
-        "Mengapa kesiapan emosional penting dalam menikah?"
-      ],
-      "responses": [
-        "Usia ideal pernikahan terkait dengan kesiapan emosional dan kesehatan karena pada usia tersebut, seseorang dianggap lebih matang dan siap menghadapi tanggung jawab perkawinan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "gangguan_kesehatan_mental_pernikahan_dini",
-      "patterns": [
-        "Mengapa pernikahan dini bisa mengakibatkan gangguan mental?",
-        "Gangguan mental akibat pernikahan dini",
-        "Risiko kesehatan mental menikah muda",
-        "Pernikahan dini dan kesehatan mental"
-      ],
-      "responses": [
-        "Gangguan kesehatan mental bisa terjadi pada pernikahan dini karena kurangnya kesiapan emosional dan pengalaman hidup yang belum matang."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "pemeriksaan_penyakit_turunan_dan_menular",
-      "patterns": [
-        "Pentingnya pemeriksaan penyakit turunan sebelum menikah",
-        "Pemeriksaan penyakit menular sebelum menikah",
-        "Mengapa harus periksa penyakit turunan sebelum menikah?",
-        "Tes penyakit menular untuk menikah"
-      ],
-      "responses": [
-        "Pemeriksaan penyakit turunan dan penyakit menular penting untuk mencegah penularan penyakit dan memastikan kesehatan yang baik bagi kedua pasangan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "memahami_peran_suami_istri",
-      "patterns": [
-        "Pentingnya memahami peran suami/istri",
-        "Bagaimana memahami peran sebagai suami/istri?",
-        "Peran suami/istri dalam perkawinan",
-        "Mengapa peran suami/istri penting?"
-      ],
-      "responses": [
-        "Memahami peran sebagai suami/istri membantu pasangan memahami tanggung jawab dan ekspektasi dalam perkawinan."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "kemampuan_komunikasi_negosiasi_konflik",
-      "patterns": [
-        "Pentingnya komunikasi dalam perkawinan",
-        "Bagaimana cara bernegosiasi dalam perkawinan?",
-        "Mengatasi konflik dalam perkawinan",
-        "Kemampuan komunikasi dan negosiasi dalam pernikahan"
-      ],
-      "responses": [
-        "Kemampuan komunikasi, negosiasi, dan manajemen konflik membantu pasangan memecahkan masalah dan membangun hubungan yang sehat dan harmonis dalam pernikahan."
-      ],
-      "context_set": ""
-    }
-  ]
-}
+    "intents": [
+      {
+        "tag": "salam",
+        "patterns": [
+          "Halo",
+          "Apa kabar?",
+          "Ada orang?",
+          "Selamat siang",
+          "Bagaimana kabarmu",
+          "Halo apa kabar",
+          "Hi",
+          "Apa yang sedang terjadi",
+          "Assalamualaikum",
+          "Hai"
+        ],
+        "responses": [
+          "salam!",
+          "Senang bertemu denganmu lagi!",
+          "salam, bagaimana saya bisa membantu?"
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "perpisahan",
+        "patterns": [
+          "sampai jumpa",
+          "selamat tinggal",
+          "dadah",
+          "Sampai nanti",
+          "Selamat tinggal",
+          "Saya pergi",
+          "Sampai ketemu",
+          "Semoga harimu menyenangkan",
+          "bicara nanti",
+          "ttyl",
+          "Saya harus pergi",
+          "gtg",
+          "bye",
+          "dah"
+        ],
+        "responses": [
+          "Sedih melihatmu pergi :(",
+          "Sampai jumpa nanti",
+          "Selamat tinggal!",
+          "Kembali lagi ya"
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "definisi_pernikahan",
+        "patterns": [
+          "Apa itu pernikahan",
+          "Definisi pernikahan",
+          "Pengertian pernikahan",
+          "Apa arti pernikahan",
+          "Pernikahan adalah",
+          "Apa yang dimaksud pernikahan atau perkawinan"
+        ],
+        "responses": [
+          "Pernikahan atau perkawinan adalah ikatan lahir batin seorang pria dan seorang wanita sebagai suami istri."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "tujuan_pernikahan",
+        "patterns": [
+          "Apa tujuan pernikahan",
+          "Apa tujuan perkawinan",
+          "Kenapa harus menikah",
+          "Mengapa orang menikah",
+          "Tujuan dari menikah"
+        ],
+        "responses": [
+          "Tujuan dari menikah adalah untuk membentuk keluarga yang bahagia dan kekal berdasarkan Ketuhanan Yang Maha Esa."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "akibat_tidak_memahami_pernikahan",
+        "patterns": [
+          "Apa akibat tidak memahami tujuan pernikahan",
+          "Dampak tidak memahami pernikahan",
+          "Ketidakharmonisan pasangan suami istri",
+          "Penyebab perceraian"
+        ],
+        "responses": [
+          "Akibat dari tidak memahami tujuan perkawinan akan menyebabkan ketidakharmonisan pasangan suami istri dan perceraian."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "hukum_pernikahan",
+        "patterns": [
+          "Hukum pernikahan di Indonesia",
+          "Pasal tentang pernikahan",
+          "Peraturan pernikahan di Indonesia",
+          "Undang-undang pernikahan",
+          "Di mana hukum perkawinan di Indonesia diatur?"
+        ],
+        "responses": [
+          "Hukum perkawinan/pernikahan di Indonesia ada pada pasal 2 ayat 1 dan pasal 2 ayat 2. Pasal 2 ayat 1 tentang perkawinan sah apabila dilakukan menurut hukum masing-masing agamanya dan kepercayaannya. Pasal 2 ayat 2 berisi tiap-tiap perkawinan dicatat menurut peraturan perundangan yang berlaku dan dicatat di KUA."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "hak_kewajiban_suami_istri",
+        "patterns": [
+          "Hak dan kewajiban suami istri",
+          "Kewajiban suami istri",
+          "Hak suami istri",
+          "Tanggung jawab suami istri"
+        ],
+        "responses": [
+          "Hak dan kewajiban suami istri terdapat pada UU No 1 tahun 1974. Kewajiban suami istri adalah saling cinta mencintai, hormat menghormati, setia, saling membantu lahir batin."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "kdrt",
+        "patterns": [
+          "Apa itu KDRT",
+          "Pengertian KDRT",
+          "Definisi KDRT"
+        ],
+        "responses": [
+          "KDRT adalah kekerasan yang menyebabkan penderitaan fisik atau seksual."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "hukum_kdrt",
+        "patterns": [
+          "Pasal tentang KDRT",
+          "Undang-undang KDRT",
+          "Peraturan tentang KDRT",
+          "Hukum KDRT"
+        ],
+        "responses": [
+          "Hukum KDRT terdapat pada UU RI No 23 Tahun 2004. UU RI No 23 berisi tentang Penghapusan Kekerasan Dalam Rumah Tangga. Hukum KDRT lainnya terdapat pada Pasal 5 UU No.23 Tahun 2004. Pasal 5 UU No.23 Tahun 2004 melarang kekerasan fisik dalam rumah tangga."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "perlindungan_anak",
+        "patterns": [
+          "Perlindungan anak",
+          "Undang-undang perlindungan anak",
+          "Hukum tentang perlindungan anak",
+          "Pasal perlindungan anak"
+        ],
+        "responses": [
+          "Batasan usia anak di Indonesia adalah 18 tahun dan dalam perlindungan anak. Undang – Undang Perlindungan Anak ada pada UU RI No 23 tahun 2002."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "kewajiban_orangtua",
+        "patterns": [
+          "Kewajiban orangtua terhadap anak",
+          "Hak dan kewajiban orangtua",
+          "Tanggung jawab orangtua",
+          "Kewajiban orangtua"
+        ],
+        "responses": [
+          "Kewajiban orangtua adalah mengasuh, memelihara, mendidik, melindungi anak, sesuai bakat dan minatnya, serta mencegah perkawinan usia dini. Pasal tentang kewajiban orangtua terhadap anak terdapat pada Pasal 26 UUPA."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "hak_anak",
+        "patterns": [
+          "Hak anak",
+          "Empat pilar hak anak",
+          "Hak dasar anak",
+          "Apa saja hak anak"
+        ],
+        "responses": [
+          "Hak anak ada empat pilar. Hak anak yaitu hak keberlangsungan hidup, hak perlindungan, hak tumbuh kembang dan hak partisipasi."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "definisi_keluarga",
+        "patterns": [
+          "Apa itu keluarga",
+          "Definisi keluarga",
+          "Pengertian keluarga",
+          "Apa arti keluarga",
+          "Keluarga adalah"
+        ],
+        "responses": [
+          "Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri dan anak."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "hukum_kependudukan",
+        "patterns": [
+          "Hukum tentang kependudukan",
+          "Undang-Undang kependudukan",
+          "Peraturan tentang kependudukan",
+          "UU tentang kependudukan"
+        ],
+        "responses": [
+          "Undang-Undang tentang Perkembangan Kependudukan dan Pembangunan terdapat pada UU No. 52 Tahun 2009."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "tugas_keluarga",
+        "patterns": [
+          "Apa tugas utama keluarga",
+          "Tugas keluarga",
+          "Tugas utama keluarga",
+          "Kewajiban keluarga"
+        ],
+        "responses": [
+          "Tugas utama keluarga adalah memenuhi kebutuhan fisik, rohani, perkembangan, dan emosional anggota keluarganya."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "pembangunan_keluarga",
+        "patterns": [
+          "Apa itu pembangunan keluarga",
+          "Definisi pembangunan keluarga",
+          "Pengertian pembangunan keluarga",
+          "Tujuan pembangunan keluarga",
+          "Kenapa pembangunan keluarga penting"
+        ],
+        "responses": [
+          "Pembangunan keluarga adalah upaya mewujudkan keluarga berkualitas yang hidup dalam lingkungan yang sehat, bahagia, dan sejahtera. Tujuan pembangunan keluarga untuk meningkatkan kualitas keluarga. Pembangunan keluarga dilakukan agar dapat timbul rasa aman, tenteram, dan harapan masa depan yang lebih baik."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "cara_pembangunan_keluarga",
+        "patterns": [
+          "Bagaimana cara pembangunan keluarga",
+          "Cara pembangunan keluarga",
+          "Langkah-langkah pembangunan keluarga",
+          "Cara membangun keluarga berkualitas"
+        ],
+        "responses": [
+          "Pembangunan keluarga dapat dilakukan dengan membangun keharmonisan pasangan, mendukung perkembangan anak, mempersiapkan remaja, dan memberdayakan lansia."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "persiapan_remaja",
+        "patterns": [
+          "Bagaimana mempersiapkan remaja",
+          "Persiapan remaja dalam keluarga",
+          "Pembangunan keluarga untuk remaja",
+          "Ketahanan keluarga remaja"
+        ],
+        "responses": [
+          "Mempersiapkan remaja dalam pembangunan keluarga adalah membangun ketahanan keluarga remaja dan kualitas remaja."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "pemberdayaan_lansia",
+        "patterns": [
+          "Bagaimana pemberdayaan lansia",
+          "Pemberdayaan lansia dalam keluarga",
+          "Pembangunan keluarga untuk lansia",
+          "Memberdayakan lansia"
+        ],
+        "responses": [
+          "Pembangunan keluarga berfungsi untuk memberdayakan lansia melalui kegiatan pemberdayaan ekonomi keluarga. Tujuan memberdayakan lansia adalah untuk mewujudkan kesejahteraan keluarga."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "kualitas_lansia",
+        "patterns": [
+          "Bagaimana meningkatkan kualitas lansia",
+          "Meningkatkan kualitas lansia",
+          "Kualitas lansia dalam keluarga",
+          "Peran lansia dalam keluarga"
+        ],
+        "responses": [
+          "Meningkatnya kualitas lansia dan pemberdayaan keluarga rentan sehingga mampu berperan dalam kehidupan keluarga."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "definisi_fungsi_keluarga",
+        "patterns": [
+          "Apa itu 8 fungsi keluarga",
+          "Definisi 8 fungsi keluarga",
+          "Pengertian 8 fungsi keluarga",
+          "Apa saja fungsi keluarga",
+          "Apa saja nilai-nilai fungsi keluarga"
+        ],
+        "responses": [
+          "Penanaman nilai-nilai 8 fungsi keluarga mencakup agama, sosial-budaya, kasih sayang, perlindungan, reproduksi, sosial-pendidikan, ekonomi, dan lingkungan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "fungsi_agama",
+        "patterns": [
+          "Apa itu fungsi agama",
+          "Definisi fungsi agama",
+          "Pengertian fungsi agama",
+          "Fungsi agama dalam keluarga",
+          "Nilai-nilai fungsi agama"
+        ],
+        "responses": [
+          "Fungsi Agama adalah tempat pertama anak mengenal agama. Pasangan suami istri harus mengamalkan nilai-nilai agama seperti iman, jujur, kesalehan, dan kasih sayang."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_iman",
+        "patterns": [
+          "Apa itu iman",
+          "Definisi iman",
+          "Pengertian iman",
+          "Nilai iman dalam keluarga"
+        ],
+        "responses": [
+          "Iman yang dimaksud yaitu mengimani enam Rukun Iman."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_jujur",
+        "patterns": [
+          "Apa itu jujur",
+          "Definisi jujur",
+          "Pengertian jujur",
+          "Nilai jujur dalam keluarga"
+        ],
+        "responses": [
+          "Jujur, yaitu menyampaikan apa adanya."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_kesalehan",
+        "patterns": [
+          "Apa itu kesalehan",
+          "Definisi kesalehan",
+          "Pengertian kesalehan",
+          "Nilai kesalehan dalam keluarga"
+        ],
+        "responses": [
+          "Kesalehan adalah memiliki nilai moral yang tinggi dengan melakukan sesuatu yang benar secara konsisten."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_kasih_sayang",
+        "patterns": [
+          "Apa itu kasih sayang",
+          "Definisi kasih sayang",
+          "Pengertian kasih sayang",
+          "Nilai kasih sayang dalam keluarga"
+        ],
+        "responses": [
+          "Kasih sayang, merupakan ungkapan perasaan dengan penuh perhatian, kesadaran dan kecintaan terhadap seseorang."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "fungsi_sosial_budaya",
+        "patterns": [
+          "Apa itu fungsi sosial budaya",
+          "Definisi fungsi sosial budaya",
+          "Pengertian fungsi sosial budaya",
+          "Fungsi sosial budaya dalam keluarga",
+          "Nilai-nilai fungsi sosial budaya"
+        ],
+        "responses": [
+          "Fungsi Sosial Budaya mencakup nilai gotong royong, sopan santun, kerukunan, peduli, kebersamaan, toleransi, dan kesadaran kebangsaan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_gotong_royong",
+        "patterns": [
+          "Apa itu gotong royong",
+          "Definisi gotong royong",
+          "Pengertian gotong royong",
+          "Nilai gotong royong dalam keluarga"
+        ],
+        "responses": [
+          "Gotong royong adalah melakukan pekerjaan secara bersama-sama yang dilandasi oleh sukarela dan kekeluargaan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_sopan_santun",
+        "patterns": [
+          "Apa itu sopan santun",
+          "Definisi sopan santun",
+          "Pengertian sopan santun",
+          "Nilai sopan santun dalam keluarga"
+        ],
+        "responses": [
+          "Sopan santun adalah perilaku seseorang yang sesuai dengan norma-norma sosial budaya setempat."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_kerukunan",
+        "patterns": [
+          "Apa itu kerukunan",
+          "Definisi kerukunan",
+          "Pengertian kerukunan",
+          "Nilai kerukunan dalam keluarga"
+        ],
+        "responses": [
+          "Kerukunan adalah hidup berdampingan dalam keberagaman secara damai dan harmonis."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_peduli",
+        "patterns": [
+          "Apa itu peduli",
+          "Definisi peduli",
+          "Pengertian peduli",
+          "Nilai peduli dalam keluarga"
+        ],
+        "responses": [
+          "Peduli adalah mendalami perasaan dan pengalaman orang lain."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_kebersamaan",
+        "patterns": [
+          "Apa itu kebersamaan",
+          "Definisi kebersamaan",
+          "Pengertian kebersamaan",
+          "Nilai kebersamaan dalam keluarga"
+        ],
+        "responses": [
+          "Kebersamaan adalah adanya perasaan bersatu, sependapat, dan sekepentingan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_toleransi",
+        "patterns": [
+          "Apa itu toleransi",
+          "Definisi toleransi",
+          "Pengertian toleransi",
+          "Nilai toleransi dalam keluarga"
+        ],
+        "responses": [
+          "Toleransi adalah bersikap menghargai pendirian yang berbeda atau bertentangan dengan pendirian sendiri."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_kebangsaan",
+        "patterns": [
+          "Apa itu kebangsaan",
+          "Definisi kebangsaan",
+          "Pengertian kebangsaan",
+          "Nilai kebangsaan dalam keluarga"
+        ],
+        "responses": [
+          "Kebangsaan adalah kesadaran diri sebagai warga negara Indonesia yang harus menjunjung tinggi harkat dan martabat bangsa."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "fungsi_kasih_sayang",
+        "patterns": [
+          "Apa itu fungsi kasih sayang",
+          "Definisi fungsi kasih sayang",
+          "Pengertian fungsi kasih sayang",
+          "Fungsi kasih sayang dalam keluarga",
+          "Nilai-nilai fungsi kasih sayang"
+        ],
+        "responses": [
+          "Fungsi Cinta dan Kasih Sayang mencakup cinta dan kasih sayang, empati, keakraban, keadilan, pemaaf, kesetiaan, suka menolong, dan pengorbanan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_empati",
+        "patterns": [
+          "Apa itu empati",
+          "Definisi empati",
+          "Pengertian empati",
+          "Nilai empati dalam keluarga"
+        ],
+        "responses": [
+          "Empati adalah memahami dan mengerti akan perasaan orang lain."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_keakraban",
+        "patterns": [
+          "Apa itu keakraban",
+          "Definisi keakraban",
+          "Pengertian keakraban",
+          "Nilai keakraban dalam keluarga"
+        ],
+        "responses": [
+          "Akrab adalah hubungan yang dilandasi oleh rasa kebersamaan dan kedekatan perasaan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_keadilan",
+        "patterns": [
+          "Apa itu keadilan",
+          "Definisi keadilan",
+          "Pengertian keadilan",
+          "Nilai keadilan dalam keluarga"
+        ],
+        "responses": [
+          "Adil adalah memperlakukan orang lain dengan sikap tidak memihak."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_pemaaf",
+        "patterns": [
+          "Apa itu pemaaf",
+          "Definisi pemaaf",
+          "Pengertian pemaaf",
+          "Nilai pemaaf dalam keluarga"
+        ],
+        "responses": [
+          "Pemaaf adalah dapat menerima kesalahan orang lain tanpa perasaan dendam."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_kesetiaan",
+        "patterns": [
+          "Apa itu kesetiaan",
+          "Definisi kesetiaan",
+          "Pengertian kesetiaan",
+          "Nilai kesetiaan dalam keluarga"
+        ],
+        "responses": [
+          "Setia maksudnya adalah setia terhadap kesepakatan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_suka_menolong",
+        "patterns": [
+          "Apa itu suka menolong",
+          "Definisi suka menolong",
+          "Pengertian suka menolong",
+          "Nilai suka menolong dalam keluarga"
+        ],
+        "responses": [
+          "Suka menolong adalah tindakan suka membantu orang lain."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "nilai_pengorbanan",
+        "patterns": [
+          "Apa itu pengorbanan",
+          "Definisi pengorbanan",
+          "Pengertian pengorbanan",
+          "Nilai pengorbanan dalam keluarga"
+        ],
+        "responses": [
+          "Pengorbanan adalah kerelaan memberikan sebagian haknya untuk membantu orang lain."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "fungsi_perlindungan",
+        "patterns": [
+          "Apa itu fungsi perlindungan",
+          "Definisi fungsi perlindungan",
+          "Pengertian fungsi perlindungan",
+          "Fungsi perlindungan dalam keluarga",
+          "Nilai-nilai fungsi perlindungan"
+        ],
+        "responses": [
+          "Fungsi Perlindungan Keluarga memberikan rasa aman dan tenang, tanggap terhadap situasi berbahaya, bertanggung jawab, siaga, dan menghindari kekerasan dalam rumah tangga."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "fungsi_reproduksi",
+        "patterns": [
+          "Apa itu fungsi reproduksi",
+          "Definisi fungsi reproduksi",
+          "Pengertian fungsi reproduksi",
+          "Fungsi reproduksi dalam keluarga",
+          "Nilai-nilai fungsi reproduksi"
+        ],
+        "responses": [
+          "Fungsi Reproduksi adalah tujuan untuk memperoleh keturunan berkualitas. Nilai-nilai fungsi reproduksi meliputi tanggung jawab, kesehatan, dan keteguhan dalam menjaga kesucian dan kesetiaan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "fungsi_sosialisasi_pendidikan",
+        "patterns": [
+          "Apa itu fungsi sosialisasi dan pendidikan",
+          "Definisi fungsi sosialisasi dan pendidikan",
+          "Pengertian fungsi sosialisasi dan pendidikan",
+          "Fungsi sosialisasi dan pendidikan dalam keluarga",
+          "Nilai-nilai fungsi sosialisasi dan pendidikan"
+        ],
+        "responses": [
+          "Fungsi Sosialisasi dan Pendidikan menjadikan orangtua sebagai pendidik utama. Nilai yang ditanamkan dalam fungsi sosialisasi dan pendidikan adalah percaya diri, self-esteem, adaptif, rajin, kreatif, tanggung jawab, kerjasama, dan pembelajaran sepanjang hayat."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "fungsi_ekonomi",
+        "patterns": [
+          "Apa itu fungsi ekonomi",
+          "Definisi fungsi ekonomi",
+          "Pengertian fungsi ekonomi",
+          "Fungsi ekonomi dalam keluarga",
+          "Nilai-nilai fungsi ekonomi"
+        ],
+        "responses": [
+          "Fungsi Ekonomi yaitu keluarga haruslah memenuhi kebutuhan materiil dengan nilai-nilai hemat, teliti, disiplin, ulet, dan menabung."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "fungsi_lingkungan",
+        "patterns": [
+          "Apa itu fungsi lingkungan",
+          "Definisi fungsi lingkungan",
+          "Pengertian fungsi lingkungan",
+          "Fungsi lingkungan dalam keluarga",
+          "Nilai-nilai fungsi lingkungan"
+        ],
+        "responses": [
+          "Fungsi Lingkungan yaitu keluarga harus menjaga kebersihan dan kesehatan lingkungan. Nilai-nilai fungsi lingkungan meliputi bersih, disiplin, peduli, dan menghindari penggunaan berlebihan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "persiapan_perkawinan",
+        "patterns": [
+          "Apa saja persiapan perkawinan?",
+          "Persiapan sebelum menikah",
+          "Bagaimana cara mempersiapkan perkawinan?",
+          "Apa itu persiapan perkawinan?",
+          "Persiapan untuk menikah"
+        ],
+        "responses": [
+          "Perencanaan persiapan perkawinan meliputi persiapan kesehatan, persiapan psikologi, persiapan keuangan, dan persiapan pemahaman hukum."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "persiapan_kesehatan",
+        "patterns": [
+          "Apa saja persiapan kesehatan sebelum menikah?",
+          "Bagaimana persiapan kesehatan untuk menikah?",
+          "Persiapan kesehatan perkawinan",
+          "Usia ideal menikah",
+          "Pentingnya usia ideal menikah"
+        ],
+        "responses": [
+          "Persiapan kesehatan dari segi usia ideal perkawinan yaitu 21 tahun untuk wanita dan 25 tahun untuk pria. Tujuan usia ideal menikah 21 untuk wanita dan 25 untuk pria adalah untuk kesiapan emosional dan kesehatan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "akibat_pernikahan_dini",
+        "patterns": [
+          "Apa akibat pernikahan dini?",
+          "Dampak pernikahan dini",
+          "Mengapa pernikahan dini berbahaya?",
+          "Risiko menikah muda"
+        ],
+        "responses": [
+          "Akibat pernikahan dini adalah gangguan kesehatan mental, risiko penyakit seksual, komplikasi kehamilan, risiko psikologis, ekonomi, pendidikan, dan hukum."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "pemeriksaan_kesehatan",
+        "patterns": [
+          "Apa saja pemeriksaan kesehatan sebelum menikah?",
+          "Pemeriksaan kesehatan sebelum menikah",
+          "Tes kesehatan untuk menikah",
+          "Apa saja yang harus diperiksa sebelum menikah?"
+        ],
+        "responses": [
+          "Pemeriksaan kesehatan meliputi pemeriksaan umum, fisik, darah, penyakit turunan, dan penyakit menular. Imunisasinya meliputi TT, Hepatitis B, MMR, varisela, dan HPV."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "persiapan_psikologi",
+        "patterns": [
+          "Apa saja persiapan psikologi sebelum menikah?",
+          "Persiapan psikologi untuk menikah",
+          "Bagaimana mempersiapkan psikologi untuk menikah?",
+          "Pentingnya persiapan psikologi sebelum menikah"
+        ],
+        "responses": [
+          "Persiapan psikologi adalah pengetahuan peran sebagai suami/istri, kemampuan komunikasi, negosiasi, dan manajemen konflik."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "persiapan_hukum",
+        "patterns": [
+          "Apa saja persiapan hukum sebelum menikah?",
+          "Persiapan hukum untuk menikah",
+          "Bagaimana mempersiapkan hukum untuk menikah?",
+          "Pentingnya persiapan hukum sebelum menikah"
+        ],
+        "responses": [
+          "Persiapan pemahaman hukum dalam pernikahan mencakup syarat sah perkawinan, pelaporan minimal 10 hari sebelum tanggal pernikahan, dan memastikan tidak ada halangan hukum seperti hubungan terlarang."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "syarat_sah_perkawinan",
+        "patterns": [
+          "Apa saja syarat sah perkawinan?",
+          "Syarat sah menikah",
+          "Bagaimana syarat sah perkawinan?",
+          "Syarat menikah menurut hukum"
+        ],
+        "responses": [
+          "Syarat sah perkawinan yaitu persetujuan kedua mempelai, hukum agama, usia cukup. Usia cukup menikah yaitu 18 tahun bagi wanita menurut UU Perlindungan Anak."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "hal_yang_diperhatikan_sebelum_menikah",
+        "patterns": [
+          "Apa yang harus diperhatikan sebelum menikah?",
+          "Hal penting sebelum menikah",
+          "Persiapan penting sebelum menikah",
+          "Yang harus diperhatikan calon pengantin"
+        ],
+        "responses": [
+          "Hal yang harus diperhatikan calon pengantin adalah usia pernikahan, membangun hubungan sosial yang baik, merencanakan kelahiran anak, berhenti melahirkan di usia 35 tahun, dan merawat anak balita dengan baik."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "keluarga_berkualitas",
+        "patterns": [
+          "Apa itu keluarga berkualitas?",
+          "Definisi keluarga berkualitas",
+          "Keluarga berkualitas itu apa?",
+          "Ciri-ciri keluarga berkualitas"
+        ],
+        "responses": [
+          "Keluarga berkualitas adalah keluarga yang menanamkan harapan, memberikan teladan, nasihat, lingkungan aman, kebaikan, pujian, dan hukuman mendidik."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "usia_cukup_menikah",
+        "patterns": [
+          "Usia cukup menikah",
+          "Usia ideal menikah menurut UU Perlindungan Anak",
+          "Berapa usia cukup untuk menikah?",
+          "Panduan usia menikah"
+        ],
+        "responses": [
+          "Panduan usia yang cukup menikah menurut UU Perlindungan Anak adalah 18 tahun bagi wanita."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "kesiapan_emosional_dan_kesehatan",
+        "patterns": [
+          "Pentingnya kesiapan emosional untuk menikah",
+          "Kesiapan emosional menikah",
+          "Usia ideal pernikahan terkait kesiapan emosional",
+          "Mengapa kesiapan emosional penting dalam menikah?"
+        ],
+        "responses": [
+          "Usia ideal pernikahan terkait dengan kesiapan emosional dan kesehatan karena pada usia tersebut, seseorang dianggap lebih matang dan siap menghadapi tanggung jawab perkawinan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "gangguan_kesehatan_mental_pernikahan_dini",
+        "patterns": [
+          "Mengapa pernikahan dini bisa mengakibatkan gangguan mental?",
+          "Gangguan mental akibat pernikahan dini",
+          "Risiko kesehatan mental menikah muda",
+          "Pernikahan dini dan kesehatan mental"
+        ],
+        "responses": [
+          "Gangguan kesehatan mental bisa terjadi pada pernikahan dini karena kurangnya kesiapan emosional dan pengalaman hidup yang belum matang."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "pemeriksaan_penyakit_turunan_dan_menular",
+        "patterns": [
+          "Pentingnya pemeriksaan penyakit turunan sebelum menikah",
+          "Pemeriksaan penyakit menular sebelum menikah",
+          "Mengapa harus periksa penyakit turunan sebelum menikah?",
+          "Tes penyakit menular untuk menikah"
+        ],
+        "responses": [
+          "Pemeriksaan penyakit turunan dan penyakit menular penting untuk mencegah penularan penyakit dan memastikan kesehatan yang baik bagi kedua pasangan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "memahami_peran_suami_istri",
+        "patterns": [
+          "Pentingnya memahami peran suami/istri",
+          "Bagaimana memahami peran sebagai suami/istri?",
+          "Peran suami/istri dalam perkawinan",
+          "Mengapa peran suami/istri penting?"
+        ],
+        "responses": [
+          "Memahami peran sebagai suami/istri membantu pasangan memahami tanggung jawab dan ekspektasi dalam perkawinan."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "kemampuan_komunikasi_negosiasi_konflik",
+        "patterns": [
+          "Pentingnya komunikasi dalam perkawinan",
+          "Bagaimana cara bernegosiasi dalam perkawinan?",
+          "Mengatasi konflik dalam perkawinan",
+          "Kemampuan komunikasi dan negosiasi dalam pernikahan"
+        ],
+        "responses": [
+          "Kemampuan komunikasi, negosiasi, dan manajemen konflik membantu pasangan memecahkan masalah dan membangun hubungan yang sehat dan harmonis dalam pernikahan."
+        ],
+        "context_set": ""
+      }
+    ]
+  }
