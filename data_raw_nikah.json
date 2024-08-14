@@ -1,0 +1,772 @@
+{
+    "data": [
+      {
+        "paragraphs": [
+          {
+            "context": "Pernikahan atau perkawinan adalah ikatan lahir batin seorang pria dan seorang wanita sebagai suami istri. Tujuan dari menikah adalah untuk membentuk keluarga yang bahagia dan kekal berdasarkan Ketuhanan Yang Maha Esa. Akibat dari tidak memahami tujuan perkawinan akan menyebabkan ketidakharmonisan pasangan suami istri dan perceraian. Hukum perkawinan/pernikahan di Indonesia ada pada pasal 2 ayat 1 dan pasal 2 ayat 2. Pasal 2 ayat 1 tentang perkawinan sah apabila dilakukan menurut hukum masing-masing agamanya dan kepercayaannya. Pasal 2 ayat 2 berisi tiap-tiap perkawinan dicatat menurut peraturan perundangan yang berlaku dan dicatat di KUA. Hak dan kewajiban suami istri terdapat pada UU No 1 tahun 1974. Kewajiban suami istri adalah saling cinta mencintai, hormat menghormati, setia, saling membantu lahir batin. KDRT adalah kekerasan yang menyebabkan penderitaan fisik atau seksual. Hukum KDRT terdapat pada UU RI No 23 Tahun 2004. UU RI No 23 berisi tentang Penghapusan Kekerasan Dalam Rumah Tangga. Hukum KDRT lainnya terdapat pada Pasal 5 UU No.23 Tahun 2004. Pasal 5 UU No.23 Tahun 2004 melarang kekerasan fisik dalam rumah tangga. Batasan usia anak di Indonesia adalah 18 tahun dan dalam perlindungan anak. Undang-Undang Perlindungan Anak ada pada UU RI No 23 tahun 2002. Kewajiban orangtua adalah mengasuh, memelihara, mendidik, melindungi anak, sesuai bakat dan minatnya, serta mencegah perkawinan usia dini. Pasal tentang kewajiban orangtua terhadap anak terdapat pada Pasal 26 UUPA. Hak anak ada empat pilar. Hak anak yaitu hak keberlangsungan hidup, hak perlindungan, hak tumbuh kembang dan hak partisipasi.",
+            "qas": [
+              {
+                "answers": [
+                  {
+                    "answer_start": 42,
+                    "text": "ikatan lahir batin seorang pria dan seorang wanita sebagai suami istri"
+                  }
+                ],
+                "id": "1",
+                "question": "Apa yang dimaksud pernikahan atau perkawinan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 100,
+                    "text": "untuk membentuk keluarga yang bahagia dan kekal berdasarkan Ketuhanan Yang Maha Esa"
+                  }
+                ],
+                "id": "2",
+                "question": "Apa tujuan dari pernikahan atau perkawinan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 184,
+                    "text": "akan menyebabkan ketidakharmonisan pasangan suami istri dan perceraian"
+                  }
+                ],
+                "id": "3",
+                "question": "Apa akibat dari tidak memahami tujuan pernikahan atau perkawinan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 286,
+                    "text": "pada pasal 2 ayat 1 dan pasal 2 ayat 2"
+                  }
+                ],
+                "id": "4",
+                "question": "Di mana hukum perkawinan di Indonesia diatur?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 286,
+                    "text": "pasal 2 ayat 1 dan pasal 2 ayat 2"
+                  }
+                ],
+                "id": "5",
+                "question": "Hukum perkawinan ada pada pasal berapa saja?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 308,
+                    "text": "tentang perkawinan sah apabila dilakukan menurut hukum masing-masing agamanya dan kepercayaannya"
+                  }
+                ],
+                "id": "6",
+                "question": "Apa isi pasal 2 ayat 1?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 308,
+                    "text": "dilakukan menurut hukum masing-masing agamanya dan kepercayaannya"
+                  }
+                ],
+                "id": "7",
+                "question": "Apa yang menjadi syarat sahnya perkawinan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 388,
+                    "text": "tiap-tiap perkawinan dicatat menurut peraturan perundangan yang berlaku dan dicatat di KUA"
+                  }
+                ],
+                "id": "8",
+                "question": "Apa isi pasal 2 ayat 2?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 448,
+                    "text": "UU No 1 tahun 1974"
+                  }
+                ],
+                "id": "9",
+                "question": "Adakah pasal yang membahas hak dan kewajiban suami istri?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 448,
+                    "text": "UU No 1 tahun 1974"
+                  }
+                ],
+                "id": "10",
+                "question": "Pada pasal berapa hak dan kewajiban suami istri?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 472,
+                    "text": "saling cinta mencintai, hormat menghormati, setia, saling membantu lahir batin"
+                  }
+                ],
+                "id": "11",
+                "question": "Apa saja hak dan kewajiban suami istri?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 448,
+                    "text": "Hak dan kewajiban suami istri"
+                  }
+                ],
+                "id": "12",
+                "question": "Apa isi UU No 1 tahun 1974?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 558,
+                    "text": "kekerasan yang menyebabkan penderitaan fisik atau seksual"
+                  }
+                ],
+                "id": "13",
+                "question": "Apa yang dimaksud KDRT?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 596,
+                    "text": "UU RI No 23 Tahun 2004"
+                  }
+                ],
+                "id": "14",
+                "question": "Dimana hukum KDRT diatur?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 638,
+                    "text": "Pasal 5 UU No.23 Tahun 2004"
+                  }
+                ],
+                "id": "15",
+                "question": "Adakah pasal yang membahas larangan kekerasan fisik?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 638,
+                    "text": "Pasal 5 UU No.23 Tahun 2004"
+                  }
+                ],
+                "id": "16",
+                "question": "Pada pasal berapa larangan kekerasan fisik?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 596,
+                    "text": "UU RI No 23"
+                  }
+                ],
+                "id": "17",
+                "question": "Adakah UU yang membahas penghapusan kekerasan fisik?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 596,
+                    "text": "UU RI No 23"
+                  }
+                ],
+                "id": "18",
+                "question": "Sebutkan UU yang membahas penghapusan kekerasan fisik?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 596,
+                    "text": "tentang Penghapusan Kekerasan Dalam Rumah Tangga"
+                  }
+                ],
+                "id": "19",
+                "question": "Apa isi UU RI No 23?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 692,
+                    "text": "18"
+                  }
+                ],
+                "id": "20",
+                "question": "Berapa batasan usia anak di Indonesia?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 728,
+                    "text": "UU RI No 23 tahun 2002"
+                  }
+                ],
+                "id": "21",
+                "question": "Pada UU berapa yang membahas Perlindungan Anak?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 767,
+                    "text": "Pasal 26 UUPA"
+                  }
+                ],
+                "id": "22",
+                "question": "Adakah pasal yang membahas kewajiban orangtua terhadap anak?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 767,
+                    "text": "Pasal 26 UUPA"
+                  }
+                ],
+                "id": "23",
+                "question": "Pada pasal berapa yang membahas kewajiban orangtua terhadap anak?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 793,
+                    "text": "mengasuh, memelihara, mendidik, melindungi anak, sesuai bakat dan minatnya, serta mencegah perkawinan usia dini"
+                  }
+                ],
+                "id": "24",
+                "question": "Apa kewajiban orangtua terhadap anak?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 881,
+                    "text": "hak keberlangsungan hidup, hak perlindungan, hak tumbuh kembang dan hak partisipasi"
+                  }
+                ],
+                "id": "25",
+                "question": "Apa saja hak anak?"
+              }
+            ]
+          },{
+            "context": "Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri dan anak. Undang-Undang tentang Perkembangan Kependudukan dan Pembangunan terdapat pada UU No. 52 Tahun 2009. Tugas utama keluarga adalah memenuhi kebutuhan fisik, rohani, perkembangan, dan emosional anggota keluarganya. Pembangunan keluarga adalah upaya mewujudkan keluarga berkualitas yang hidup dalam lingkungan yang sehat, bahagia, dan sejahtera. Tujuan pembangunan keluarga untuk meningkatkan kualitas keluarga. Pembangunan keluarga dilakukan agar dapat timbul rasa aman, tenteram, dan harapan masa depan yang lebih baik. Pembangunan keluarga dapat dilakukan dengan membangun keharmonisan pasangan, mendukung perkembangan anak, mempersiapkan remaja, dan memberdayakan lansia. Mempersiapkan remaja dalam pembangunan keluarga adalah membangun ketahanan keluarga remaja dan kualitas remaja. Pembangunan keluarga berfungsi untuk memberdayakan lansia melalui kegiatan pemberdayaan ekonomi keluarga. Tujuan memberdayakan lansia adalah untuk mewujudkan kesejahteraan keluarga. Meningkatnya kualitas lansia dan pemberdayaan keluarga rentan sehingga mampu berperan dalam kehidupan keluarga.",
+            "qas": [
+              {
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri dan anak"
+                  }
+                ],
+                "id": "26",
+                "question": "Apa yang dimaksud dengan keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 0,
+                    "text": "Keluarga"
+                  }
+                ],
+                "id": "27",
+                "question": "Unit terkecil dalam masyarakat yang terdiri dari suami istri dan anak disebut?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 96,
+                    "text": "UU No. 52 Tahun 2009"
+                  }
+                ],
+                "id": "28",
+                "question": "Adakah UU yang mengatur perkembangan kependudukan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 96,
+                    "text": "UU No. 52 Tahun 2009"
+                  }
+                ],
+                "id": "29",
+                "question": "Pada Undang-Undang ke berapa yang membahas Perkembangan Kependudukan dan Pembangunan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 134,
+                    "text": "Perkembangan Kependudukan dan Pembangunan"
+                  }
+                ],
+                "id": "30",
+                "question": "Apa isi UU No. 52 Tahun 2009?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 134,
+                    "text": "Perkembangan Kependudukan dan Pembangunan"
+                  }
+                ],
+                "id": "31",
+                "question": "Apa yang dilindungi UU No. 52 Tahun 2009?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 173,
+                    "text": "memenuhi kebutuhan fisik, rohani, perkembangan, dan emosional anggota keluarganya"
+                  }
+                ],
+                "id": "32",
+                "question": "Apa tugas utama keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 173,
+                    "text": "keluarga"
+                  }
+                ],
+                "id": "33",
+                "question": "Memenuhi kebutuhan fisik, rohani, perkembangan, dan emosional anggota keluarganya adalah tugas utama dari?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 238,
+                    "text": "upaya mewujudkan keluarga berkualitas yang hidup dalam lingkungan yang sehat, bahagia, dan sejahtera"
+                  }
+                ],
+                "id": "34",
+                "question": "Apa yang dimaksud dengan pembangunan keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 238,
+                    "text": "Pembangunan keluarga"
+                  }
+                ],
+                "id": "35",
+                "question": "Upaya mewujudkan keluarga berkualitas yang hidup dalam lingkungan yang sehat, bahagia, dan sejahtera merupakan pengertian dari?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 238,
+                    "text": "Pembangunan keluarga"
+                  }
+                ],
+                "id": "36",
+                "question": "Upaya mewujudkan keluarga berkualitas yang hidup dalam lingkungan yang sehat, bahagia, dan sejahtera disebut?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 305,
+                    "text": "meningkatkan kualitas keluarga"
+                  }
+                ],
+                "id": "37",
+                "question": "Apa tujuan dari pembangunan keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 347,
+                    "text": "membangun keharmonisan pasangan, mendukung perkembangan anak, mempersiapkan remaja, dan memberdayakan lansia"
+                  }
+                ],
+                "id": "38",
+                "question": "Bagaimana cara melakukan pembangunan keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 347,
+                    "text": "membangun keharmonisan pasangan"
+                  }
+                ],
+                "id": "39",
+                "question": "Apa yang dimaksud dengan membangun keharmonisan pasangan dalam pembangunan keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 379,
+                    "text": "mendukung perkembangan anak"
+                  }
+                ],
+                "id": "40",
+                "question": "Bagaimana keluarga dapat mendukung perkembangan anak dalam pembangunan keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 396,
+                    "text": "membangun ketahanan keluarga remaja dan kualitas remaja"
+                  }
+                ],
+                "id": "41",
+                "question": "Apa yang dimaksud dengan mempersiapkan remaja dalam pembangunan keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 460,
+                    "text": "memberdayakan lansia"
+                  }
+                ],
+                "id": "42",
+                "question": "Apa fungsi pembangunan keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 460,
+                    "text": "memberdayakan lansia"
+                  }
+                ],
+                "id": "43",
+                "question": "Apa yang dilakukan dalam pembangunan keluarga untuk memberdayakan lansia?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 481,
+                    "text": "pemberdayaan ekonomi keluarga"
+                  }
+                ],
+                "id": "44",
+                "question": "Untuk apa kegiatan pemberdayaan ekonomi keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 407,
+                    "text": "membangun ketahanan keluarga remaja"
+                  }
+                ],
+                "id": "45",
+                "question": "Bagaimana membangun ketahanan keluarga remaja?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 238,
+                    "text": "Pembangunan keluarga"
+                  }
+                ],
+                "id": "46",
+                "question": "Keluarga berkualitas adalah perwujudan dari?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 509,
+                    "text": "untuk mewujudkan kesejahteraan keluarga"
+                  }
+                ],
+                "id": "47",
+                "question": "Apa tujuan dari memberdayakan lansia?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 574,
+                    "text": "kehidupan keluarga"
+                  }
+                ],
+                "id": "48",
+                "question": "Meningkatnya kualitas lansia dan pemberdayaan keluarga rentan mampu berperan pada?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 618,
+                    "text": "untuk mewujudkan kesejahteraan keluarga"
+                  }
+                ],
+                "id": "49",
+                "question": "Mengapa pembangunan keluarga perlu dilakukan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 349,
+                    "text": "timbul rasa aman, tenteram, dan harapan masa depan yang lebih baik"
+                  }
+                ],
+                "id": "50",
+                "question": "Timbul rasa aman, tenteram, dan harapan masa depan yang lebih baik adalah akibat dari melakukan?"
+              }
+            ]
+          },{
+            "context": "Penanaman nilai-nilai 8 fungsi keluarga mencakup agama, sosial-budaya, kasih sayang, perlindungan, reproduksi, sosial-pendidikan, ekonomi, dan lingkungan. Fungsi Agama adalah tempat pertama anak mengenal agama. Pasangan suami istri harus mengamalkan nilai-nilai agama seperti iman, jujur, kesalehan, dan kasih sayang. Iman yang dimaksud yaitu mengimani enam Rukun Iman. Jujur, yaitu menyampaikan apa adanya. Kesalehan adalah memiliki nilai moral yang tinggi dengan melakukan sesuatu yang benar secara konsisten. Kasih sayang, merupakan ungkapan perasaan dengan penuh perhatian, kesadaran dan kecintaan terhadap seseorang. Fungsi Sosial Budaya mencakup nilai gotong royong, sopan santun, kerukunan, peduli, kebersamaan, toleransi, dan kesadaran kebangsaan. Gotong royong adalah melakukan pekerjaan secara bersama-sama yang dilandasi oleh sukarela dan kekeluargaan. Sopan santun adalah perilaku seseorang yang sesuai dengan norma-norma sosial budaya setempat. Kerukunan adalah hidup berdampingan dalam keberagaman secara damai dan harmonis. Peduli adalah mendalami perasaan dan pengalaman orang lain. Kebersamaan adalah adanya perasaan bersatu, sependapat, dan sekepentingan. Toleransi adalah bersikap menghargai pendirian yang berbeda atau bertentangan dengan pendirian sendiri. Kebangsaan adalah kesadaran diri sebagai warga negara Indonesia yang harus menjunjung tinggi harkat dan martabat bangsa. Fungsi Cinta dan Kasih Sayang mencakup cinta dan kasih sayang, empati, keakraban, keadilan, pemaaf, kesetiaan, suka menolong, dan pengorbanan. Empati adalah memahami dan mengerti akan perasaan orang lain. Akrab adalah hubungan yang dilandasi oleh rasa kebersamaan dan kedekatan perasaan. Adil adalah memperlakukan orang lain dengan sikap tidak memihak. Pemaaf adalah dapat menerima kesalahan orang lain tanpa perasaan dendam. Setia maksudnya adalah setia terhadap kesepakatan. Suka menolong adalah tindakan suka membantu orang lain. Pengorbanan adalah kerelaan memberikan sebagian haknya untuk membantu orang lain. Fungsi Perlindungan Keluarga memberikan rasa aman dan tenang, tanggap terhadap situasi berbahaya, bertanggung jawab, siaga, dan menghindari kekerasan dalam rumah tangga. Fungsi Reproduksi adalah tujuan untuk memperoleh keturunan berkualitas. Nilai-nilai fungsi reproduksi meliputi tanggung jawab, kesehatan, dan keteguhan dalam menjaga kesucian dan kesetiaan. Fungsi Sosialisasi dan Pendidikan menjadikan orangtua sebagai pendidik utama. Nilai yang ditanamkan dalam fungsi sosialisasi dan Pendidikan adalah percaya diri, self-esteem, adaptif, rajin, kreatif, tanggung jawab, kerjasama, dan pembelajaran sepanjang hayat. Fungsi Ekonomi yaitu keluarga haruslah memenuhi kebutuhan materiil dengan nilai-nilai hemat, teliti, disiplin, ulet, dan menabung. Fungsi Lingkungan yaitu keluarga harus menjaga kebersihan dan kesehatan lingkungan. Nilai-nilai fungsi lingkungan meliputi bersih, disiplin, peduli, dan menghindari penggunaan berlebihan.",
+            "qas": [
+              {
+                "answers": [
+                  {
+                    "answer_start": 95,
+                    "text": "tempat pertama anak mengenal agama"
+                  }
+                ],
+                "id": "51",
+                "question": "Apa yang dimaksud fungsi agama?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 183,
+                    "text": "mengimani enam Rukun Iman"
+                  }
+                ],
+                "id": "52",
+                "question": "Apa yang dimaksud iman?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 211,
+                    "text": "menyampaikan apa adanya"
+                  }
+                ],
+                "id": "53",
+                "question": "Apa yang dimaksud jujur?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 247,
+                    "text": "memiliki nilai moral yang tinggi dengan melakukan sesuatu yang benar secara konsisten"
+                  }
+                ],
+                "id": "54",
+                "question": "Apa yang dimaksud keshalehan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 327,
+                    "text": "ungkapan perasaan dengan penuh perhatian, kesadaran dan kecintaan terhadap seseorang"
+                  }
+                ],
+                "id": "55",
+                "question": "Apa yang dimaksud kasih sayang?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 426,
+                    "text": "nilai gotong royong, sopan santun, kerukunan, peduli, kebersamaan, toleransi, dan kesadaran kebangsaan"
+                  }
+                ],
+                "id": "56",
+                "question": "Apa saja nilai dalam fungsi Sosial Budaya Keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 475,
+                    "text": "melakukan pekerjaan secara bersama-sama yang dilandasi oleh sukarela dan kekeluargaan"
+                  }
+                ],
+                "id": "57",
+                "question": "Apa yang dimaksud gotong royong?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 539,
+                    "text": "perilaku seseorang yang sesuai dengan norma-norma sosial budaya setempat"
+                  }
+                ],
+                "id": "58",
+                "question": "Sopan santun adalah?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 763,
+                    "text": "cinta dan kasih sayang, empati, keakraban, keadilan, pemaaf, kesetiaan, suka menolong, dan pengorbanan"
+                  }
+                ],
+                "id": "59",
+                "question": "Apa yang termasuk dalam fungsi Cinta dan Kasih Sayang Keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 753,
+                    "text": "kesadaran diri sebagai warga negara Indonesia yang harus menjunjung tinggi harkat dan martabat bangsa"
+                  }
+                ],
+                "id": "60",
+                "question": "Apa yang dimaksud cinta dan kasih sayang?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 807,
+                    "text": "memahami dan mengerti akan perasaan orang lain"
+                  }
+                ],
+                "id": "61",
+                "question": "Empati adalah?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 868,
+                    "text": "memperlakukan orang lain dengan sikap tidak memihak"
+                  }
+                ],
+                "id": "62",
+                "question": "Adil adalah?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 907,
+                    "text": "dapat menerima kesalahan orang lain tanpa perasaan dendam"
+                  }
+                ],
+                "id": "63",
+                "question": "Pemaaf adalah?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 970,
+                    "text": "tindakan suka membantu orang lain"
+                  }
+                ],
+                "id": "64",
+                "question": "Suka menolong adalah?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1027,
+                    "text": "kerelaan memberikan sebagian haknya untuk membantu orang lain"
+                  }
+                ],
+                "id": "65",
+                "question": "Pengorbanan adalah?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1160,
+                    "text": "tujuan untuk memperoleh keturunan berkualitas"
+                  }
+                ],
+                "id": "66",
+                "question": "Apa tujuan utama dari fungsi Reproduksi Keluarga?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1193,
+                    "text": "tanggung jawab, kesehatan, dan keteguhan dalam menjaga kesucian dan kesetiaan"
+                  }
+                ],
+                "id": "67",
+                "question": "Apa yang termasuk dalam nilai-nilai fungsi reproduksi?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1160,
+                    "text": "tujuan untuk memperoleh keturunan berkualitas"
+                  }
+                ],
+                "id": "68",
+                "question": "Apa tujuan dari fungsi reproduksi?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1263,
+                    "text": "percaya diri, self-esteem, adaptif, rajin, kreatif, tanggung jawab, kerjasama, dan pembelajaran sepanjang hayat"
+                  }
+                ],
+                "id": "69",
+                "question": "Apa nilai-nilai yang ditanamkan dalam fungsi Sosialisasi dan Pendidikan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1410,
+                    "text": "keluarga harus menjaga kebersihan dan kesehatan lingkungan"
+                  }
+                ],
+                "id": "70",
+                "question": "Apa yang termasuk dalam fungsi Lingkungan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1160,
+                    "text": "tujuan untuk memperoleh keturunan berkualitas"
+                  }
+                ],
+                "id": "71",
+                "question": "Apa itu Fungsi Reproduksi?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 666,
+                    "text": "bersikap menghargai pendirian yang berbeda atau bertentangan dengan pendirian sendiri"
+                  }
+                ],
+                "id": "72",
+                "question": "Apa yang dimaksud toleransi?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 907,
+                    "text": "dapat menerima kesalahan orang lain tanpa perasaan dendam"
+                  }
+                ],
+                "id": "73",
+                "question": "Apa yang dimaksud pemaaf?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1231,
+                    "text": "menjadikan orangtua sebagai pendidik utama"
+                  }
+                ],
+                "id": "74",
+                "question": "Apa itu fungsi sosialisasi dan pendidikan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 868,
+                    "text": "memperlakukan orang lain dengan sikap tidak memihak"
+                  }
+                ],
+                "id": "75",
+                "question": "Apa itu adil?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
