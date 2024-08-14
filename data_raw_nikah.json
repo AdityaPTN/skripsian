@@ -774,6 +774,264 @@
                 ]
               }
         ]
+      },{
+        "paragraphs": [
+          {
+            "context": "Perencanaan Persiapan Perkawinan meliputi persiapan Kesehatan, persiapan psikologi, persiapan keuangan, dan persiapan pemahaman hukum. Persiapan Kesehatan dari segi usia Ideal perkawinan yaitu 21 tahun untuk wanita dan 25 tahun untuk pria. Tujuan segi usia ideal menikah 21 untuk Wanita dan 25 untuk pria adalah untuk kesiapan emosional dan kesehatan. Akibat pernikahan dini adalah gangguan kesehatan mental, risiko penyakit seksual, komplikasi kehamilan, risiko psikologis, ekonomi, pendidikan, dan hukum. Pemeriksaan Kesehatan meliputi pemeriksaan umum, fisik, darah, penyakit turunan, dan penyakit menular. Imunisasinya meliputi TT, Hepatitis B, MMR, varisela, dan HPV. Persiapan psikologi adalah pengetahuan peran sebagai suami/istri, kemampuan komunikasi, negosiasi, dan manajemen konflik. Persiapan pemahaman hukum dalam pernikahan mencakup syarat sah perkawinan, pelaporan minimal 10 hari sebelum tanggal pernikahan, dan memastikan tidak ada halangan hukum seperti hubungan terlarang. Syarat Sah Perkawinan yaitu persetujuan kedua mempelai, hukum agama, usia cukup. Usia cukup menikah yaitu 18 tahun bagi wanita menurut UU Perlindungan Anak. Hal yang harus diperhatikan calon pengantin adalah usia pernikahan, membangun hubungan sosial yang baik, merencanakan kelahiran anak, berhenti melahirkan di usia 35 tahun, dan merawat anak balita dengan baik. Keluarga berkualitas adalah keluarga yang menanamkan harapan, memberikan teladan, nasihat, lingkungan aman, kebaikan, pujian, dan hukuman mendidik. Panduan usia yang cukup menikah menurut UU Perlindungan Anak adalah 18 tahun bagi wanita. Calon pengantin perlu memperhatikan kesiapan emosional, kesehatan, dan stabilitas finansial terkait usia pernikahan. Membangun hubungan sosial yang baik sebelum menikah penting untuk memahami diri sendiri dan orang lain lebih baik. Merencanakan kelahiran anak dalam persiapan pernikahan membantu mempersiapkan kebutuhan finansial dan emosional. Berhenti melahirkan di usia 35 tahun untuk mengurangi risiko komplikasi kehamilan dan kesehatan ibu. Merawat anak balita dengan baik membantu dalam pembentukan ikatan keluarga yang kuat dan kesejahteraan anak. Keluarga berkualitas adalah keluarga yang memberikan harapan, teladan, dan lingkungan yang aman serta memberikan pujian dan hukuman mendidik. Menanamkan harapan dalam keluarga penting untuk memberikan motivasi dan arah bagi anggota keluarga. Lingkungan yang aman membantu menciptakan rasa keamanan dan stabilitas bagi anggota keluarga. Pujian dan hukuman mendidik membantu dalam pembentukan perilaku dan karakter yang baik pada anggota keluarga. Usia ideal pernikahan terkait dengan kesiapan emosional dan kesehatan karena pada usia tersebut, seseorang dianggap lebih matang dan siap menghadapi tanggung jawab perkawinan. Gangguan kesehatan mental bisa terjadi pada pernikahan dini karena kurangnya kesiapan emosional dan pengalaman hidup yang belum matang. Pemeriksaan penyakit turunan dan penyakit menular penting untuk mencegah penularan penyakit dan memastikan kesehatan yang baik bagi kedua pasangan. Memahami peran sebagai suami/istri membantu pasangan memahami tanggung jawab dan ekspektasi dalam perkawinan. Kemampuan komunikasi, negosiasi, dan manajemen konflik membantu pasangan memecahkan masalah dan membangun hubungan yang sehat dan harmonis dalam pernikahan.",
+            "qas": [
+              {
+                "answers": [
+                  {
+                    "answer_start": 35,
+                    "text": "persiapan Kesehatan, persiapan psikologi, persiapan keuangan, dan persiapan pemahaman hukum"
+                  }
+                ],
+                "id": "76",
+                "question": "Apa yang termasuk dalam persiapan Perencanaan Persiapan Perkawinan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 90,
+                    "text": "21"
+                  }
+                ],
+                "id": "77",
+                "question": "Berapa usia ideal perkawinan bagi wanita?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 115,
+                    "text": "25"
+                  }
+                ],
+                "id": "78",
+                "question": "Berapa usia ideal perkawinan bagi pria?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 154,
+                    "text": "untuk kesiapan emosional dan kesehatan"
+                  }
+                ],
+                "id": "79",
+                "question": "Apa tujuan usia ideal untuk perkawinan adalah 21 tahun untuk wanita dan 25 tahun untuk pria?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 185,
+                    "text": "gangguan kesehatan mental, risiko penyakit seksual, komplikasi kehamilan, risiko psikologis, ekonomi, pendidikan, dan hukum"
+                  }
+                ],
+                "id": "80",
+                "question": "Apa akibat dari pernikahan dini?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 223,
+                    "text": "pemeriksaan umum, fisik, darah, penyakit turunan, dan penyakit menular"
+                  }
+                ],
+                "id": "81",
+                "question": "Apa saja yang dilakukan dalam pemeriksaan kesehatan sebagai bagian dari persiapan perkawinan/pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 285,
+                    "text": "TT, Hepatitis B, MMR, varisela, dan HPV"
+                  }
+                ],
+                "id": "82",
+                "question": "Apa imunisasi yang direkomendasikan dalam persiapan kesehatan untuk perkawinan/pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 328,
+                    "text": "pengetahuan peran sebagai suami/istri, kemampuan komunikasi, negosiasi, dan manajemen konflik"
+                  }
+                ],
+                "id": "83",
+                "question": "Apa yang dimaksud dalam persiapan psikologi?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 368,
+                    "text": "syarat sah perkawinan, pelaporan minimal 10 hari sebelum tanggal pernikahan, dan memastikan tidak ada halangan hukum seperti hubungan terlarang"
+                  }
+                ],
+                "id": "84",
+                "question": "Apa yang termasuk dalam persiapan pemahaman hukum untuk perkawinan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 450,
+                    "text": "persetujuan kedua mempelai, hukum agama, usia cukup"
+                  }
+                ],
+                "id": "85",
+                "question": "Apa yang menjadi syarat sah perkawinan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 487,
+                    "text": "18 tahun"
+                  }
+                ],
+                "id": "86",
+                "question": "Berapa usia cukup menikah?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 493,
+                    "text": "UU Perlindungan Anak"
+                  }
+                ],
+                "id": "87",
+                "question": "Apa yang menjadi panduan usia yang cukup untuk menikah menurut UU Perlindungan Anak?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 537,
+                    "text": "usia pernikahan, membangun hubungan sosial yang baik, merencanakan kelahiran anak, berhenti melahirkan di usia 35 tahun, dan merawat anak balita dengan baik"
+                  }
+                ],
+                "id": "88",
+                "question": "Apa yang harus diperhatikan oleh calon pengantin terkait usia pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 634,
+                    "text": "memahami diri sendiri dan orang lain lebih baik"
+                  }
+                ],
+                "id": "89",
+                "question": "Mengapa penting untuk membangun hubungan sosial yang baik sebelum menikah?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 670,
+                    "text": "membantu mempersiapkan kebutuhan finansial dan emosional"
+                  }
+                ],
+                "id": "90",
+                "question": "Mengapa direkomendasikan untuk merencanakan kelahiran anak dalam persiapan pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 710,
+                    "text": "mengurangi risiko komplikasi kehamilan dan kesehatan ibu"
+                  }
+                ],
+                "id": "91",
+                "question": "Mengapa penting untuk berhenti melahirkan di usia 35 tahun?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 751,
+                    "text": "membantu dalam pembentukan ikatan keluarga yang kuat dan kesejahteraan anak"
+                  }
+                ],
+                "id": "92",
+                "question": "Mengapa merawat anak balita dengan baik menjadi hal penting dalam persiapan pernikahan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 798,
+                    "text": "memberikan motivasi dan arah bagi anggota keluarga"
+                  }
+                ],
+                "id": "93",
+                "question": "Mengapa menanamkan harapan dalam keluarga dianggap penting?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 831,
+                    "text": "membantu menciptakan rasa keamanan dan stabilitas bagi anggota keluarga"
+                  }
+                ],
+                "id": "94",
+                "question": "Mengapa lingkungan yang aman merupakan elemen penting dalam keluarga berkualitas?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 873,
+                    "text": "membantu dalam pembentukan perilaku dan karakter yang baik pada anggota keluarga"
+                  }
+                ],
+                "id": "95",
+                "question": "Mengapa penting bagi keluarga untuk memberikan pujian dan hukuman mendidik?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 936,
+                    "text": "dengan kesiapan emosional dan kesehatan karena pada usia tersebut, seseorang dianggap lebih matang dan siap menghadapi tanggung jawab perkawinan"
+                  }
+                ],
+                "id": "96",
+                "question": "Bagaimana keterkaitan antara usia ideal pernikahan dengan kesiapan emosional dan kesehatan?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1014,
+                    "text": "karena kurangnya kesiapan emosional dan pengalaman hidup yang belum matang"
+                  }
+                ],
+                "id": "97",
+                "question": "Mengapa gangguan kesehatan mental dapat menjadi akibat dari pernikahan dini?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1065,
+                    "text": "kesiapan emosional, kesehatan, dan stabilitas finansial terkait usia pernikahan"
+                  }
+                ],
+                "id": "98",
+                "question": "Hal yang harus diperhatikan calon pengantin adalah?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1106,
+                    "text": "18 tahun"
+                  }
+                ],
+                "id": "99",
+                "question": "Panduan usia yang cukup menikah menurut UU Perlindungan Anak?"
+              },
+              {
+                "answers": [
+                  {
+                    "answer_start": 1144,
+                    "text": "memahami diri sendiri dan orang lain lebih baik"
+                  }
+                ],
+                "id": "100",
+                "question": "Membangun hubungan sosial yang baik sebelum menikah penting untuk?"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
