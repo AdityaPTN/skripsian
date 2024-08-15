@@ -1092,7 +1092,555 @@
                 ]
               }
             ]
-          }
+          },{
+  "paragraphs": [
+    {
+      "context": "Komponen-komponen yang diperlukan dalam penyusunan rencana keuangan keluarga adalah komponen pendapatan dan komponen pengeluaran. Pendapatan keluarga berasal dari gaji suami atau istri dan pendapatan tambahan lainnya. Pengeluaran keluarga terbagi 2 pengeluaran. Pengeluaran keluarga terbagi menjadi wajib dan tambahan. Pengeluaran Wajib adalah yang berkaitan dengan kebutuhan utama. Pengeluaran tambahan bersifat insidental. Kiat penting untuk mengelola keuangan keluarga dengan baik yaitu pahami dengan baik kondisi keuangan keluarga, lakukan pengeluaran sesuai rencana, beri kepercayaan kepada pengelola keuangan keluarga, diskusikan masalah keuangan yang dihadapi, bedakan antara kebutuhan dan keinginan. Penyusunan rencana keuangan keluarga memerlukan pemahaman yang baik tentang kondisi finansial, mencatat pendapatan secara rinci, termasuk pendapatan tambahan dari investasi atau usaha sampingan. Pengeluaran keluarga dibagi menjadi wajib dan tambahan. Pengeluaran wajib mencakup biaya pokok seperti makanan dan tempat tinggal. Pengeluaran tambahan bersifat insidental seperti liburan atau hiburan. Pentingnya membedakan antara kebutuhan dan keinginan adalah untuk menghindari pemborosan dan memprioritaskan pengeluaran yang lebih penting. Menyusun rencana pengeluaran memerlukan pembuatan anggaran bulanan yang mencakup semua aspek pengeluaran keluarga. Diskusi terbuka mengenai masalah keuangan dapat meningkatkan kesadaran dan transparansi di antara anggota keluarga. Memberikan kepercayaan pada pengelola keuangan keluarga dengan menetapkan peran yang jelas dan mendukung keputusan-keputusan mereka. Jika pengeluaran melebihi pendapatan, langkah yang dapat diambil termasuk mengurangi pengeluaran tak perlu dan mencari sumber pendapatan tambahan. Dengan mengelola keuangan sesuai rencana, dapat menjaga kestabilan finansial dan menghindari masalah utang. Identifikasi kebutuhan dan keinginan penting untuk menetapkan prioritas pengeluaran yang tepat. Kesadaran akan dampak dari tidak mengelola keuangan keluarga dengan baik dapat mencegah timbulnya masalah finansial yang serius. Evaluasi kondisi keuangan saat ini merupakan langkah awal dalam menyusun rencana keuangan keluarga. Sementara menyisihkan sebagian pendapatan untuk dana darurat adalah strategi penting untuk menghadapi keadaan darurat yang tak terduga.",
+      "qas": [
+        {
+          "id": "160",
+          "question": "Apa saja Komponen-komponen yang diperlukan dalam penyusunan rencana keuangan keluarga?",
+          "answers": [
+            {
+              "text": "komponen pendapatan dan komponen pengeluaran",
+              "answer_start": 60
+            }
+          ]
+        },
+        {
+          "id": "161",
+          "question": "Pendapatan keluarga berasal dari mana?",
+          "answers": [
+            {
+              "text": "gaji suami atau istri dan pendapatan tambahan lainnya",
+              "answer_start": 122
+            }
+          ]
+        },
+        {
+          "id": "162",
+          "question": "Ada berapa pengeluaran keluarga?",
+          "answers": [
+            {
+              "text": "2 pengeluaran",
+              "answer_start": 193
+            }
+          ]
+        },
+        {
+          "id": "163",
+          "question": "Apa saja pengeluaran keluarga?",
+          "answers": [
+            {
+              "text": "wajib dan tambahan",
+              "answer_start": 233
+            }
+          ]
+        },
+        {
+          "id": "164",
+          "question": "Pengeluaran wajib adalah?",
+          "answers": [
+            {
+              "text": "yang berkaitan dengan kebutuhan utama",
+              "answer_start": 277
+            }
+          ]
+        },
+        {
+          "id": "165",
+          "question": "Pengeluaran tambahan bersifat?",
+          "answers": [
+            {
+              "text": "insidental",
+              "answer_start": 328
+            }
+          ]
+        },
+        {
+          "id": "166",
+          "question": "Apa saja Kiat penting untuk mengelola keuangan keluarga dengan baik?",
+          "answers": [
+            {
+              "text": "pahami dengan baik kondisi keuangan keluarga, lakukan pengeluaran sesuai rencana, beri kepercayaan kepada pengelola keuangan keluarga, diskusikan masalah keuangan yang dihadapi, bedakan antara kebutuhan dan keinginan",
+              "answer_start": 351
+            }
+          ]
+        },
+        {
+          "id": "167",
+          "question": "Mengapa penting memahami kondisi keuangan keluarga?",
+          "answers": [
+            {
+              "text": "Penyusunan rencana keuangan",
+              "answer_start": 648
+            }
+          ]
+        },
+        {
+          "id": "168",
+          "question": "Apa yang termasuk dalam pendapatan tambahan lainnya?",
+          "answers": [
+            {
+              "text": "investasi atau usaha sampingan",
+              "answer_start": 724
+            }
+          ]
+        },
+        {
+          "id": "169",
+          "question": "Apa contoh-contoh pengeluaran wajib dalam keluarga?",
+          "answers": [
+            {
+              "text": "biaya pokok seperti makanan dan tempat tinggal",
+              "answer_start": 826
+            }
+          ]
+        },
+        {
+          "id": "170",
+          "question": "Apa contoh-contoh pengeluaran tambahan dalam keluarga?",
+          "answers": [
+            {
+              "text": "liburan atau hiburan",
+              "answer_start": 909
+            }
+          ]
+        },
+        {
+          "id": "171",
+          "question": "Mengapa penting membedakan antara kebutuhan dan keinginan?",
+          "answers": [
+            {
+              "text": "untuk menghindari pemborosan dan memprioritaskan pengeluaran yang lebih penting",
+              "answer_start": 974
+            }
+          ]
+        },
+        {
+          "id": "172",
+          "question": "Bagaimana cara menyusun rencana pengeluaran keluarga?",
+          "answers": [
+            {
+              "text": "memerlukan pembuatan anggaran bulanan yang mencakup semua aspek pengeluaran keluarga.",
+              "answer_start": 1060
+            }
+          ]
+        },
+        {
+          "id": "173",
+          "question": "Apa manfaat mendiskusikan masalah keuangan dengan keluarga?",
+          "answers": [
+            {
+              "text": "dapat meningkatkan kesadaran dan transparansi di antara anggota keluarga",
+              "answer_start": 1136
+            }
+          ]
+        },
+        {
+          "id": "174",
+          "question": "Bagaimana cara memberi kepercayaan kepada pengelola keuangan keluarga?",
+          "answers": [
+            {
+              "text": "menetapkan peran yang jelas dan mendukung keputusan-keputusan mereka",
+              "answer_start": 1222
+            }
+          ]
+        },
+        {
+          "id": "175",
+          "question": "Apa yang dimaksud dengan kebutuhan utama dalam pengeluaran wajib?",
+          "answers": [
+            {
+              "text": "makanan dan tempat tinggal",
+              "answer_start": 1348
+            }
+          ]
+        },
+        {
+          "id": "176",
+          "question": "Bagaimana cara mengelola pengeluaran insidental dengan baik?",
+          "answers": [
+            {
+              "text": "mengurangi pengeluaran tak perlu dan mencari sumber pendapatan tambahan",
+              "answer_start": 1378
+            }
+          ]
+        },
+        {
+          "id": "177",
+          "question": "Mengapa penting untuk melakukan pengeluaran sesuai rencana?",
+          "answers": [
+            {
+              "text": "dapat menjaga kestabilan finansial dan menghindari masalah utang",
+              "answer_start": 1478
+            }
+          ]
+        },
+        {
+          "id": "178",
+          "question": "Kesadaran akan dampak dari tidak mengelola keuangan keluarga dengan baik dapat mencegah?",
+          "answers": [
+            {
+              "text": "timbulnya masalah finansial yang serius",
+              "answer_start": 1547
+            }
+          ]
+        },
+        {
+          "id": "179",
+          "question": "Diskusi terbuka mengenai masalah keuangan dapat meningkatkan?",
+          "answers": [
+            {
+              "text": "kesadaran dan transparansi di antara anggota keluarga",
+              "answer_start": 1597
+            }
+          ]
+        },
+        {
+          "id": "180",
+          "question": "Pengeluaran keluarga dibagi menjadi apa saja?",
+          "answers": [
+            {
+              "text": "wajib dan tambahan",
+              "answer_start": 1643
+            }
+          ]
+        },
+        {
+          "id": "181",
+          "question": "Apa yang berkaitan dengan pengeluaran wajib?",
+          "answers": [
+            {
+              "text": "makanan dan tempat tinggal",
+              "answer_start": 1687
+            }
+          ]
+        },
+        {
+          "id": "182",
+          "question": "Apa pentingnya membedakan antara kebutuhan dan keinginan?",
+          "answers": [
+            {
+              "text": "untuk menghindari pemborosan dan memprioritaskan pengeluaran yang lebih penting",
+              "answer_start": 974
+            }
+          ]
+        },
+        {
+          "id": "183",
+          "question": "Apa sifat dari pengeluaran tambahan?",
+          "answers": [
+            {
+              "text": "insidental",
+              "answer_start": 328
+            }
+          ]
+        },
+        {
+          "id": "184",
+          "question": "Pendapatan keluarga berasal dari?",
+          "answers": [
+            {
+              "text": "gaji suami atau istri dan pendapatan tambahan lainnya",
+              "answer_start": 122
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+,{
+  "paragraphs": [
+    {
+      "context": "Konflik adalah pertentangan antara kebutuhan atau tujuan yang berbeda. Manajemen konflik adalah kemampuan mengelola konflik secara tepat. Tujuan manajemen konflik untuk menjaga kesehatan mental dan keharmonisan keluarga. Pemicu konflik suami istri yaitu kurangnya saling pengertian, percaya, terbuka, komunikasi yang efektif, dan menghargai satu sama lain.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": 16,
+              "text": "pertentangan antara kebutuhan atau tujuan yang berbeda"
+            }
+          ],
+          "id": "130",
+          "question": "Apa yang dimaksud dengan konflik?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 70,
+              "text": "kemampuan mengelola konflik secara tepat"
+            }
+          ],
+          "id": "131",
+          "question": "Apa itu manajemen konflik?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 124,
+              "text": "menjaga kesehatan mental dan keharmonisan keluarga"
+            }
+          ],
+          "id": "132",
+          "question": "Apa tujuan dari manajemen konflik?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 186,
+              "text": "kurangnya saling pengertian, percaya, terbuka, komunikasi yang efektif, dan menghargai satu sama lain"
+            }
+          ],
+          "id": "133",
+          "question": "Apa yang menjadi pemicu konflik suami istri?"
+        }
+      ]
+    },
+    {
+      "context": "Sumber konflik dalam keluarga meliputi faktor penghasilan, anak, keluarga besar, hubungan seksual, keyakinan/agama, dan komunikasi. Manajemen konflik keluarga mencakup pencegahan sebelum menikah, penyelesaian konflik saat terjadi, dan pemeliharaan hubungan setelah konflik teratasi.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": 0,
+              "text": "faktor penghasilan, anak, keluarga besar, hubungan seksual, keyakinan/agama, dan komunikasi"
+            }
+          ],
+          "id": "134",
+          "question": "Apa saja sumber konflik dalam keluarga?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 105,
+              "text": "pencegahan sebelum menikah, penyelesaian konflik saat terjadi, dan pemeliharaan hubungan setelah konflik teratasi"
+            }
+          ],
+          "id": "135",
+          "question": "Manajemen konflik mencakup apa saja?"
+        }
+      ]
+    },
+    {
+      "context": "Ada 3 tahapan untuk manajemen konflik. Tahap pertama mengidentifikasi sumber konflik potensial dan komitmen untuk mengatasinya. Tahap kedua mencari solusi dengan berkomunikasi atau melibatkan bantuan profesional. Tahap ketiga adalah menjaga komunikasi efektif dan keseimbangan emosional setelah konflik teratasi.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": 0,
+              "text": "Ada 3 tahapan"
+            }
+          ],
+          "id": "136",
+          "question": "Ada berapa tahapan untuk manajemen konflik?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 55,
+              "text": "mengidentifikasi sumber konflik potensial dan komitmen untuk mengatasinya"
+            }
+          ],
+          "id": "137",
+          "question": "Apa tahap pertama dari tahapan manajemen konflik?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 122,
+              "text": "mencari solusi dengan berkomunikasi atau melibatkan bantuan profesional"
+            }
+          ],
+          "id": "138",
+          "question": "Apa tahap kedua dari tahapan manajemen konflik?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 196,
+              "text": "menjaga komunikasi efektif dan keseimbangan emosional setelah konflik teratasi"
+            }
+          ],
+          "id": "139",
+          "question": "Apa tahap ketiga dari tahapan manajemen konflik?"
+        }
+      ]
+    },
+    {
+      "context": "Gaya mengelola konflik memiliki beragam pendekatan. Pertama, gaya kura-kura cenderung menghindari konfrontasi dengan menarik diri dari situasi. Persamaan gaya kura-kura dengan perilaku kura-kura adalah keduanya cenderung menarik diri dari situasi yang sulit. Cara orang yang menggunakan gaya kura-kura cenderung menghindari konfrontasi dan masalah. keyakinan orang yang menggunakan gaya kura-kura terhadap usaha memecahkan konflik adalah usaha memecahkan konflik sia-sia dan lebih baik menghindar. Dampak fisik gaya kura-kura dapat menyebabkan isolasi dan stres mental.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": 58,
+              "text": "cenderung menghindari konfrontasi dengan menarik diri dari situasi"
+            }
+          ],
+          "id": "140",
+          "question": "Bagaimana gaya kura-kura dalam mengelola konflik?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 113,
+              "text": "keduanya cenderung menarik diri dari situasi yang sulit"
+            }
+          ],
+          "id": "141",
+          "question": "Apa persamaan antara gaya kura-kura dan perilaku kura-kura sebenarnya?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 175,
+              "text": "cenderung menghindari konfrontasi dan masalah"
+            }
+          ],
+          "id": "142",
+          "question": "Bagaimana orang yang menggunakan gaya kura-kura menyelesaikan konflik?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 238,
+              "text": "usaha memecahkan konflik sia-sia dan lebih baik menghindar"
+            }
+          ],
+          "id": "143",
+          "question": "Apa keyakinan orang yang menggunakan gaya kura-kura terhadap usaha memecahkan konflik?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 297,
+              "text": "dapat menyebabkan isolasi dan stres mental"
+            }
+          ],
+          "id": "144",
+          "question": "Apa dampak fisik dan psikologis dari gaya kura-kura dalam menangani konflik?"
+        }
+      ]
+    },
+    {
+      "context": "Gaya ikan hiu adalah menekankan kemenangan pribadi dengan menyerang dan mengalahkan pihak lain. Cara menyelesaikan konflik dengan gaya ikan hiu adalah dengan menyerang dan mengalahkan pihak lain untuk memenangkan konflik. Prioritas yang menggunakan gaya ini adalah keuntungan pribadi. Pandangan individu yang menggunakan gaya ikan hiu terhadap hubungan dengan pihak lain tidak penting bagi mereka. Kemenangan gaya ikan hiu berarti menang dan membuat pihak lain kalah.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": 15,
+              "text": "menekankan kemenangan pribadi dengan menyerang dan mengalahkan pihak lain"
+            }
+          ],
+          "id": "145",
+          "question": "Apa yang dimaksud dengan gaya ikan hiu dalam mengelola konflik?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 78,
+              "text": "dengan menyerang dan mengalahkan pihak lain untuk memenangkan konflik"
+            }
+          ],
+          "id": "146",
+          "question": "Bagaimana cara menyelesaikan konflik dengan gaya ikan hiu?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 136,
+              "text": "keuntungan pribadi"
+            }
+          ],
+          "id": "147",
+          "question": "Apa yang menjadi prioritas bagi individu yang menggunakan gaya ikan hiu?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 181,
+              "text": "hubungan dengan pihak lain tidak penting bagi mereka"
+            }
+          ],
+          "id": "148",
+          "question": "Bagaimana pandangan individu yang menggunakan gaya ikan hiu terhadap hubungan dengan pihak lain?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 232,
+              "text": "menang dan membuat pihak lain kalah"
+            }
+          ],
+          "id": "149",
+          "question": "Apa arti kemenangan dalam konteks gaya ikan hiu?"
+        }
+      ]
+    },
+    {
+      "context": "Gaya kancil adalah mengutamakan hubungan dengan pihak lain dengan menghindari masalah. Cara menyelesaikan masalah gaya kancil adalah dengan menghindari masalah untuk menjaga perdamaian. Fokus utama gaya kancil adalah menjaga hubungan baik dengan pihak lain. Cara penyelesaian konflik dalam gaya kancil mendahulukan kerukunan.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": 13,
+              "text": "mengutamakan hubungan dengan pihak lain dengan menghindari masalah"
+            }
+          ],
+          "id": "150",
+          "question": "Apa yang dimaksud dengan gaya kancil dalam mengelola konflik?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 70,
+              "text": "dengan menghindari masalah untuk menjaga perdamaian"
+            }
+          ],
+          "id": "151",
+          "question": "Bagaimana cara menyelesaikan konflik dengan gaya kancil?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 130,
+              "text": "menjaga hubungan baik dengan pihak lain"
+            }
+          ],
+          "id": "152",
+          "question": "Apa yang menjadi fokus utama bagi individu yang menggunakan gaya kancil?"
+        },
+        {
+          "answers": [
+            {
+              "answer_start": 183,
+              "text": "mendahulukan kerukunan"
+            }
+          ],
+          "id": "153",
+          "question": "Bagaimana cara penyelesaian konflik dalam gaya kancil memprioritaskan hubungan?"
+        }
+      ]
+    },
+    {
+      "context": "Gaya rubah adalah menekankan kompromi untuk mencapai tujuan pribadi dan menjaga hubungan baik. Cara menekan kompromi gaya rubah adalah dengan mencari solusi tengah yang memuaskan kedua belah pihak. Perhatian utama gaya rubah adalah mencapai kesepakatan yang menguntungkan semua pihak. Pentingnya hubungan dengan pihak lain pada gaya rubah adalah untuk menjaga kolaborasi dan kerjasama.",
+      "qas": [
+        {
+          "answers": [
+            {
+              "answer_start": 0,
+              "text": "menekankan kompromi untuk mencapai tujuan pribadi dan menjaga hubungan baik"
+            }
+          ],
+          "id": "154",
+          "question": "Apa yang dimaksud dengan gaya rubah dalam mengelola konflik?"
+        }
+      ]
+    }
+  ]
+}
+
           
     ]
   }
